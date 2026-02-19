@@ -9,12 +9,7 @@ const questionsRoutes = require("./routes/questions.routes"); // Add this
 
 app.use(
   cors({
-    origin: [
-      "https://examgod-frontend.onrender.com", // Render frontend
-      "http://localhost:5173", // Local dev
-      "http://localhost:3000",
-      "*",
-    ],
+    origin: "https://examgod-frontend.onrender.com",
     credentials: true,
   }),
 );

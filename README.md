@@ -289,12 +289,6 @@ This project is for educational purposes.
 - MongoDB for caching and performance
 - React and Vite for modern frontend development
 
-## 📞 Support
-
-For issues and questions:
-- Check the [CONNECTION_GUIDE.md](CONNECTION_GUIDE.md)
-- Review the troubleshooting section above
-- Open an issue on GitHub
 
 ---
 
