@@ -1,0 +1,987 @@
+{
+  "subject": "physics",
+  "class": 12,
+  "chapters": [
+    {
+      "chapter": "Semiconductor Electronics",
+      "topics": [
+        {
+          "name": "Energy Band Diagram",
+          "appearances": [
+            {
+              "year": 2022,
+              "marks": 2
+            }
+          ]
+        },
+        {
+          "name": "Rectification",
+          "appearances": [
+            {
+              "year": 2022,
+              "marks": 2
+            }
+          ]
+        },
+        {
+          "name": "LED",
+          "appearances": [
+            {
+              "year": 2022,
+              "marks": 3
+            }
+          ]
+        },
+        {
+          "name": "Rectifier",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 1
+            },
+            {
+              "year": 2024,
+              "marks": 4
+            }
+          ]
+        },
+        {
+          "name": "p-type Semiconductor",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Energy Bands",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Semiconductors",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 2
+            }
+          ]
+        },
+        {
+          "name": "Potential Barrier",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 2
+            }
+          ]
+        },
+        {
+          "name": "Doping",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 1
+            },
+            {
+              "year": 2025,
+              "marks": 3
+            }
+          ]
+        },
+        {
+          "name": "V-I Characteristics",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 2
+            }
+          ]
+        },
+        {
+          "name": "p-n Junction Diode",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Formation of p-n Junction",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Diode Characteristics",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Atoms / Dual Nature",
+      "topics": [
+        {
+          "name": "Alpha Scattering / Photoelectric Effect",
+          "appearances": [
+            {
+              "year": 2022,
+              "marks": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Nuclei",
+      "topics": [
+        {
+          "name": "Distance of Closest Approach",
+          "appearances": [
+            {
+              "year": 2022,
+              "marks": 3
+            }
+          ]
+        },
+        {
+          "name": "Nuclear Energy",
+          "appearances": [
+            {
+              "year": 2022,
+              "marks": 3
+            }
+          ]
+        },
+        {
+          "name": "Nuclear Density",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 1
+            },
+            {
+              "year": 2024,
+              "marks": 3
+            }
+          ]
+        },
+        {
+          "name": "Binding Energy Curve",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Mass Defect",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Ray Optics",
+      "topics": [
+        {
+          "name": "Refraction at Spherical Surface",
+          "appearances": [
+            {
+              "year": 2022,
+              "marks": 3
+            }
+          ]
+        },
+        {
+          "name": "Total Internal Reflection",
+          "appearances": [
+            {
+              "year": 2022,
+              "marks": 3
+            },
+            {
+              "year": 2023,
+              "marks": 4
+            }
+          ]
+        },
+        {
+          "name": "Mirror Formula",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 1
+            },
+            {
+              "year": 2024,
+              "marks": 2
+            }
+          ]
+        },
+        {
+          "name": "Mirror Image Formation",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Refraction / Lens Maker Formula",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 2
+            }
+          ]
+        },
+        {
+          "name": "Lens Combination",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 4
+            }
+          ]
+        },
+        {
+          "name": "Apparent Depth",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Refraction",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 2
+            }
+          ]
+        },
+        {
+          "name": "Lens Formula",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Wave Optics",
+      "topics": [
+        {
+          "name": "Diffraction / Lens Combination",
+          "appearances": [
+            {
+              "year": 2022,
+              "marks": 3
+            }
+          ]
+        },
+        {
+          "name": "Young’s Double Slit Experiment",
+          "appearances": [
+            {
+              "year": 2022,
+              "marks": 5
+            }
+          ]
+        },
+        {
+          "name": "Wavefront",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Huygens Principle / Telescope",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 2
+            }
+          ]
+        },
+        {
+          "name": "Interference",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 2
+            }
+          ]
+        },
+        {
+          "name": "Interference / Refraction",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 5
+            }
+          ]
+        },
+        {
+          "name": "Prism / Interference",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 5
+            }
+          ]
+        },
+        {
+          "name": "Diffraction / Interference",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Dual Nature of Radiation and Matter",
+      "topics": [
+        {
+          "name": "Photoelectric Effect",
+          "appearances": [
+            {
+              "year": 2022,
+              "marks": 3
+            },
+            {
+              "year": 2023,
+              "marks": 3
+            },
+            {
+              "year": 2024,
+              "marks": 1
+            },
+            {
+              "year": 2025,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "de Broglie Wavelength",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 2
+            },
+            {
+              "year": 2025,
+              "marks": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Electromagnetic Waves",
+      "topics": [
+        {
+          "name": "Refraction / EM Spectrum",
+          "appearances": [
+            {
+              "year": 2022,
+              "marks": 3
+            }
+          ]
+        },
+        {
+          "name": "Displacement Current",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 1
+            },
+            {
+              "year": 2024,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Maxwell’s Displacement Current",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 2
+            }
+          ]
+        },
+        {
+          "name": "Applications",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 3
+            }
+          ]
+        },
+        {
+          "name": "EM Spectrum",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Electrostatics",
+      "topics": [
+        {
+          "name": "Electric Dipole – Axial Field",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Electric Potential",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 3
+            }
+          ]
+        },
+        {
+          "name": "Coulomb Law / Dipole",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 5
+            }
+          ]
+        },
+        {
+          "name": "Electric Field due to Ring",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Gauss Law",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 3
+            }
+          ]
+        },
+        {
+          "name": "Electric Dipole",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 5
+            }
+          ]
+        },
+        {
+          "name": "Coulomb’s Law",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Electric Field and Potential",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Current Electricity",
+      "topics": [
+        {
+          "name": "Temperature Dependence of Resistance",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Internal Resistance",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 1
+            },
+            {
+              "year": 2025,
+              "marks": 2
+            }
+          ]
+        },
+        {
+          "name": "Drift Velocity",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Kirchhoff’s Laws",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 4
+            },
+            {
+              "year": 2024,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Temperature Coefficient of Resistance",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 2
+            }
+          ]
+        },
+        {
+          "name": "Current Density / Wheatstone Bridge",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 3
+            }
+          ]
+        },
+        {
+          "name": "Resistance and Resistivity",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Cells in Parallel / Drift Velocity",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 3
+            }
+          ]
+        },
+        {
+          "name": "RC Circuit",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Magnetism and Matter",
+      "topics": [
+        {
+          "name": "Magnetic Materials",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Magnetic Properties",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Electromagnetic Induction",
+      "topics": [
+        {
+          "name": "Maximum Induced EMF",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Motional EMF",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Mutual Inductance",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 3
+            },
+            {
+              "year": 2024,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Induced Charge",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Self Inductance",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Lenz’s Law",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Energy in Inductor",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Atoms",
+      "topics": [
+        {
+          "name": "Bohr Model",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 1
+            },
+            {
+              "year": 2024,
+              "marks": 3
+            },
+            {
+              "year": 2025,
+              "marks": 2
+            }
+          ]
+        },
+        {
+          "name": "Hydrogen Spectrum",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 1
+            },
+            {
+              "year": 2024,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Bohr Energy Levels",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 2
+            }
+          ]
+        },
+        {
+          "name": "Bohr Model Energy",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Moving Charges and Magnetism",
+      "topics": [
+        {
+          "name": "Motion in Magnetic Field",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 2
+            },
+            {
+              "year": 2024,
+              "marks": 3
+            }
+          ]
+        },
+        {
+          "name": "Biot-Savart / Magnetic Force",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 5
+            }
+          ]
+        },
+        {
+          "name": "Magnetic Force on Loop",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Force on Current Carrying Conductor",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Conversion of Galvanometer to Ammeter",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Force Between Parallel Wires",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Magnetic Force on Current Element",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Galvanometer",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Biot-Savart Law",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Alternating Current",
+      "topics": [
+        {
+          "name": "LCR Circuit",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 3
+            },
+            {
+              "year": 2024,
+              "marks": 3
+            }
+          ]
+        },
+        {
+          "name": "Capacitive Reactance",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Impedance / Transformer",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 5
+            }
+          ]
+        },
+        {
+          "name": "Average Power",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Displacement Current",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Atoms / Nuclei",
+      "topics": [
+        {
+          "name": "Hydrogen Spectrum / Binding Energy",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Capacitance",
+      "topics": [
+        {
+          "name": "Energy Stored in Capacitor",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Dual Nature / Nuclei",
+      "topics": [
+        {
+          "name": "Photoelectric / Binding Energy",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Mixed",
+      "topics": [
+        {
+          "name": "As per Paper",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

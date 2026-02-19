@@ -1,0 +1,308 @@
+{
+  "meta": {
+    "year": 2025,
+    "series": "XYW1Z",
+    "set": "Set-1",
+    "qpCode": "55/1/1",
+    "subject": "Physics (Theory)",
+    "class": 12,
+    "timeAllowed": "3 Hours",
+    "maximumMarks": 70,
+    "totalQuestions": 33,
+    "sections": ["A", "B", "C", "D", "E"]
+  },
+  "sections": [
+    {
+      "section": "A",
+      "type": "MCQ",
+      "marksPerQuestion": 1,
+      "questions": [
+        {
+          "qno": 1,
+          "questionText": "Figure shows variation of Coulomb force (F) acting between two point charges (q1, q2) and (q2, q3). If q2 is positive and least in magnitude, then the magnitudes of q1, q2 and q3 are such that...",
+          "chapter": "Electrostatics",
+          "topic": "Coulomb’s Law",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 2,
+          "questionText": "Two wires P and Q are made of same material. Wire Q has twice diameter and half length of wire P. If resistance of P is R, find resistance of Q.",
+          "chapter": "Current Electricity",
+          "topic": "Resistance and Resistivity",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 3,
+          "questionText": "A 1 cm segment of a wire lying along x-axis carries current 0.5 A along +x direction. Magnetic field B = (0.4 mT)i + (0.6 mT)k is switched on. Find force acting on segment.",
+          "chapter": "Moving Charges and Magnetism",
+          "topic": "Magnetic Force on Current Element",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 4,
+          "questionText": "A coil has 100 turns, each of area 0.05 m² and resistance 1.5 Ω. It is inserted in magnetic field 0.9 mT parallel to axis. Find induced charge.",
+          "chapter": "Electromagnetic Induction",
+          "topic": "Induced Charge",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 5,
+          "questionText": "Design an air-filled solenoid of inductance 0.016 H having length 0.81 m and radius 0.02 m. Find number of turns.",
+          "chapter": "Electromagnetic Induction",
+          "topic": "Self Inductance",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 6,
+          "questionText": "A voltage V = V0 sin ωt is applied to a circuit driving current I = I0 sin (ωt + φ). The average power over a cycle is...",
+          "chapter": "Alternating Current",
+          "topic": "Average Power",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 7,
+          "questionText": "The diagram shows relation between wavelength of electromagnetic waves and photon energy. Identify P, Q and R.",
+          "chapter": "Electromagnetic Waves",
+          "topic": "EM Spectrum",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 8,
+          "questionText": "A beaker is filled with water (μ = 4/3) up to height H. A coin is placed at bottom. Find apparent depth when viewed normally.",
+          "chapter": "Ray Optics",
+          "topic": "Apparent Depth",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 9,
+          "questionText": "Stopping potential V0 measured in photoelectric experiment plotted against frequency. If slope is m, find charge of electron.",
+          "chapter": "Dual Nature of Radiation and Matter",
+          "topic": "Photoelectric Effect",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 10,
+          "questionText": "Let λe, λp and λd be wavelengths associated with electron, proton and deuteron moving with same speed. Find correct relation.",
+          "chapter": "Dual Nature of Radiation and Matter",
+          "topic": "de Broglie Wavelength",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 11,
+          "questionText": "Which of the following figures correctly represents binding energy per nucleon as a function of mass number?",
+          "chapter": "Nuclei",
+          "topic": "Binding Energy Curve",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 12,
+          "questionText": "When a p-n junction diode is forward biased...",
+          "chapter": "Semiconductor Electronics",
+          "topic": "p-n Junction Diode",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 13,
+          "questionText": "Assertion-Reason: It is difficult to move a magnet into a coil of closed circuit because induced current opposes motion.",
+          "chapter": "Electromagnetic Induction",
+          "topic": "Lenz’s Law",
+          "marks": 1,
+          "questionType": "Assertion-Reason"
+        },
+        {
+          "qno": 14,
+          "questionText": "Assertion-Reason: Deflection in galvanometer proportional to current passing through it.",
+          "chapter": "Moving Charges and Magnetism",
+          "topic": "Galvanometer",
+          "marks": 1,
+          "questionType": "Assertion-Reason"
+        },
+        {
+          "qno": 15,
+          "questionText": "Assertion-Reason: Cannot form p-n junction by physically joining p-type and n-type slabs.",
+          "chapter": "Semiconductor Electronics",
+          "topic": "Formation of p-n Junction",
+          "marks": 1,
+          "questionType": "Assertion-Reason"
+        },
+        {
+          "qno": 16,
+          "questionText": "Assertion-Reason: Total energy of electron in hydrogen atom is negative.",
+          "chapter": "Atoms",
+          "topic": "Bohr Model Energy",
+          "marks": 1,
+          "questionType": "Assertion-Reason"
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "type": "VSA",
+      "marksPerQuestion": 2,
+      "questions": [
+        {
+          "qno": 17,
+          "questionText": "Battery of emf E and internal resistance r connected to rheostat. Given potential differences, calculate E and r.",
+          "chapter": "Current Electricity",
+          "topic": "Internal Resistance",
+          "marks": 2
+        },
+        {
+          "qno": 18,
+          "questionText": "Diffraction experiment: Light of wavelength 600 nm, first minimum at θ = 30°. Calculate slit width OR Young’s double slit intensity at path difference λ/8.",
+          "chapter": "Wave Optics",
+          "topic": "Diffraction / Interference",
+          "marks": 2,
+          "internalChoice": true
+        },
+        {
+          "qno": 19,
+          "questionText": "Transparent solid cylindrical rod (μ = √2/3) kept in air. A ray travels along surface. Calculate angle θ.",
+          "chapter": "Ray Optics",
+          "topic": "Refraction",
+          "marks": 2
+        },
+        {
+          "qno": 20,
+          "questionText": "Prove that in Bohr model of hydrogen atom, time period of revolution in nth orbit is proportional to n³.",
+          "chapter": "Atoms",
+          "topic": "Bohr Model",
+          "marks": 2
+        }
+      ]
+    },
+    {
+      "section": "C",
+      "type": "SA",
+      "marksPerQuestion": 3,
+      "questions": [
+        {
+          "qno": 21,
+          "questionText": "A p-type semiconductor is made by doping one dopant per 5 × 10⁷ silicon atoms. Calculate hole concentration.",
+          "chapter": "Semiconductor Electronics",
+          "topic": "Doping",
+          "marks": 3
+        },
+        {
+          "qno": 22,
+          "questionText": "Two batteries of emf 3V and 6V with internal resistances connected in parallel. Find equivalent emf and resistance OR derive drift velocity relations.",
+          "chapter": "Current Electricity",
+          "topic": "Cells in Parallel / Drift Velocity",
+          "marks": 3,
+          "internalChoice": true
+        },
+        {
+          "qno": 23,
+          "questionText": "Using Biot-Savart law derive magnetic field due to circular current loop at a point on axis and at centre.",
+          "chapter": "Moving Charges and Magnetism",
+          "topic": "Biot-Savart Law",
+          "marks": 3
+        },
+        {
+          "qno": 24,
+          "questionText": "Show energy required to build up current in inductor is (1/2)LI² OR derive magnetic energy density B²/2μ₀.",
+          "chapter": "Electromagnetic Induction",
+          "topic": "Energy in Inductor",
+          "marks": 3,
+          "internalChoice": true
+        },
+        {
+          "qno": 25,
+          "questionText": "Parallel plate capacitor charged by AC source. Show conduction and displacement current sum constant OR Kirchhoff’s rule validity.",
+          "chapter": "Alternating Current",
+          "topic": "Displacement Current",
+          "marks": 3,
+          "internalChoice": true
+        },
+        {
+          "qno": 26,
+          "questionText": "Photoelectric effect conceptual questions OR nuclear binding energy explanation.",
+          "chapter": "Dual Nature / Nuclei",
+          "topic": "Photoelectric / Binding Energy",
+          "marks": 3,
+          "internalChoice": true
+        },
+        {
+          "qno": 27,
+          "questionText": "Define mass defect and binding energy OR calculate energy released in nuclear reaction.",
+          "chapter": "Nuclei",
+          "topic": "Mass Defect",
+          "marks": 3,
+          "internalChoice": true
+        },
+        {
+          "qno": 28,
+          "questionText": "Draw V-I characteristics of p-n junction diode OR rectify circuit explanation.",
+          "chapter": "Semiconductor Electronics",
+          "topic": "Diode Characteristics",
+          "marks": 3,
+          "internalChoice": true
+        }
+      ]
+    },
+    {
+      "section": "D",
+      "type": "Case Study",
+      "marksPerQuestion": 4,
+      "questions": [
+        {
+          "qno": 29,
+          "questionText": "Case study based on RC series circuit. Charging equation q = Q(1 − e^(−t/RC)) and related sub-questions.",
+          "chapter": "Current Electricity",
+          "topic": "RC Circuit",
+          "marks": 4
+        },
+        {
+          "qno": 30,
+          "questionText": "Case study based on lens and image formation with conceptual and numerical parts.",
+          "chapter": "Ray Optics",
+          "topic": "Lens Formula",
+          "marks": 4
+        }
+      ]
+    },
+    {
+      "section": "E",
+      "type": "Long Answer",
+      "marksPerQuestion": 5,
+      "questions": [
+        {
+          "qno": 31,
+          "questionText": "Long answer numerical based on electric field and potential due to charges placed on axis.",
+          "chapter": "Electrostatics",
+          "topic": "Electric Field and Potential",
+          "marks": 5,
+          "internalChoice": true
+        },
+        {
+          "qno": 32,
+          "questionText": "Long answer question (as per paper internal choice).",
+          "chapter": "Mixed",
+          "topic": "As per Paper",
+          "marks": 5,
+          "internalChoice": true
+        },
+        {
+          "qno": 33,
+          "questionText": "Long answer question (as per paper internal choice).",
+          "chapter": "Mixed",
+          "topic": "As per Paper",
+          "marks": 5,
+          "internalChoice": true
+        }
+      ]
+    }
+  ]
+}

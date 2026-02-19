@@ -1,0 +1,1045 @@
+{
+  "subject": "maths_basic",
+  "class": 10,
+  "chapters": [
+    {
+      "chapter": "Quadratic Equations",
+      "topics": [
+        {
+          "name": "Solving Quadratic Equations",
+          "appearances": [
+            {
+              "year": 2022,
+              "marks": 2
+            }
+          ]
+        },
+        {
+          "name": "Nature of Roots",
+          "appearances": [
+            {
+              "year": 2022,
+              "marks": 2
+            },
+            {
+              "year": 2023,
+              "marks": 1
+            },
+            {
+              "year": 2024,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Word Problems",
+          "appearances": [
+            {
+              "year": 2022,
+              "marks": 4
+            },
+            {
+              "year": 2023,
+              "marks": 5
+            }
+          ]
+        },
+        {
+          "name": "Word Problems / Solving Equations",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 5
+            }
+          ]
+        },
+        {
+          "name": "Applications",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 4
+            }
+          ]
+        },
+        {
+          "name": "Discriminant",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Standard Form of Quadratic Equation",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Word Problems / Nature of Roots",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Arithmetic Progressions",
+      "topics": [
+        {
+          "name": "Sum of n terms",
+          "appearances": [
+            {
+              "year": 2022,
+              "marks": 2
+            }
+          ]
+        },
+        {
+          "name": "Real-life Application",
+          "appearances": [
+            {
+              "year": 2022,
+              "marks": 4
+            }
+          ]
+        },
+        {
+          "name": "nth Term of an AP",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Word Problems",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 4
+            }
+          ]
+        },
+        {
+          "name": "Terms of AP",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "AP Applications",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Surface Areas and Volumes",
+      "topics": [
+        {
+          "name": "Conversion of Solids",
+          "appearances": [
+            {
+              "year": 2022,
+              "marks": 2
+            }
+          ]
+        },
+        {
+          "name": "Volume and Surface Area",
+          "appearances": [
+            {
+              "year": 2022,
+              "marks": 4
+            }
+          ]
+        },
+        {
+          "name": "Volume of Cone",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Combined Solids",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 5
+            },
+            {
+              "year": 2025,
+              "marks": 5
+            }
+          ]
+        },
+        {
+          "name": "Volume Ratio",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Hemisphere",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Combination of Solids",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 5
+            }
+          ]
+        },
+        {
+          "name": "Surface Areas",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Statistics",
+      "topics": [
+        {
+          "name": "Mode / Median",
+          "appearances": [
+            {
+              "year": 2022,
+              "marks": 2
+            }
+          ]
+        },
+        {
+          "name": "Mean",
+          "appearances": [
+            {
+              "year": 2022,
+              "marks": 3
+            }
+          ]
+        },
+        {
+          "name": "Mean and Mode",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 5
+            }
+          ]
+        },
+        {
+          "name": "Mode",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Median and Mode",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 4
+            }
+          ]
+        },
+        {
+          "name": "Median Class",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Modal Class",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Mean of Grouped Data",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Circles",
+      "topics": [
+        {
+          "name": "Tangent Properties",
+          "appearances": [
+            {
+              "year": 2022,
+              "marks": 2
+            },
+            {
+              "year": 2023,
+              "marks": 1
+            },
+            {
+              "year": 2024,
+              "marks": 1
+            },
+            {
+              "year": 2025,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Theorems on Tangents",
+          "appearances": [
+            {
+              "year": 2022,
+              "marks": 3
+            }
+          ]
+        },
+        {
+          "name": "Tangent Lengths",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Theorem Review",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Theorems",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 3
+            }
+          ]
+        },
+        {
+          "name": "Tangent Theorems",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 3
+            }
+          ]
+        },
+        {
+          "name": "Tangent Application",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 4
+            }
+          ]
+        },
+        {
+          "name": "Chord and Tangent",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 2
+            }
+          ]
+        },
+        {
+          "name": "Properties of Tangents",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Constructions",
+      "topics": [
+        {
+          "name": "Tangents to Circles",
+          "appearances": [
+            {
+              "year": 2022,
+              "marks": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Some Applications of Trigonometry",
+      "topics": [
+        {
+          "name": "Heights and Distances",
+          "appearances": [
+            {
+              "year": 2022,
+              "marks": 3
+            },
+            {
+              "year": 2023,
+              "marks": 5
+            },
+            {
+              "year": 2024,
+              "marks": 5
+            },
+            {
+              "year": 2025,
+              "marks": 4
+            }
+          ]
+        },
+        {
+          "name": "Trigonometry Case Study",
+          "appearances": [
+            {
+              "year": 2022,
+              "marks": 4
+            }
+          ]
+        },
+        {
+          "name": "Angle of Depression",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Real Numbers",
+      "topics": [
+        {
+          "name": "Fundamental Theorem of Arithmetic",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "LCM and HCF",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 2
+            }
+          ]
+        },
+        {
+          "name": "Rational/Irrational Proof",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 3
+            }
+          ]
+        },
+        {
+          "name": "HCF and LCM Relationship",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 1
+            },
+            {
+              "year": 2025,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "HCF and LCM Properties",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Irrationality / Number Theory",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 2
+            }
+          ]
+        },
+        {
+          "name": "Prime Factorisation",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 3
+            }
+          ]
+        },
+        {
+          "name": "HCF and LCM",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Rational and Irrational Numbers",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Irrational Numbers / Prime Factorization",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Introduction to Trigonometry",
+      "topics": [
+        {
+          "name": "Trigonometric Ratios of Specific Angles",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Trigonometric Values",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 2
+            },
+            {
+              "year": 2024,
+              "marks": 2
+            },
+            {
+              "year": 2025,
+              "marks": 2
+            }
+          ]
+        },
+        {
+          "name": "Trigonometric Identities",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 3
+            },
+            {
+              "year": 2024,
+              "marks": 3
+            },
+            {
+              "year": 2025,
+              "marks": 3
+            }
+          ]
+        },
+        {
+          "name": "Trigonometric Equations",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Probability",
+      "topics": [
+        {
+          "name": "Playing Cards",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 1
+            },
+            {
+              "year": 2024,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Basic Events",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Empirical Probability",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 4
+            }
+          ]
+        },
+        {
+          "name": "Basic Probability",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Sure Events",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Probability Applications",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Coordinate Geometry",
+      "topics": [
+        {
+          "name": "Distance Formula",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 1
+            },
+            {
+              "year": 2024,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Section Formula / Distance Formula",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 2
+            }
+          ]
+        },
+        {
+          "name": "Shape Proof",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 3
+            }
+          ]
+        },
+        {
+          "name": "Coordinates",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 1
+            },
+            {
+              "year": 2025,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Section Formula",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 3
+            },
+            {
+              "year": 2025,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Section Formula and Distance",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Polynomials",
+      "topics": [
+        {
+          "name": "Geometrical Meaning of Zeroes",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Relationship between Zeroes and Coefficients",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 1
+            },
+            {
+              "year": 2024,
+              "marks": 1
+            },
+            {
+              "year": 2025,
+              "marks": 3
+            }
+          ]
+        },
+        {
+          "name": "Polynomial Formation",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 3
+            }
+          ]
+        },
+        {
+          "name": "Formation of Polynomial",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Zeroes of Polynomial",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Triangles",
+      "topics": [
+        {
+          "name": "Similar Triangles",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 1
+            },
+            {
+              "year": 2024,
+              "marks": 1
+            },
+            {
+              "year": 2025,
+              "marks": 2
+            }
+          ]
+        },
+        {
+          "name": "Similarity Criterion",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Similarity Criteria",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 1
+            },
+            {
+              "year": 2025,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Similarity Proof",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 2
+            }
+          ]
+        },
+        {
+          "name": "BPT and Trapezia",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 3
+            }
+          ]
+        },
+        {
+          "name": "Basic Proportionality Theorem",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 5
+            },
+            {
+              "year": 2025,
+              "marks": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "topics": [
+        {
+          "name": "Complementary and Supplementary Angles",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Condition for Inconsistency",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Solving Systems",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 2
+            }
+          ]
+        },
+        {
+          "name": "Graphical Representation",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Word Problems",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 3
+            }
+          ]
+        },
+        {
+          "name": "Consistency of Equations",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Solving Linear Equations",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 2
+            }
+          ]
+        },
+        {
+          "name": "Graphical Solution / Word Problems",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Areas Related to Circles",
+      "topics": [
+        {
+          "name": "Composite Figures",
+          "appearances": [
+            {
+              "year": 2023,
+              "marks": 4
+            }
+          ]
+        },
+        {
+          "name": "Area Comparison",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Sector Area",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Area of Segment",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 3
+            },
+            {
+              "year": 2025,
+              "marks": 2
+            }
+          ]
+        },
+        {
+          "name": "Perimeter of Sector",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "name": "Area of Quadrant",
+          "appearances": [
+            {
+              "year": 2025,
+              "marks": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Triangles / Geometry",
+      "topics": [
+        {
+          "name": "Trapezium Properties",
+          "appearances": [
+            {
+              "year": 2024,
+              "marks": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

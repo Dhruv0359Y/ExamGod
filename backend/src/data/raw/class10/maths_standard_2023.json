@@ -1,0 +1,376 @@
+{
+  "meta": {
+    "year": 2023,
+    "series": "WX1YZ/1",
+    "set": "Set-1",
+    "qpCode": "30/1/1",
+    "subject": "Mathematics (Standard)",
+    "class": 10,
+    "timeAllowed": "3 Hours",
+    "maximumMarks": 80,
+    "totalQuestions": 38,
+    "sections": ["A", "B", "C", "D", "E"]
+  },
+  "sections": [
+    {
+      "section": "A",
+      "type": "MCQ",
+      "marksPerQuestion": 1,
+      "questions": [
+        {
+          "qno": 1,
+          "questionText": "The graph of y = p(x) is given, for a polynomial p(x). The number of zeroes of p(x) from the graph is",
+          "options": ["3", "1", "2", "0"],
+          "chapter": "Polynomials",
+          "topic": "Geometrical Meaning of Zeroes",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 2,
+          "questionText": "The value of k for which the pair of equations kx = y + 2 and 6x = 2y + 3 has infinitely many solutions,",
+          "options": ["is k = 3", "does not exist", "is k = -3", "is k = 4"],
+          "chapter": "Pair of Linear Equations in Two Variables",
+          "topic": "Consistency and Solutions",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 3,
+          "questionText": "If p - 1, p + 1 and 2p + 3 are in A.P., then the value of p is",
+          "options": ["-2", "4", "0", "2"],
+          "chapter": "Arithmetic Progressions",
+          "topic": "Terms of AP",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 4,
+          "questionText": "In what ratio, does x-axis divide the line segment joining the points A(3, 6) and B(-12, -3)?",
+          "options": ["1:2", "1:4", "4:1", "2:1"],
+          "chapter": "Coordinate Geometry",
+          "topic": "Section Formula",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 5,
+          "questionText": "In the given figure, PQ is tangent to the circle centred at O. If ∠AOB = 95° then the measure of ∠ABQ will be",
+          "options": ["47.5°", "42.5°", "85°", "95°"],
+          "chapter": "Circles",
+          "topic": "Tangent Properties",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 6,
+          "questionText": "If 2 tan A = 3, then the value of (4 sin A + 3 cos A) / (4 sin A - 3 cos A) is",
+          "options": ["7/√13", "1/√13", "3", "does not exist"],
+          "chapter": "Introduction to Trigonometry",
+          "topic": "Trigonometric Ratios",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 7,
+          "questionText": "If α, β are the zeroes of a polynomial p(x) = x² + x - 1, then 1/α + 1/β equals to",
+          "options": ["1", "2", "-1", "-1/2"],
+          "chapter": "Polynomials",
+          "topic": "Relationship between Zeroes and Coefficients",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 8,
+          "questionText": "The least positive value of k, for which the quadratic equation 2x² + kx - 4 = 0 has rational roots, is",
+          "options": ["±2√2", "2", "±2", "√2"],
+          "chapter": "Quadratic Equations",
+          "topic": "Nature of Roots",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 9,
+          "questionText": "[3/4 tan² 30° - sec² 45° + sin² 60°] is equal to",
+          "options": ["-1", "1/6", "-3/2", "-1/2"],
+          "chapter": "Introduction to Trigonometry",
+          "topic": "Trigonometric Ratios of Specific Angles",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 10,
+          "questionText": "Curved surface area of a cylinder of height 5 cm is 94.2 cm². Radius of the cylinder is (Take π = 3.14)",
+          "options": ["2 cm", "3 cm", "2.9 cm", "6 cm"],
+          "chapter": "Surface Areas and Volumes",
+          "topic": "Cylinder",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 11,
+          "questionText": "The distribution below gives the marks obtained by 80 students on a test: Marks Less than 10, 20, 30, 40, 50, 60 with frequencies 3, 12, 27, 57, 75, 80. The modal class of this distribution is:",
+          "options": ["10-20", "20-30", "30-40", "50-60"],
+          "chapter": "Statistics",
+          "topic": "Mode of Grouped Data",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 12,
+          "questionText": "The curved surface area of a cone having height 24 cm and radius 7 cm, is",
+          "options": ["528 cm²", "1056 cm²", "550 cm²", "500 cm²"],
+          "chapter": "Surface Areas and Volumes",
+          "topic": "Cone",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 13,
+          "questionText": "The distance between the points (0, 2√5) and (-2√5, 0) is",
+          "options": ["2√10 units", "4√10 units", "2√20 units", "0"],
+          "chapter": "Coordinate Geometry",
+          "topic": "Distance Formula",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 14,
+          "questionText": "Which of the following is a quadratic polynomial having zeroes -2/3 and 2/3?",
+          "options": ["4x² - 9", "4/9(9x² + 4)", "x² + 9/4", "5(9x² - 4)"],
+          "chapter": "Polynomials",
+          "topic": "Formation of Quadratic Polynomial",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 15,
+          "questionText": "If the value of each observation of a statistical data is increased by 3, then the mean of the data",
+          "options": ["remains unchanged", "increases by 3", "increases by 6", "increases by 3n"],
+          "chapter": "Statistics",
+          "topic": "Properties of Mean",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 16,
+          "questionText": "Probability of happening of an event is denoted by p and probability of non-happening of the event is denoted by q. Relation between p and q is",
+          "options": ["p + q = 1", "p = 1, q = 1", "p = q - 1", "p + q + 1 = 0"],
+          "chapter": "Probability",
+          "topic": "Complementary Events",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 17,
+          "questionText": "A girl calculates that the probability of her winning the first prize in a lottery is 0.08. If 6000 tickets are sold, how many tickets has she bought?",
+          "options": ["40", "240", "480", "750"],
+          "chapter": "Probability",
+          "topic": "Basic Probability",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 18,
+          "questionText": "In a group of 20 people, 5 can't swim. If one person is selected at random, then the probability that he/she can swim, is",
+          "options": ["3/4", "1/3", "1", "1/4"],
+          "chapter": "Probability",
+          "topic": "Basic Probability",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 19,
+          "questionText": "Assertion (A): Point P(0, 2) is the point of intersection of y-axis with the line 3x + 2y = 4. Reason (R): The distance of point P(0, 2) from x-axis is 2 units.",
+          "options": [
+            "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+            "Assertion (A) is true but Reason (R) is false",
+            "Assertion (A) is false but Reason (R) is true"
+          ],
+          "chapter": "Coordinate Geometry / Linear Equations",
+          "topic": "Graphing and Coordinates",
+          "marks": 1,
+          "questionType": "Assertion-Reason"
+        },
+        {
+          "qno": 20,
+          "questionText": "Assertion (A): The perimeter of ΔABC (with sides 2cm and 3cm) is a rational number. Reason (R): The sum of the squares of two rational numbers is always rational.",
+          "options": [
+            "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+            "Assertion (A) is true but Reason (R) is false",
+            "Assertion (A) is false but Reason (R) is true"
+          ],
+          "chapter": "Real Numbers / Geometry",
+          "topic": "Rational and Irrational Numbers",
+          "marks": 1,
+          "questionType": "Assertion-Reason"
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "type": "VSA",
+      "marksPerQuestion": 2,
+      "questions": [
+        {
+          "qno": 21,
+          "questionText": "(a) Solve the pair of equations x = 3 and y = -4 graphically. OR (b) Using graphical method, find whether following system of linear equations is consistent or not: x = 0 and y = -7",
+          "chapter": "Pair of Linear Equations in Two Variables",
+          "topic": "Graphical Solution",
+          "marks": 2,
+          "internalChoice": true
+        },
+        {
+          "qno": 22,
+          "questionText": "In the given figure, XZ is parallel to BC. AZ = 3 cm, ZC = 2 cm, BM = 3 cm and MC = 5 cm. Find the length of XY.",
+          "chapter": "Triangles",
+          "topic": "Basic Proportionality Theorem",
+          "marks": 2
+        },
+        {
+          "qno": 23,
+          "questionText": "(a) If sin θ + cos θ = √3, then find the value of sin θ · cos θ. OR (b) If sin α = 1/√2 and cot β = √3, then find the value of cosec α + cosec β.",
+          "chapter": "Introduction to Trigonometry",
+          "topic": "Trigonometric Identities and Values",
+          "marks": 2,
+          "internalChoice": true
+        },
+        {
+          "qno": 24,
+          "questionText": "Find the greatest number which divides 85 and 72 leaving remainders 1 and 2 respectively.",
+          "chapter": "Real Numbers",
+          "topic": "HCF Application",
+          "marks": 2
+        },
+        {
+          "qno": 25,
+          "questionText": "A bag contains 4 red, 3 blue and 2 yellow balls. One ball is drawn at random from the bag. Find the probability that drawn ball is (i) red (ii) yellow.",
+          "chapter": "Probability",
+          "topic": "Basic Probability",
+          "marks": 2
+        }
+      ]
+    },
+    {
+      "section": "C",
+      "type": "SA",
+      "marksPerQuestion": 3,
+      "questions": [
+        {
+          "qno": 26,
+          "questionText": "Half of the difference between two numbers is 2. The sum of the greater number and twice the smaller number is 13. Find the numbers.",
+          "chapter": "Pair of Linear Equations in Two Variables",
+          "topic": "Word Problems",
+          "marks": 3
+        },
+        {
+          "qno": 27,
+          "questionText": "Prove that √5 is an irrational number.",
+          "chapter": "Real Numbers",
+          "topic": "Proof of Irrationality",
+          "marks": 3
+        },
+        {
+          "qno": 28,
+          "questionText": "If (-5, 3) and (5, 3) are two vertices of an equilateral triangle, then find coordinates of the third vertex, given that origin lies inside the triangle. (Take √3 = 1.7)",
+          "chapter": "Coordinate Geometry",
+          "topic": "Properties of Triangles",
+          "marks": 3
+        },
+        {
+          "qno": 29,
+          "questionText": "(a) Two tangents TP and TQ are drawn to a circle with centre O from an external point T. Prove that ∠PTQ = 2∠OPQ. OR (b) In the given figure, a circle is inscribed in a quadrilateral ABCD in which ∠B = 90°. If AD = 17 cm, AB = 20 cm and DS = 3 cm, then find the radius of the circle.",
+          "chapter": "Circles",
+          "topic": "Tangent Theorems",
+          "marks": 3,
+          "internalChoice": true
+        },
+        {
+          "qno": 30,
+          "questionText": "Prove that: (tan θ + sec θ - 1) / (tan θ - sec θ + 1) = (1 + sin θ) / cos θ",
+          "chapter": "Introduction to Trigonometry",
+          "topic": "Trigonometric Identities",
+          "marks": 3
+        },
+        {
+          "qno": 31,
+          "questionText": "(a) A room is in the form of cylinder surmounted by a hemi-spherical dome. The base radius of hemisphere is one-half the height of cylindrical part. Find total height of the room if it contains 1408/21 m³ of air. (Take π = 22/7) OR (b) An empty cone is of radius 3 cm and height 12 cm. Ice-cream is filled in it so that lower part of the cone which is (1/6)th of the volume of the cone is unfilled but hemisphere is formed on the top. Find volume of the ice-cream. (Take π = 3.14)",
+          "chapter": "Surface Areas and Volumes",
+          "topic": "Combination of Solids",
+          "marks": 3,
+          "internalChoice": true
+        }
+      ]
+    },
+    {
+      "section": "D",
+      "type": "LA",
+      "marksPerQuestion": 5,
+      "questions": [
+        {
+          "qno": 32,
+          "questionText": "If a line is drawn parallel to one side of a triangle to intersect the other two sides at distinct points, prove that the other two sides are divided in the same ratio.",
+          "chapter": "Triangles",
+          "topic": "Basic Proportionality Theorem",
+          "marks": 5
+        },
+        {
+          "qno": 33,
+          "questionText": "(a) The angle of elevation of the top of a tower 24 m high from the foot of another tower in the same plane is 60°. The angle of elevation of the top of second tower from the foot of the first tower is 30°. Find the distance between two towers and the height of the other tower. Also, find the length of the wire attached to the tops of both the towers. OR (b) A spherical balloon of radius r subtends an angle of 60° at the eye of an observer. If the angle of elevation of its centre is 45° from the same point, then prove that height of the centre of the balloon is √2 times its radius.",
+          "chapter": "Some Applications of Trigonometry",
+          "topic": "Heights and Distances",
+          "marks": 5,
+          "internalChoice": true
+        },
+        {
+          "qno": 34,
+          "questionText": "A chord of a circle of radius 14 cm subtends an angle of 60° at the centre. Find the area of the corresponding minor segment of the circle. Also find the area of the major segment of the circle.",
+          "chapter": "Areas Related to Circles",
+          "topic": "Area of Segment",
+          "marks": 5
+        },
+        {
+          "qno": 35,
+          "questionText": "(a) The ratio of the 11th term to 17th term of an A.P. is 3:4. Find the ratio of 5th term to 21st term of the same A.P. Also, find the ratio of the sum of first 5 terms to that of first 21 terms. OR (b) 250 logs are stacked in the following manner: 22 logs in the bottom row, 21 in the next row, 20 in the row next to it and so on. In how many rows, are the 250 logs placed and how many logs are there in the top row?",
+          "chapter": "Arithmetic Progressions",
+          "topic": "Sum and nth Term of AP",
+          "marks": 5,
+          "internalChoice": true
+        }
+      ]
+    },
+    {
+      "section": "E",
+      "type": "Case Study",
+      "marksPerQuestion": 4,
+      "questions": [
+        {
+          "qno": 36,
+          "questionText": "While designing the school year book, a teacher asked the student that the length and width of a particular photo is increased by x units each to double the area of the photo. The original photo is 18 cm long and 12 cm wide. (I) Write an algebraic equation depicting the above information. (II) Write the corresponding quadratic equation in standard form. (III) What should be the new dimensions of the enlarged photo? OR Can any rational value of x make the new area equal to 220 cm²?",
+          "chapter": "Quadratic Equations",
+          "topic": "Applications of Quadratic Equations",
+          "marks": 4,
+          "internalChoice": true
+        },
+        {
+          "qno": 37,
+          "questionText": "India meteorological department observes seasonal and annual rainfall in different sub-divisions. The table shows sub-division wise seasonal (monsoon) rainfall (mm) in 2018. (I) Write the modal class. (II) Find the median of the given data. OR Find the mean rainfall in this season. (III) If sub-division having at least 1000 mm rainfall is considered good, how many sub-divisions had good rainfall?",
+          "chapter": "Statistics",
+          "topic": "Mean, Median and Mode",
+          "marks": 4,
+          "internalChoice": true
+        },
+        {
+          "qno": 38,
+          "questionText": "The discus throw is an event in which an athlete spins anti-clockwise and releases the throw. In the figure, AB is a tangent to a circle of radius 75 cm. Point O is centre and ∠ABO = 30°. PQ is parallel to OA. (a) Find the length of AB. (b) Find the length of OB. (c) Find the length of AP. OR Find the length of PQ.",
+          "chapter": "Introduction to Trigonometry / Circles",
+          "topic": "Trigonometric Applications in Geometry",
+          "marks": 4,
+          "internalChoice": true
+        }
+      ]
+    }
+  ]
+}

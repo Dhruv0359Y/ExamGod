@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "year": 2022,
+    "series": "PPQQA/1",
+    "set": "Set-1",
+    "qpCode": "430/1/1",
+    "subject": "Mathematics (Basic)",
+    "class": 10,
+    "timeAllowed": "2 Hours",
+    "maximumMarks": 40,
+    "totalQuestions": 14,
+    "sections": ["A", "B", "C"]
+  },
+  "sections": [
+    {
+      "section": "A",
+      "type": "VSA",
+      "marksPerQuestion": 2,
+      "questions": [
+        {
+          "qno": 1,
+          "questionText": "Find the roots of the quadratic equation x² - 3x - 10 = 0.",
+          "chapter": "Quadratic Equations",
+          "topic": "Solving Quadratic Equations",
+          "marks": 2
+        },
+        {
+          "qno": 2,
+          "questionText": "Find the sum of first 20 terms of an A.P. whose first term is 2 and the common difference is 5.",
+          "chapter": "Arithmetic Progressions",
+          "topic": "Sum of n terms",
+          "marks": 2
+        },
+        {
+          "qno": 3,
+          "questionText": "A solid metallic sphere of radius 6 cm is melted and recast into a number of smaller solid cones, each of radius 2 cm and height 3 cm. Find the number of cones so formed.",
+          "chapter": "Surface Areas and Volumes",
+          "topic": "Conversion of Solids",
+          "marks": 2
+        },
+        {
+          "qno": 4,
+          "questionText": "(a) Find the mode of the following frequency distribution: (Class 0-10, 10-20, 20-30, 30-40, 40-50) with Frequencies (5, 8, 15, 10, 2). OR (b) Find the median of the following frequency distribution: (Class 0-6, 6-12, 12-18, 18-24, 24-30) with Frequencies (4, 7, 10, 8, 1).",
+          "chapter": "Statistics",
+          "topic": "Mode / Median",
+          "marks": 2,
+          "internalChoice": true
+        },
+        {
+          "qno": 5,
+          "questionText": "In the given figure, a circle touches all the four sides of a quadrilateral ABCD whose sides are AB = 6 cm, BC = 7 cm and CD = 4 cm. Find the length of AD.",
+          "chapter": "Circles",
+          "topic": "Tangent Properties",
+          "marks": 2
+        },
+        {
+          "qno": 6,
+          "questionText": "Find the value of 'k' for which the quadratic equation kx(x - 2) + 6 = 0 has two equal roots.",
+          "chapter": "Quadratic Equations",
+          "topic": "Nature of Roots",
+          "marks": 2
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "type": "SA",
+      "marksPerQuestion": 3,
+      "questions": [
+        {
+          "qno": 7,
+          "questionText": "Draw a line segment AB of length 7 cm. Around A and B, draw circles of radii 3 cm and 2 cm respectively. Construct tangents to each circle from the centre of the other circle.",
+          "chapter": "Constructions",
+          "topic": "Tangents to Circles",
+          "marks": 3
+        },
+        {
+          "qno": 8,
+          "questionText": "The arithmetic mean of the following frequency distribution is 25. Find the value of 'f': (Class 0-10, 10-20, 20-30, 30-40, 40-50) with Frequencies (5, 18, 15, f, 6).",
+          "chapter": "Statistics",
+          "topic": "Mean",
+          "marks": 3
+        },
+        {
+          "qno": 9,
+          "questionText": "(a) The angle of elevation of the top of a tower from a point on the ground, which is 30 m away from the foot of the tower, is 30°. Find the height of the tower. OR (b) A kite is flying at a height of 60 m above the ground. The string attached to the kite is temporarily tied to a point on the ground. The inclination of the string with the ground is 60°. Find the length of the string, assuming that there is no slack in the string.",
+          "chapter": "Some Applications of Trigonometry",
+          "topic": "Heights and Distances",
+          "marks": 3,
+          "internalChoice": true
+        },
+        {
+          "qno": 10,
+          "questionText": "Prove that the lengths of tangents drawn from an external point to a circle are equal.",
+          "chapter": "Circles",
+          "topic": "Theorems on Tangents",
+          "marks": 3
+        }
+      ]
+    },
+    {
+      "section": "C",
+      "type": "LA / Case Study",
+      "marksPerQuestion": 4,
+      "questions": [
+        {
+          "qno": 11,
+          "questionText": "(a) A well of diameter 3 m is dug 14 m deep. The earth taken out of it has been spread evenly all around it in the shape of a circular ring of width 4 m to form an embankment. Find the height of the embankment. OR (b) A wooden article was made by scooping out a hemisphere from each end of a solid cylinder. If the height of the cylinder is 10 cm and its base is of radius 3.5 cm, find the total surface area of the article.",
+          "chapter": "Surface Areas and Volumes",
+          "topic": "Volume and Surface Area",
+          "marks": 4,
+          "internalChoice": true
+        },
+        {
+          "qno": 12,
+          "questionText": "The sum of the squares of two consecutive odd positive integers is 290. Find the integers.",
+          "chapter": "Quadratic Equations",
+          "topic": "Word Problems",
+          "marks": 4
+        },
+        {
+          "qno": 13,
+          "questionText": "Case Study 1: Crochet Patterns. Knitting is a method by which yarn is manipulated to create a textile or fabric. (a) Check whether the given pattern (2, 5, 8...) forms an AP. If yes, find the common difference and the next term. (b) Write the nth term of the AP. Hence, find the number of stitches in the 10th circular row.",
+          "chapter": "Arithmetic Progressions",
+          "topic": "Real-life Application",
+          "marks": 4
+        },
+        {
+          "qno": 14,
+          "questionText": "Case Study 2: TV Tower in Pitampura, Delhi. From a point 'A' on the ground, the angle of elevation of the top of the tower 'B' is 60°. Point 'C' is at a height of 78 m on the tower. From A, the angle of elevation of C is 30°. (a) Draw a well-labelled diagram of the situation. (b) Find the height of the tower and the distance of point A from the tower.",
+          "chapter": "Some Applications of Trigonometry",
+          "topic": "Trigonometry Case Study",
+          "marks": 4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "meta": {
+    "year": 2023,
+    "series": "GEFH1/1",
+    "set": "Set-1",
+    "qpCode": "55/1/1",
+    "subject": "Physics (Theory)",
+    "class": 12,
+    "timeAllowed": "3 Hours",
+    "maximumMarks": 70,
+    "totalQuestions": 35,
+    "sections": ["A", "B", "C", "D", "E"]
+  },
+  "sections": [
+    {
+      "section": "A",
+      "type": "MCQ",
+      "marksPerQuestion": 1,
+      "questions": [
+        {
+          "qno": 1,
+          "questionText": "A point charge situated at a distance ‘r’ from a short electric dipole on its axis experiences a force F. If the distance of the charge is ‘2r’, the force on the charge will be:",
+          "chapter": "Electrostatics",
+          "topic": "Electric Dipole – Axial Field",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 2,
+          "questionText": "For a metallic conductor, the correct representation of variation of resistance R with temperature T is:",
+          "chapter": "Current Electricity",
+          "topic": "Temperature Dependence of Resistance",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 3,
+          "questionText": "The potential difference across a cell in an open circuit is 8 V. It falls to 4 V when a current of 4 A is drawn from it. The internal resistance of the cell is:",
+          "chapter": "Current Electricity",
+          "topic": "Internal Resistance",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 4,
+          "questionText": "A steady current flows through a metallic wire whose area of cross-section increases continuously from one end to the other. The magnitude of drift velocity of free electrons as a function of area A can be shown by:",
+          "chapter": "Current Electricity",
+          "topic": "Drift Velocity",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 5,
+          "questionText": "A diamagnetic substance is brought near the north or south pole of a bar magnet. It will be:",
+          "chapter": "Magnetism and Matter",
+          "topic": "Magnetic Materials",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+
+        {
+          "qno": 6,
+          "questionText": "A circular coil of radius 8.0 cm and 40 turns is rotated with angular speed 25 rad s⁻¹ in a uniform magnetic field of magnitude 3.0 × 10⁻² T. The maximum emf induced in the coil is:",
+          "chapter": "Electromagnetic Induction",
+          "topic": "Maximum Induced EMF",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 7,
+          "questionText": "In a rectangular conductor with movable arm PQ, the magnitude of induced emf when PQ is moved with velocity v does not depend on:",
+          "chapter": "Electromagnetic Induction",
+          "topic": "Motional EMF",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 8,
+          "questionText": "In the process of charging of a capacitor, the current produced between the plates of the capacitor is:",
+          "chapter": "Electromagnetic Waves",
+          "topic": "Displacement Current",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 9,
+          "questionText": "For a concave mirror of focal length f, the minimum distance between the object and its real image is:",
+          "chapter": "Ray Optics",
+          "topic": "Mirror Formula",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 10,
+          "questionText": "The radius of the nth orbit in Bohr model of hydrogen atom is proportional to:",
+          "chapter": "Atoms",
+          "topic": "Bohr Model",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+
+        {
+          "qno": 11,
+          "questionText": "Hydrogen atom initially in ground state absorbs a photon which excites it to n = 5 level. The wavelength of the photon is:",
+          "chapter": "Atoms",
+          "topic": "Hydrogen Spectrum",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 12,
+          "questionText": "The mass density of a nucleus of mass number A is:",
+          "chapter": "Nuclei",
+          "topic": "Nuclear Density",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 13,
+          "questionText": "An AC source is connected in series with a p-n junction diode and load resistor. The correct output voltage across load resistance will be:",
+          "chapter": "Semiconductor Electronics",
+          "topic": "Rectifier",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 14,
+          "questionText": "When an intrinsic semiconductor is doped with a small amount of trivalent impurity, then:",
+          "chapter": "Semiconductor Electronics",
+          "topic": "p-type Semiconductor",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 15,
+          "questionText": "In the energy-band diagram of n-type Si, the gap between conduction band EC and donor level ED is of the order of:",
+          "chapter": "Semiconductor Electronics",
+          "topic": "Energy Bands",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+
+        {
+          "qno": 16,
+          "questionText": "Assertion (A): When a bar of copper is placed in an external magnetic field, the field lines get concentrated inside the bar. Reason (R): Copper is a paramagnetic substance.",
+          "chapter": "Magnetism and Matter",
+          "topic": "Magnetic Properties",
+          "marks": 1,
+          "questionType": "Assertion-Reason"
+        },
+        {
+          "qno": 17,
+          "questionText": "Assertion (A): The phase difference between any two points on a wavefront is zero. Reason (R): All points on a wavefront are at the same distance from the source and thus oscillate in the same phase.",
+          "chapter": "Wave Optics",
+          "topic": "Wavefront",
+          "marks": 1,
+          "questionType": "Assertion-Reason"
+        },
+        {
+          "qno": 18,
+          "questionText": "Assertion (A): Photoelectric effect demonstrates the particle nature of light. Reason (R): Photoelectric current is proportional to intensity of incident radiation for frequencies more than threshold frequency.",
+          "chapter": "Dual Nature of Radiation and Matter",
+          "topic": "Photoelectric Effect",
+          "marks": 1,
+          "questionType": "Assertion-Reason"
+        }
+      ]
+    },
+
+    {
+      "section": "B",
+      "type": "VSA",
+      "marksPerQuestion": 2,
+      "questions": [
+        {
+          "qno": 19,
+          "questionText": "An alpha particle is projected into a region with magnetic field B. Calculate the acceleration of the particle.",
+          "chapter": "Moving Charges and Magnetism",
+          "topic": "Motion in Magnetic Field",
+          "marks": 2
+        },
+        {
+          "qno": 20,
+          "questionText": "Compare induced magnetic field due to changing electric field and induced electric field due to changing magnetic field. Which is easier to observe?",
+          "chapter": "Electromagnetic Waves",
+          "topic": "Maxwell’s Displacement Current",
+          "marks": 2
+        },
+        {
+          "qno": 21,
+          "questionText": "Using Huygens’ principle, show refraction at plane surface OR Why is reflecting telescope preferred over refracting telescope?",
+          "chapter": "Wave Optics",
+          "topic": "Huygens Principle / Telescope",
+          "marks": 2,
+          "internalChoice": true
+        },
+        {
+          "qno": 22,
+          "questionText": "Two coherent beams of intensities I and 4I superpose. Find ratio of maximum and minimum intensities.",
+          "chapter": "Wave Optics",
+          "topic": "Interference",
+          "marks": 2
+        },
+        {
+          "qno": 23,
+          "questionText": "Ground state energy of hydrogen is 13.6 eV. Find kinetic and potential energy in third excited state.",
+          "chapter": "Atoms",
+          "topic": "Bohr Energy Levels",
+          "marks": 2
+        },
+        {
+          "qno": 24,
+          "questionText": "Differentiate between intrinsic and extrinsic semiconductors OR Draw V-I characteristics of p-n junction diode.",
+          "chapter": "Semiconductor Electronics",
+          "topic": "Semiconductors",
+          "marks": 2,
+          "internalChoice": true
+        },
+        {
+          "qno": 25,
+          "questionText": "Explain how diffusion and drift currents contribute to formation of potential barrier in p-n junction.",
+          "chapter": "Semiconductor Electronics",
+          "topic": "Potential Barrier",
+          "marks": 2
+        }
+      ]
+    },
+
+    {
+      "section": "C",
+      "type": "SA",
+      "marksPerQuestion": 3,
+      "questions": [
+        {
+          "qno": 26,
+          "questionText": "Twelve equal negative charges placed on circumference of circle. Find electric potential and field at centre.",
+          "chapter": "Electrostatics",
+          "topic": "Electric Potential",
+          "marks": 3
+        },
+        {
+          "qno": 27,
+          "questionText": "Difference between resistance and impedance OR Condition for resonance in LCR circuit.",
+          "chapter": "Alternating Current",
+          "topic": "LCR Circuit",
+          "marks": 3,
+          "internalChoice": true
+        },
+        {
+          "qno": 28,
+          "questionText": "Solenoid carrying current I = I₀ sinωt. Find induced emf and mutual inductance.",
+          "chapter": "Electromagnetic Induction",
+          "topic": "Mutual Inductance",
+          "marks": 3
+        },
+        {
+          "qno": 29,
+          "questionText": "Einstein’s photoelectric equation and graphs of photocurrent.",
+          "chapter": "Dual Nature of Radiation and Matter",
+          "topic": "Photoelectric Effect",
+          "marks": 3
+        },
+        {
+          "qno": 30,
+          "questionText": "Energy level diagram of hydrogen OR Binding energy per nucleon graph.",
+          "chapter": "Atoms / Nuclei",
+          "topic": "Hydrogen Spectrum / Binding Energy",
+          "marks": 3,
+          "internalChoice": true
+        }
+      ]
+    },
+
+    {
+      "section": "D",
+      "type": "Long Answer",
+      "marksPerQuestion": 5,
+      "questions": [
+        {
+          "qno": 31,
+          "questionText": "Coulomb’s law in vector form OR Electric field on equatorial plane of dipole.",
+          "chapter": "Electrostatics",
+          "topic": "Coulomb Law / Dipole",
+          "marks": 5,
+          "internalChoice": true
+        },
+        {
+          "qno": 32,
+          "questionText": "Biot-Savart law and magnetic field at centre OR Force on current carrying conductor.",
+          "chapter": "Moving Charges and Magnetism",
+          "topic": "Biot-Savart / Magnetic Force",
+          "marks": 5,
+          "internalChoice": true
+        },
+        {
+          "qno": 33,
+          "questionText": "Interference vs Diffraction OR Refraction at spherical surface.",
+          "chapter": "Wave Optics",
+          "topic": "Interference / Refraction",
+          "marks": 5,
+          "internalChoice": true
+        }
+      ]
+    },
+
+    {
+      "section": "E",
+      "type": "Case Study",
+      "marksPerQuestion": 4,
+      "questions": [
+        {
+          "qno": 34,
+          "questionText": "Circuit diagram based on Kirchhoff’s laws. Answer questions on currents and potential differences.",
+          "chapter": "Current Electricity",
+          "topic": "Kirchhoff’s Laws",
+          "marks": 4
+        },
+        {
+          "qno": 35,
+          "questionText": "Strontium titanate prism and total internal reflection based case study.",
+          "chapter": "Ray Optics",
+          "topic": "Total Internal Reflection",
+          "marks": 4
+        }
+      ]
+    }
+  ]
+}

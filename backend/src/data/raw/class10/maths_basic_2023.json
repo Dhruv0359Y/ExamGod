@@ -1,0 +1,364 @@
+{
+  "meta": {
+    "year": 2023,
+    "series": "WX1YZ/1",
+    "set": "Set-1",
+    "qpCode": "430/1/1",
+    "subject": "Mathematics (Basic)",
+    "class": 10,
+    "timeAllowed": "3 Hours",
+    "maximumMarks": 80,
+    "totalQuestions": 38,
+    "sections": ["A", "B", "C", "D", "E"]
+  },
+  "sections": [
+    {
+      "section": "A",
+      "type": "MCQ",
+      "marksPerQuestion": 1,
+      "questions": [
+        {
+          "qno": 1,
+          "questionText": "The prime factorisation of natural number 288 is",
+          "options": ["2^4 × 3^3", "2^4 × 3^2", "2^5 × 3^2", "2^5 × 3^1"],
+          "chapter": "Real Numbers",
+          "topic": "Fundamental Theorem of Arithmetic",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 2,
+          "questionText": "If 2 cos θ = 1, then the value of θ is",
+          "options": ["45°", "60°", "30°", "90°"],
+          "chapter": "Introduction to Trigonometry",
+          "topic": "Trigonometric Ratios of Specific Angles",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 3,
+          "questionText": "A card is drawn at random from a well-shuffled deck of 52 cards. The probability of getting a red card is:",
+          "options": ["1/26", "1/13", "1/4", "1/2"],
+          "chapter": "Probability",
+          "topic": "Playing Cards",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 4,
+          "questionText": "The discriminant of the quadratic equation 2x² - 5x - 3 = 0 is",
+          "options": ["1", "49", "7", "19"],
+          "chapter": "Quadratic Equations",
+          "topic": "Nature of Roots",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 5,
+          "questionText": "The distance between the points (3, 0) and (0, -3) is",
+          "options": ["2√3 units", "6 units", "3 units", "3√2 units"],
+          "chapter": "Coordinate Geometry",
+          "topic": "Distance Formula",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 6,
+          "questionText": "The seventh term of an A.P. whose first term is 28 and common difference -4, is",
+          "options": ["0", "4", "52", "56"],
+          "chapter": "Arithmetic Progressions",
+          "topic": "nth Term of an AP",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 7,
+          "questionText": "The graph of y = p(x) is shown in the figure for some polynomial p(x). The number of zeroes of p(x) is/are:",
+          "options": ["0", "1", "2", "3"],
+          "chapter": "Polynomials",
+          "topic": "Geometrical Meaning of Zeroes",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 8,
+          "questionText": "The sides of two similar triangles are in the ratio 4 : 7. The ratio of their perimeters is",
+          "options": ["4:7", "12:21", "16:49", "7:4"],
+          "chapter": "Triangles",
+          "topic": "Similar Triangles",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 9,
+          "questionText": "In the given figure, AB || CD. If AB = 5 cm, CD = 2 cm and OB = 3 cm, then the length of OC is",
+          "options": ["15/2 cm", "10/3 cm", "6/5 cm", "3/5 cm"],
+          "chapter": "Triangles",
+          "topic": "Similarity Criterion",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 10,
+          "questionText": "The sum and the product of zeroes of the polynomial p(x) = x² + 5x + 6 are respectively",
+          "options": ["5, -6", "5, 6", "2, 3", "-2, -3"],
+          "chapter": "Polynomials",
+          "topic": "Relationship between Zeroes and Coefficients",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 11,
+          "questionText": "A die is thrown once. Find the probability of getting a number less than 7.",
+          "options": ["5/6", "1", "1/6", "0"],
+          "chapter": "Probability",
+          "topic": "Basic Events",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 12,
+          "questionText": "The angle subtended by a vertical pole of height 100 m at a point on the ground 100√3 m from the base is, has measure of",
+          "options": ["90°", "60°", "45°", "30°"],
+          "chapter": "Some Applications of Trigonometry",
+          "topic": "Heights and Distances",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 13,
+          "questionText": "The volume of a cone of radius 'r' and height '3r' is:",
+          "options": ["1/3 πr³", "3πr³", "9πr³", "πr³"],
+          "chapter": "Surface Areas and Volumes",
+          "topic": "Volume of Cone",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 14,
+          "questionText": "The distance between two parallel tangents of a circle of diameter 7 cm is:",
+          "options": ["7 cm", "14 cm", "7/2 cm", "28 cm"],
+          "chapter": "Circles",
+          "topic": "Tangent Properties",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 15,
+          "questionText": "In the given figure (triangles ABC and PQR with specific sides and angle 50°), the criterion of similarity by which ΔABC ~ ΔPQR is:",
+          "options": ["SSA", "ASA", "SAS", "AA"],
+          "chapter": "Triangles",
+          "topic": "Similarity Criteria",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 16,
+          "questionText": "The larger of two supplementary angles exceeds the smaller by 18 degrees. What is the measure of larger angle?",
+          "options": ["81°", "99°", "36°", "54°"],
+          "chapter": "Pair of Linear Equations in Two Variables",
+          "topic": "Complementary and Supplementary Angles",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 17,
+          "questionText": "In the given figure, the perimeter of ΔABC is (given AR=6cm, AQ=5cm, BP=4cm):",
+          "options": ["30 cm", "15 cm", "45 cm", "60 cm"],
+          "chapter": "Circles",
+          "topic": "Tangent Lengths",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 18,
+          "questionText": "In the given figure, BC and BD are tangents to the circle with centre O and radius 9 cm. If OB = 15 cm, then the length (BC + BD) is:",
+          "options": ["18 cm", "12 cm", "24 cm", "36 cm"],
+          "chapter": "Circles",
+          "topic": "Tangent Properties",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 19,
+          "questionText": "Assertion (A): A tangent to a circle is perpendicular to the radius through the point of contact. Reason (R): The lengths of tangents drawn from the external point to a circle are equal.",
+          "chapter": "Circles",
+          "topic": "Theorem Review",
+          "marks": 1,
+          "questionType": "Assertion-Reason"
+        },
+        {
+          "qno": 20,
+          "questionText": "Assertion (A): The system of linear equations 3x + 5y - 4 = 0 and 15x + 25y - 25 = 0 is inconsistent. Reason (R): The pair of linear equations a1x + b1y + c1 = 0 and a2x + b2y + c2 = 0 is inconsistent if a1/a2 = b1/b2 ≠ c1/c2.",
+          "chapter": "Pair of Linear Equations in Two Variables",
+          "topic": "Condition for Inconsistency",
+          "marks": 1,
+          "questionType": "Assertion-Reason"
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "type": "VSA",
+      "marksPerQuestion": 2,
+      "questions": [
+        {
+          "qno": 21,
+          "questionText": "(a) Find the coordinates of the point which divides the line segment joining the points (7, -1) and (-3, 4) internally in the ratio 2 : 3. OR (b) Find the value(s) of y for which the distance between the points A(3, -1) and B(11, y) is 10 units.",
+          "chapter": "Coordinate Geometry",
+          "topic": "Section Formula / Distance Formula",
+          "marks": 2,
+          "internalChoice": true
+        },
+        {
+          "qno": 22,
+          "questionText": "Evaluate tan² 60° - 2 cosec² 30° - 2 tan² 30°.",
+          "chapter": "Introduction to Trigonometry",
+          "topic": "Trigonometric Values",
+          "marks": 2
+        },
+        {
+          "qno": 23,
+          "questionText": "Find the LCM and HCF of 92 and 510, using prime factorisation.",
+          "chapter": "Real Numbers",
+          "topic": "LCM and HCF",
+          "marks": 2
+        },
+        {
+          "qno": 24,
+          "questionText": "(a) Solve for x and y: x + y = 6, 2x - 3y = 4. OR (b) Find out whether the following pair of linear equations are consistent or inconsistent: 5x - 3y = 11, -10x + 6y = 22.",
+          "chapter": "Pair of Linear Equations in Two Variables",
+          "topic": "Solving Systems",
+          "marks": 2,
+          "internalChoice": true
+        },
+        {
+          "qno": 25,
+          "questionText": "In the given figure, ABC and AMP are two right triangles, right angled at B and M, respectively. Prove that ΔABC ~ ΔAMP.",
+          "chapter": "Triangles",
+          "topic": "Similarity Proof",
+          "marks": 2
+        }
+      ]
+    },
+    {
+      "section": "C",
+      "type": "SA",
+      "marksPerQuestion": 3,
+      "questions": [
+        {
+          "qno": 26,
+          "questionText": "(a) Prove that sec θ (1 - sin θ)(sec θ + tan θ) = 1. OR (b) Prove that (1 + sec θ) / sec θ = sin² θ / (1 - cos θ).",
+          "chapter": "Introduction to Trigonometry",
+          "topic": "Trigonometric Identities",
+          "marks": 3,
+          "internalChoice": true
+        },
+        {
+          "qno": 27,
+          "questionText": "Show that the points A(1, 7), B(4, 2), C(-1, -1) and D(-4, 4) are vertices of the square ABCD.",
+          "chapter": "Coordinate Geometry",
+          "topic": "Shape Proof",
+          "marks": 3
+        },
+        {
+          "qno": 28,
+          "questionText": "Prove that the tangents drawn from an external point to a circle are equal in length.",
+          "chapter": "Circles",
+          "topic": "Theorems",
+          "marks": 3
+        },
+        {
+          "qno": 29,
+          "questionText": "If α, β are zeroes of the quadratic polynomial x² + 3x + 2, find a quadratic polynomial whose zeroes are α + 1, β + 1.",
+          "chapter": "Polynomials",
+          "topic": "Polynomial Formation",
+          "marks": 3
+        },
+        {
+          "qno": 30,
+          "questionText": "Prove that 3 + 7√2 is an irrational number, given that √2 is an irrational number.",
+          "chapter": "Real Numbers",
+          "topic": "Rational/Irrational Proof",
+          "marks": 3
+        },
+        {
+          "qno": 31,
+          "questionText": "(a) In the given figure, DE || AC and DF || AE. Prove that BF/FE = BE/EC. OR (b) The diagonals of a quadrilateral ABCD intersect each other at the point O such that AO/BO = CO/OD. Show that quadrilateral ABCD is a trapezium.",
+          "chapter": "Triangles",
+          "topic": "BPT and Trapezia",
+          "marks": 3,
+          "internalChoice": true
+        }
+      ]
+    },
+    {
+      "section": "D",
+      "type": "LA",
+      "marksPerQuestion": 5,
+      "questions": [
+        {
+          "qno": 32,
+          "questionText": "(a) The diagonal of a rectangular field is 60 m more than the shorter side. If the longer side is 80 m more than the shorter side, find the length of the sides of the field. OR (b) The sum of the ages of a father and his son is 45 years. Five years ago, the product of their ages (in years) was 124. Determine their present age.",
+          "chapter": "Quadratic Equations",
+          "topic": "Word Problems",
+          "marks": 5,
+          "internalChoice": true
+        },
+        {
+          "qno": 33,
+          "questionText": "A vessel is in the form of a hemispherical bowl surmounted by a hollow cylinder of same diameter. The diameter of the hemispherical bowl is 14 cm and the total height of the vessel is 13 cm. Find the inner surface area of the vessel. Also, find the volume of the vessel.",
+          "chapter": "Surface Areas and Volumes",
+          "topic": "Combined Solids",
+          "marks": 5
+        },
+        {
+          "qno": 34,
+          "questionText": "The table given below shows the daily expenditure on food of 25 households in a locality. Find the mean daily expenditure on food. Also, find the mode of the data. (Expenditure: 100-150, 150-200, 200-250, 250-300, 300-350; Frequencies: 4, 5, 12, 2, 2)",
+          "chapter": "Statistics",
+          "topic": "Mean and Mode",
+          "marks": 5
+        },
+        {
+          "qno": 35,
+          "questionText": "(a) A TV tower stands vertically on the bank of a canal. From a point on the other bank directly opposite the tower, the angle of elevation of the top of the tower is 60°. From another point 20 m away from the point on the line joining this point to the foot of the tower, the angle of elevation of the top of the tower is 30°. Find the height of the tower. OR (b) An aeroplane when flying at a height of 4000 m from the ground passes vertically above another aeroplane at an instant when the angles of elevation of the two planes from the same point on the ground are 60° and 45° respectively. Find the vertical distance between the aeroplanes at that instant. (Use √3 = 1.73)",
+          "chapter": "Some Applications of Trigonometry",
+          "topic": "Heights and Distances",
+          "marks": 5,
+          "internalChoice": true
+        }
+      ]
+    },
+    {
+      "section": "E",
+      "type": "Case Study",
+      "marksPerQuestion": 4,
+      "questions": [
+        {
+          "qno": 36,
+          "questionText": "Aahana places pots in rows such that first row has 2, second row has 5, third row has 8 and so on. (i) Find the number of pots in 10th row. (ii) Find the difference in pots between 5th and 2nd row. (iii) If total pots are 100, find total rows. OR If 12 rows are available, find total pots.",
+          "chapter": "Arithmetic Progressions",
+          "topic": "Word Problems",
+          "marks": 4,
+          "internalChoice": true
+        },
+        {
+          "qno": 37,
+          "questionText": "A Rangoli design is in the shape of a square ABCD of side 40 cm. At each corner, a quadrant of radius 10 cm is drawn. A circle of diameter 20 cm is drawn in the middle. (i) Area of square ABCD? (ii) Area of the middle circle? (iii) Area of remaining portion if quadrants and circle are removed? OR Combined area of 4 quadrants and circle removed?",
+          "chapter": "Areas Related to Circles",
+          "topic": "Composite Figures",
+          "marks": 4,
+          "internalChoice": true
+        },
+        {
+          "qno": 38,
+          "questionText": "In a sample of 50 people, 21 had type O blood, 22 had type A, 5 had type B and rest had type AB. (i) Prob(Type O)? (ii) Prob(Type AB)? (iii) Prob(Neither A nor B)? OR Prob(Either A or B or O)?",
+          "chapter": "Probability",
+          "topic": "Empirical Probability",
+          "marks": 4,
+          "internalChoice": true
+        }
+      ]
+    }
+  ]
+}

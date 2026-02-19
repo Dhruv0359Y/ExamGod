@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "year": 2022,
+    "series": "PPQQA/1",
+    "set": "Set-1",
+    "qpCode": "30/1/1",
+    "subject": "Mathematics (Standard)",
+    "class": 10,
+    "timeAllowed": "2 Hours",
+    "maximumMarks": 40,
+    "totalQuestions": 14,
+    "sections": ["A", "B", "C"]
+  },
+  "sections": [
+    {
+      "section": "A",
+      "type": "VSA",
+      "marksPerQuestion": 2,
+      "questions": [
+        {
+          "qno": 1,
+          "questionText": "(a) Find the sum of first 30 terms of AP: -30, -24, -18, .... OR (b) In an AP if Sn = n(4n + 1), then find the AP.",
+          "chapter": "Arithmetic Progressions",
+          "topic": "Sum of n terms",
+          "marks": 2,
+          "internalChoice": true
+        },
+        {
+          "qno": 2,
+          "questionText": "A solid metallic sphere of radius 10.5 cm is melted and recast into a number of smaller cones, each of radius 3.5 cm and height 3 cm. Find the number of cones so formed.",
+          "chapter": "Surface Areas and Volumes",
+          "topic": "Conversion of Solids",
+          "marks": 2
+        },
+        {
+          "qno": 3,
+          "questionText": "(a) Find the value of m for which the quadratic equation (m - 1)x² + 2(m - 1)x + 1 = 0 has two real and equal roots. OR (b) Solve the following quadratic equation for x: √3x² + 10x + 7√3 = 0",
+          "chapter": "Quadratic Equations",
+          "topic": "Nature of Roots / Solving Equations",
+          "marks": 2,
+          "internalChoice": true
+        },
+        {
+          "qno": 4,
+          "questionText": "Find the mode of the following frequency distribution: Class (10-20, 20-30, 30-40, 40-50, 50-60) with Frequencies (15, 10, 12, 17, 4).",
+          "chapter": "Statistics",
+          "topic": "Mode",
+          "marks": 2
+        },
+        {
+          "qno": 5,
+          "questionText": "The product of Rehan's age (in years) 5 years ago and his age 7 years from now, is one more than twice his present age. Find his present age.",
+          "chapter": "Quadratic Equations",
+          "topic": "Word Problems",
+          "marks": 2
+        },
+        {
+          "qno": 6,
+          "questionText": "Two concentric circles are of radii 4 cm and 3 cm. Find the length of the chord of the larger circle which touches the smaller circle.",
+          "chapter": "Circles",
+          "topic": "Tangent and Radius",
+          "marks": 2
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "type": "SA",
+      "marksPerQuestion": 3,
+      "questions": [
+        {
+          "qno": 7,
+          "questionText": "For what value of x, is the median of the following frequency distribution 34.5? (Classes 0-10 to 60-70 with frequencies 3, 5, 11, 10, x, 3, 2).",
+          "chapter": "Statistics",
+          "topic": "Median",
+          "marks": 3
+        },
+        {
+          "qno": 8,
+          "questionText": "Draw a circle of radius 3 cm. Take two points P and Q on one of its extended diameter each at a distance of 7 cm from its centre. Construct tangents to the circle from these two points P and Q.",
+          "chapter": "Constructions",
+          "topic": "Tangents to a Circle",
+          "marks": 3
+        },
+        {
+          "qno": 9,
+          "questionText": "(a) The angle of elevation of the top of a building from the foot of the tower is 30° and the angle of elevation of the top of the tower from the foot of the building is 60°. If the tower is 50 m high, then find the height of the building. OR (b) From a point on a bridge across a river, the angles of depression of the banks on opposite sides of the river are 30° and 45° respectively. If the bridge is at a height of 3 m from the banks, then find the width of the river.",
+          "chapter": "Some Applications of Trigonometry",
+          "topic": "Heights and Distances",
+          "marks": 3,
+          "internalChoice": true
+        },
+        {
+          "qno": 10,
+          "questionText": "Following is the daily expenditure on lunch by 30 employees of a company: (Expenditure 100-120 to 180-200 with employees 8, 3, 8, 6, 5). Find the mean daily expenditure of the employees.",
+          "chapter": "Statistics",
+          "topic": "Mean",
+          "marks": 3
+        }
+      ]
+    },
+    {
+      "section": "C",
+      "type": "LA / Case Study",
+      "marksPerQuestion": 4,
+      "questions": [
+        {
+          "qno": 11,
+          "questionText": "(a) From a solid cylinder of height 30 cm and radius 7 cm, a conical cavity of height 24 cm and same radius is hollowed out. Find the total surface area of the remaining solid. OR (b) Water in a canal, 8 m wide and 6 m deep, is flowing with a speed of 12 km/hour. How much area will it irrigate in one hour, if 0.05 m of standing water is required?",
+          "chapter": "Surface Areas and Volumes",
+          "topic": "Combination of Solids / Water Flow",
+          "marks": 4,
+          "internalChoice": true
+        },
+        {
+          "qno": 12,
+          "questionText": "In Figure 1, a triangle ABC with ∠B = 90° is shown. Taking AB as diameter, a circle has been drawn intersecting AC at point P. Prove that the tangent drawn at point P bisects BC.",
+          "chapter": "Circles",
+          "topic": "Tangent Proof",
+          "marks": 4
+        },
+        {
+          "qno": 13,
+          "questionText": "Case Study - 1: Matchstick patterns (Figure 1, 2, 3). (a) Write the AP for the number of triangles used in the figures. Also, write the nth term of this AP. (b) Which figure has 61 matchsticks?",
+          "chapter": "Arithmetic Progressions",
+          "topic": "Case Study Pattern",
+          "marks": 4
+        },
+        {
+          "qno": 14,
+          "questionText": "Case Study - 2: Gadisar Lake. From a point A, h m above water level, the angle of elevation of top of Chhatri (point B) is 45° and angle of depression of its reflection (point C) is 60°. (a) Draw a well-labelled figure. (b) Find the height (h) of point A above water level if Chhatri height is 10 m.",
+          "chapter": "Some Applications of Trigonometry",
+          "topic": "Case Study Trigonometry",
+          "marks": 4
+        }
+      ]
+    }
+  ]
+}

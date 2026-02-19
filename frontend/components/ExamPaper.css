@@ -1,0 +1,268 @@
+/* ExamPaper.css */
+.exam-paper-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 40px 30px;
+  background: white;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+/* Header Section */
+.exam-header {
+  text-align: center;
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  border-bottom: 2px solid #333;
+}
+
+.school-name {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.exam-title {
+  font-size: 28px;
+  font-weight: 800;
+  margin: 15px 0 10px;
+  text-transform: uppercase;
+  color: #1e3a8a;
+}
+
+.subject-code {
+  font-size: 16px;
+  color: #4b5563;
+  margin: 5px 0;
+}
+
+/* Meta Information */
+.exam-meta {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 0;
+  border-bottom: 1px dashed #9ca3af;
+  font-weight: 500;
+}
+
+/* Instructions */
+.instructions-section {
+  background: #f3f4f6;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 6px;
+  border-left: 4px solid #2563eb;
+}
+
+.instructions-title {
+  font-weight: 800;
+  font-size: 18px;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+  color: #1e3a8a;
+}
+
+.instructions-list {
+  list-style-type: decimal;
+  padding-left: 20px;
+  margin: 0;
+}
+
+.instructions-list li {
+  margin: 8px 0;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #374151;
+}
+
+/* Section Styling */
+.section {
+  margin: 30px 0;
+  page-break-inside: avoid;
+}
+
+.section-header {
+  background: #1e3a8a;
+  color: white;
+  padding: 12px 20px;
+  margin: 20px 0 15px;
+  font-weight: 800;
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border-radius: 4px;
+}
+
+.section-subheader {
+  font-weight: 700;
+  font-size: 16px;
+  margin: 15px 0 10px;
+  padding-bottom: 5px;
+  border-bottom: 2px solid #9ca3af;
+  text-transform: uppercase;
+  color: #1f2937;
+}
+
+/* Question Styling */
+.question-item {
+  margin: 20px 0;
+  padding: 10px;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.question-number {
+  font-weight: 800;
+  font-size: 16px;
+  display: inline-block;
+  min-width: 40px;
+  color: #1e3a8a;
+}
+
+.question-text {
+  font-size: 15px;
+  line-height: 1.7;
+  color: #111827;
+}
+
+.question-meta {
+  display: flex;
+  gap: 15px;
+  margin-top: 8px;
+  font-size: 13px;
+  color: #4b5563;
+}
+
+.marks-badge {
+  background: #dbeafe;
+  color: #1e3a8a;
+  padding: 3px 10px;
+  border-radius: 20px;
+  font-weight: 600;
+  display: inline-block;
+}
+
+.source-badge {
+  background: #f3f4f6;
+  color: #4b5563;
+  padding: 3px 10px;
+  border-radius: 20px;
+  font-size: 12px;
+}
+
+/* OR Separator */
+.or-separator {
+  text-align: center;
+  margin: 15px 0;
+  font-weight: 800;
+  color: #4b5563;
+  position: relative;
+}
+
+.or-separator::before,
+.or-separator::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  width: 45%;
+  height: 1px;
+  background: #d1d5db;
+}
+
+.or-separator::before {
+  left: 0;
+}
+.or-separator::after {
+  right: 0;
+}
+
+/* Internal Choice */
+.internal-choice {
+  margin-left: 40px;
+  padding: 15px;
+  background: #f9fafb;
+  border-radius: 6px;
+  border-left: 3px solid #9ca3af;
+}
+
+/* Case Study Specific */
+.case-study {
+  background: #f8fafc;
+  padding: 20px;
+  border-radius: 8px;
+  margin: 20px 0;
+  border: 1px solid #e2e8f0;
+}
+
+.case-study-title {
+  font-weight: 800;
+  margin-bottom: 15px;
+  color: #1e3a8a;
+  font-size: 18px;
+}
+
+.case-study-questions {
+  padding-left: 20px;
+}
+
+/* Footer */
+.exam-footer {
+  margin-top: 40px;
+  padding-top: 20px;
+  border-top: 2px solid #333;
+  text-align: center;
+  font-size: 14px;
+  color: #4b5563;
+}
+
+.footer-note {
+  margin: 10px 0;
+  font-style: italic;
+}
+
+/* Print Styles */
+@media print {
+  .exam-paper-container {
+    box-shadow: none;
+    padding: 20px;
+  }
+
+  .section-header {
+    background: #1e3a8a !important;
+    color: white !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .instructions-section {
+    background: #f3f4f6 !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .no-print {
+    display: none !important;
+  }
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .exam-paper-container {
+    padding: 20px 15px;
+  }
+
+  .school-name {
+    font-size: 20px;
+  }
+
+  .exam-title {
+    font-size: 22px;
+  }
+
+  .exam-meta {
+    flex-direction: column;
+    gap: 10px;
+  }
+}

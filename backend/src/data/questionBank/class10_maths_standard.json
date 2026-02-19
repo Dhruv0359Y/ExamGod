@@ -1,0 +1,2306 @@
+[
+  {
+    "year": 2022,
+    "section": "A",
+    "type": "VSA",
+    "chapter": "Quadratic Equations",
+    "topic": "Solving Quadratic Equations",
+    "marks": 2,
+    "questionText": "Find the roots of the quadratic equation x² - 3x - 10 = 0."
+  },
+  {
+    "year": 2022,
+    "section": "A",
+    "type": "VSA",
+    "chapter": "Arithmetic Progressions",
+    "topic": "Sum of n terms",
+    "marks": 2,
+    "questionText": "Find the sum of first 20 terms of an A.P. whose first term is 2 and the common difference is 5."
+  },
+  {
+    "year": 2022,
+    "section": "A",
+    "type": "VSA",
+    "chapter": "Surface Areas and Volumes",
+    "topic": "Conversion of Solids",
+    "marks": 2,
+    "questionText": "A solid metallic sphere of radius 6 cm is melted and recast into a number of smaller solid cones, each of radius 2 cm and height 3 cm. Find the number of cones so formed."
+  },
+  {
+    "year": 2022,
+    "section": "A",
+    "type": "VSA",
+    "chapter": "Statistics",
+    "topic": "Mode / Median",
+    "marks": 2,
+    "questionText": "(a) Find the mode of the following frequency distribution: (Class 0-10, 10-20, 20-30, 30-40, 40-50) with Frequencies (5, 8, 15, 10, 2). OR (b) Find the median of the following frequency distribution: (Class 0-6, 6-12, 12-18, 18-24, 24-30) with Frequencies (4, 7, 10, 8, 1)."
+  },
+  {
+    "year": 2022,
+    "section": "A",
+    "type": "VSA",
+    "chapter": "Circles",
+    "topic": "Tangent Properties",
+    "marks": 2,
+    "questionText": "In the given figure, a circle touches all the four sides of a quadrilateral ABCD whose sides are AB = 6 cm, BC = 7 cm and CD = 4 cm. Find the length of AD."
+  },
+  {
+    "year": 2022,
+    "section": "A",
+    "type": "VSA",
+    "chapter": "Quadratic Equations",
+    "topic": "Nature of Roots",
+    "marks": 2,
+    "questionText": "Find the value of 'k' for which the quadratic equation kx(x - 2) + 6 = 0 has two equal roots."
+  },
+  {
+    "year": 2022,
+    "section": "B",
+    "type": "SA",
+    "chapter": "Constructions",
+    "topic": "Tangents to Circles",
+    "marks": 3,
+    "questionText": "Draw a line segment AB of length 7 cm. Around A and B, draw circles of radii 3 cm and 2 cm respectively. Construct tangents to each circle from the centre of the other circle."
+  },
+  {
+    "year": 2022,
+    "section": "B",
+    "type": "SA",
+    "chapter": "Statistics",
+    "topic": "Mean",
+    "marks": 3,
+    "questionText": "The arithmetic mean of the following frequency distribution is 25. Find the value of 'f': (Class 0-10, 10-20, 20-30, 30-40, 40-50) with Frequencies (5, 18, 15, f, 6)."
+  },
+  {
+    "year": 2022,
+    "section": "B",
+    "type": "SA",
+    "chapter": "Some Applications of Trigonometry",
+    "topic": "Heights and Distances",
+    "marks": 3,
+    "questionText": "(a) The angle of elevation of the top of a tower from a point on the ground, which is 30 m away from the foot of the tower, is 30°. Find the height of the tower. OR (b) A kite is flying at a height of 60 m above the ground. The string attached to the kite is temporarily tied to a point on the ground. The inclination of the string with the ground is 60°. Find the length of the string, assuming that there is no slack in the string."
+  },
+  {
+    "year": 2022,
+    "section": "B",
+    "type": "SA",
+    "chapter": "Circles",
+    "topic": "Theorems on Tangents",
+    "marks": 3,
+    "questionText": "Prove that the lengths of tangents drawn from an external point to a circle are equal."
+  },
+  {
+    "year": 2022,
+    "section": "C",
+    "type": "LA / Case Study",
+    "chapter": "Surface Areas and Volumes",
+    "topic": "Volume and Surface Area",
+    "marks": 4,
+    "questionText": "(a) A well of diameter 3 m is dug 14 m deep. The earth taken out of it has been spread evenly all around it in the shape of a circular ring of width 4 m to form an embankment. Find the height of the embankment. OR (b) A wooden article was made by scooping out a hemisphere from each end of a solid cylinder. If the height of the cylinder is 10 cm and its base is of radius 3.5 cm, find the total surface area of the article."
+  },
+  {
+    "year": 2022,
+    "section": "C",
+    "type": "LA / Case Study",
+    "chapter": "Quadratic Equations",
+    "topic": "Word Problems",
+    "marks": 4,
+    "questionText": "The sum of the squares of two consecutive odd positive integers is 290. Find the integers."
+  },
+  {
+    "year": 2022,
+    "section": "C",
+    "type": "LA / Case Study",
+    "chapter": "Arithmetic Progressions",
+    "topic": "Real-life Application",
+    "marks": 4,
+    "questionText": "Case Study 1: Crochet Patterns. Knitting is a method by which yarn is manipulated to create a textile or fabric. (a) Check whether the given pattern (2, 5, 8...) forms an AP. If yes, find the common difference and the next term. (b) Write the nth term of the AP. Hence, find the number of stitches in the 10th circular row."
+  },
+  {
+    "year": 2022,
+    "section": "C",
+    "type": "LA / Case Study",
+    "chapter": "Some Applications of Trigonometry",
+    "topic": "Trigonometry Case Study",
+    "marks": 4,
+    "questionText": "Case Study 2: TV Tower in Pitampura, Delhi. From a point 'A' on the ground, the angle of elevation of the top of the tower 'B' is 60°. Point 'C' is at a height of 78 m on the tower. From A, the angle of elevation of C is 30°. (a) Draw a well-labelled diagram of the situation. (b) Find the height of the tower and the distance of point A from the tower."
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Real Numbers",
+    "topic": "Fundamental Theorem of Arithmetic",
+    "marks": 1,
+    "questionText": "The prime factorisation of natural number 288 is"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Introduction to Trigonometry",
+    "topic": "Trigonometric Ratios of Specific Angles",
+    "marks": 1,
+    "questionText": "If 2 cos θ = 1, then the value of θ is"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Probability",
+    "topic": "Playing Cards",
+    "marks": 1,
+    "questionText": "A card is drawn at random from a well-shuffled deck of 52 cards. The probability of getting a red card is:"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Quadratic Equations",
+    "topic": "Nature of Roots",
+    "marks": 1,
+    "questionText": "The discriminant of the quadratic equation 2x² - 5x - 3 = 0 is"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Coordinate Geometry",
+    "topic": "Distance Formula",
+    "marks": 1,
+    "questionText": "The distance between the points (3, 0) and (0, -3) is"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Arithmetic Progressions",
+    "topic": "nth Term of an AP",
+    "marks": 1,
+    "questionText": "The seventh term of an A.P. whose first term is 28 and common difference -4, is"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Polynomials",
+    "topic": "Geometrical Meaning of Zeroes",
+    "marks": 1,
+    "questionText": "The graph of y = p(x) is shown in the figure for some polynomial p(x). The number of zeroes of p(x) is/are:"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Triangles",
+    "topic": "Similar Triangles",
+    "marks": 1,
+    "questionText": "The sides of two similar triangles are in the ratio 4 : 7. The ratio of their perimeters is"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Triangles",
+    "topic": "Similarity Criterion",
+    "marks": 1,
+    "questionText": "In the given figure, AB || CD. If AB = 5 cm, CD = 2 cm and OB = 3 cm, then the length of OC is"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Polynomials",
+    "topic": "Relationship between Zeroes and Coefficients",
+    "marks": 1,
+    "questionText": "The sum and the product of zeroes of the polynomial p(x) = x² + 5x + 6 are respectively"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Probability",
+    "topic": "Basic Events",
+    "marks": 1,
+    "questionText": "A die is thrown once. Find the probability of getting a number less than 7."
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Some Applications of Trigonometry",
+    "topic": "Heights and Distances",
+    "marks": 1,
+    "questionText": "The angle subtended by a vertical pole of height 100 m at a point on the ground 100√3 m from the base is, has measure of"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Surface Areas and Volumes",
+    "topic": "Volume of Cone",
+    "marks": 1,
+    "questionText": "The volume of a cone of radius 'r' and height '3r' is:"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Circles",
+    "topic": "Tangent Properties",
+    "marks": 1,
+    "questionText": "The distance between two parallel tangents of a circle of diameter 7 cm is:"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Triangles",
+    "topic": "Similarity Criteria",
+    "marks": 1,
+    "questionText": "In the given figure (triangles ABC and PQR with specific sides and angle 50°), the criterion of similarity by which ΔABC ~ ΔPQR is:"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Pair of Linear Equations in Two Variables",
+    "topic": "Complementary and Supplementary Angles",
+    "marks": 1,
+    "questionText": "The larger of two supplementary angles exceeds the smaller by 18 degrees. What is the measure of larger angle?"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Circles",
+    "topic": "Tangent Lengths",
+    "marks": 1,
+    "questionText": "In the given figure, the perimeter of ΔABC is (given AR=6cm, AQ=5cm, BP=4cm):"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Circles",
+    "topic": "Tangent Properties",
+    "marks": 1,
+    "questionText": "In the given figure, BC and BD are tangents to the circle with centre O and radius 9 cm. If OB = 15 cm, then the length (BC + BD) is:"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Circles",
+    "topic": "Theorem Review",
+    "marks": 1,
+    "questionText": "Assertion (A): A tangent to a circle is perpendicular to the radius through the point of contact. Reason (R): The lengths of tangents drawn from the external point to a circle are equal."
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Pair of Linear Equations in Two Variables",
+    "topic": "Condition for Inconsistency",
+    "marks": 1,
+    "questionText": "Assertion (A): The system of linear equations 3x + 5y - 4 = 0 and 15x + 25y - 25 = 0 is inconsistent. Reason (R): The pair of linear equations a1x + b1y + c1 = 0 and a2x + b2y + c2 = 0 is inconsistent if a1/a2 = b1/b2 ≠ c1/c2."
+  },
+  {
+    "year": 2023,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Coordinate Geometry",
+    "topic": "Section Formula / Distance Formula",
+    "marks": 2,
+    "questionText": "(a) Find the coordinates of the point which divides the line segment joining the points (7, -1) and (-3, 4) internally in the ratio 2 : 3. OR (b) Find the value(s) of y for which the distance between the points A(3, -1) and B(11, y) is 10 units."
+  },
+  {
+    "year": 2023,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Introduction to Trigonometry",
+    "topic": "Trigonometric Values",
+    "marks": 2,
+    "questionText": "Evaluate tan² 60° - 2 cosec² 30° - 2 tan² 30°."
+  },
+  {
+    "year": 2023,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Real Numbers",
+    "topic": "LCM and HCF",
+    "marks": 2,
+    "questionText": "Find the LCM and HCF of 92 and 510, using prime factorisation."
+  },
+  {
+    "year": 2023,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Pair of Linear Equations in Two Variables",
+    "topic": "Solving Systems",
+    "marks": 2,
+    "questionText": "(a) Solve for x and y: x + y = 6, 2x - 3y = 4. OR (b) Find out whether the following pair of linear equations are consistent or inconsistent: 5x - 3y = 11, -10x + 6y = 22."
+  },
+  {
+    "year": 2023,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Triangles",
+    "topic": "Similarity Proof",
+    "marks": 2,
+    "questionText": "In the given figure, ABC and AMP are two right triangles, right angled at B and M, respectively. Prove that ΔABC ~ ΔAMP."
+  },
+  {
+    "year": 2023,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Introduction to Trigonometry",
+    "topic": "Trigonometric Identities",
+    "marks": 3,
+    "questionText": "(a) Prove that sec θ (1 - sin θ)(sec θ + tan θ) = 1. OR (b) Prove that (1 + sec θ) / sec θ = sin² θ / (1 - cos θ)."
+  },
+  {
+    "year": 2023,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Coordinate Geometry",
+    "topic": "Shape Proof",
+    "marks": 3,
+    "questionText": "Show that the points A(1, 7), B(4, 2), C(-1, -1) and D(-4, 4) are vertices of the square ABCD."
+  },
+  {
+    "year": 2023,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Circles",
+    "topic": "Theorems",
+    "marks": 3,
+    "questionText": "Prove that the tangents drawn from an external point to a circle are equal in length."
+  },
+  {
+    "year": 2023,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Polynomials",
+    "topic": "Polynomial Formation",
+    "marks": 3,
+    "questionText": "If α, β are zeroes of the quadratic polynomial x² + 3x + 2, find a quadratic polynomial whose zeroes are α + 1, β + 1."
+  },
+  {
+    "year": 2023,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Real Numbers",
+    "topic": "Rational/Irrational Proof",
+    "marks": 3,
+    "questionText": "Prove that 3 + 7√2 is an irrational number, given that √2 is an irrational number."
+  },
+  {
+    "year": 2023,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Triangles",
+    "topic": "BPT and Trapezia",
+    "marks": 3,
+    "questionText": "(a) In the given figure, DE || AC and DF || AE. Prove that BF/FE = BE/EC. OR (b) The diagonals of a quadrilateral ABCD intersect each other at the point O such that AO/BO = CO/OD. Show that quadrilateral ABCD is a trapezium."
+  },
+  {
+    "year": 2023,
+    "section": "D",
+    "type": "LA",
+    "chapter": "Quadratic Equations",
+    "topic": "Word Problems",
+    "marks": 5,
+    "questionText": "(a) The diagonal of a rectangular field is 60 m more than the shorter side. If the longer side is 80 m more than the shorter side, find the length of the sides of the field. OR (b) The sum of the ages of a father and his son is 45 years. Five years ago, the product of their ages (in years) was 124. Determine their present age."
+  },
+  {
+    "year": 2023,
+    "section": "D",
+    "type": "LA",
+    "chapter": "Surface Areas and Volumes",
+    "topic": "Combined Solids",
+    "marks": 5,
+    "questionText": "A vessel is in the form of a hemispherical bowl surmounted by a hollow cylinder of same diameter. The diameter of the hemispherical bowl is 14 cm and the total height of the vessel is 13 cm. Find the inner surface area of the vessel. Also, find the volume of the vessel."
+  },
+  {
+    "year": 2023,
+    "section": "D",
+    "type": "LA",
+    "chapter": "Statistics",
+    "topic": "Mean and Mode",
+    "marks": 5,
+    "questionText": "The table given below shows the daily expenditure on food of 25 households in a locality. Find the mean daily expenditure on food. Also, find the mode of the data. (Expenditure: 100-150, 150-200, 200-250, 250-300, 300-350; Frequencies: 4, 5, 12, 2, 2)"
+  },
+  {
+    "year": 2023,
+    "section": "D",
+    "type": "LA",
+    "chapter": "Some Applications of Trigonometry",
+    "topic": "Heights and Distances",
+    "marks": 5,
+    "questionText": "(a) A TV tower stands vertically on the bank of a canal. From a point on the other bank directly opposite the tower, the angle of elevation of the top of the tower is 60°. From another point 20 m away from the point on the line joining this point to the foot of the tower, the angle of elevation of the top of the tower is 30°. Find the height of the tower. OR (b) An aeroplane when flying at a height of 4000 m from the ground passes vertically above another aeroplane at an instant when the angles of elevation of the two planes from the same point on the ground are 60° and 45° respectively. Find the vertical distance between the aeroplanes at that instant. (Use √3 = 1.73)"
+  },
+  {
+    "year": 2023,
+    "section": "E",
+    "type": "Case Study",
+    "chapter": "Arithmetic Progressions",
+    "topic": "Word Problems",
+    "marks": 4,
+    "questionText": "Aahana places pots in rows such that first row has 2, second row has 5, third row has 8 and so on. (i) Find the number of pots in 10th row. (ii) Find the difference in pots between 5th and 2nd row. (iii) If total pots are 100, find total rows. OR If 12 rows are available, find total pots."
+  },
+  {
+    "year": 2023,
+    "section": "E",
+    "type": "Case Study",
+    "chapter": "Areas Related to Circles",
+    "topic": "Composite Figures",
+    "marks": 4,
+    "questionText": "A Rangoli design is in the shape of a square ABCD of side 40 cm. At each corner, a quadrant of radius 10 cm is drawn. A circle of diameter 20 cm is drawn in the middle. (i) Area of square ABCD? (ii) Area of the middle circle? (iii) Area of remaining portion if quadrants and circle are removed? OR Combined area of 4 quadrants and circle removed?"
+  },
+  {
+    "year": 2023,
+    "section": "E",
+    "type": "Case Study",
+    "chapter": "Probability",
+    "topic": "Empirical Probability",
+    "marks": 4,
+    "questionText": "In a sample of 50 people, 21 had type O blood, 22 had type A, 5 had type B and rest had type AB. (i) Prob(Type O)? (ii) Prob(Type AB)? (iii) Prob(Neither A nor B)? OR Prob(Either A or B or O)?"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Arithmetic Progressions",
+    "topic": "Terms of AP",
+    "marks": 1,
+    "questionText": "The next term (a₅) of the A.P. √7, √28, √63, √112, ... is:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Probability",
+    "topic": "Playing Cards",
+    "marks": 1,
+    "questionText": "If a card is drawn at random from a well-shuffled deck of 52 playing cards, then the probability of getting a non-face card is:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Coordinate Geometry",
+    "topic": "Distance Formula",
+    "marks": 1,
+    "questionText": "The distance of the point (-6, 8) from the origin is:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Polynomials",
+    "topic": "Relationship between Zeroes and Coefficients",
+    "marks": 1,
+    "questionText": "If the sum of the zeroes of the quadratic polynomial kx² + 2x + 3k is equal to their product, then the value of k is:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Triangles",
+    "topic": "Similar Triangles",
+    "marks": 1,
+    "questionText": "In the given figure, ΔABC ~ ΔPQR. The value of x is:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Quadratic Equations",
+    "topic": "Nature of Roots",
+    "marks": 1,
+    "questionText": "The nature of roots of the quadratic equation 9x² - 6x - 2 = 0 is:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Real Numbers",
+    "topic": "HCF and LCM Relationship",
+    "marks": 1,
+    "questionText": "If the HCF (2520, 6600) = 40, then LCM (2520, 6600) is:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Pair of Linear Equations in Two Variables",
+    "topic": "Graphical Representation",
+    "marks": 1,
+    "questionText": "The pair of linear equations 2x = 5y + 6 and 15y = 6x - 18 represents two lines which are:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Polynomials",
+    "topic": "Formation of Polynomial",
+    "marks": 1,
+    "questionText": "A quadratic polynomial, the sum and product of whose zeroes are -3 and 2 respectively, is:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Introduction to Trigonometry",
+    "topic": "Trigonometric Values",
+    "marks": 1,
+    "questionText": "The value of (sin 30° cos 60° + sin 60° cos 30°) is:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Circles",
+    "topic": "Tangent Properties",
+    "marks": 1,
+    "questionText": "In the given figure, AT is a tangent to a circle with centre O. If OT = 4 cm and ∠OTA = 30°, then AT is equal to:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Areas Related to Circles",
+    "topic": "Area Comparison",
+    "marks": 1,
+    "questionText": "If the perimeter of a circle is equal to that of a square, then the ratio of their areas is:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Surface Areas and Volumes",
+    "topic": "Volume Ratio",
+    "marks": 1,
+    "questionText": "If the radii of two spheres are in the ratio 2 : 3, then the ratio of their volumes is:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Statistics",
+    "topic": "Mode",
+    "marks": 1,
+    "questionText": "The modal class of the following distribution is: (Marks 0-10 to 40-50 with frequencies 10, 15, 12, 20, 9)"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Introduction to Trigonometry",
+    "topic": "Trigonometric Equations",
+    "marks": 1,
+    "questionText": "If 2 sin²θ - cos²θ = 2, then θ is:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Probability",
+    "topic": "Basic Probability",
+    "marks": 1,
+    "questionText": "The probability of getting a number greater than 2 in a single throw of a die is:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Areas Related to Circles",
+    "topic": "Sector Area",
+    "marks": 1,
+    "questionText": "If the area of a sector of a circle of radius 6 cm is 13.2 cm², then the control angle of the sector is:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Surface Areas and Volumes",
+    "topic": "Hemisphere",
+    "marks": 1,
+    "questionText": "The total surface area of a solid hemisphere of radius 7 cm is:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Coordinate Geometry",
+    "topic": "Coordinates",
+    "marks": 1,
+    "questionText": "Assertion (A): The point (0, 4) lies on the y-axis. Reason (R): The x-coordinate of every point on the y-axis is zero."
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Real Numbers",
+    "topic": "HCF and LCM Properties",
+    "marks": 1,
+    "questionText": "Assertion (A): The HCF of two numbers is 5 and their product is 150. Then their LCM is 40. Reason (R): For any two positive integers a and b, HCF (a, b) × LCM (a, b) = a × b."
+  },
+  {
+    "year": 2024,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Polynomials",
+    "topic": "Zeroes of Polynomial",
+    "marks": 2,
+    "questionText": "Find the zeroes of the quadratic polynomial 4x² - 12x + 9."
+  },
+  {
+    "year": 2024,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Triangles / Geometry",
+    "topic": "Trapezium Properties",
+    "marks": 2,
+    "questionText": "In the given figure, ABCD is a trapezium in which AB || DC. If AD = BC, prove that ∠A = ∠B."
+  },
+  {
+    "year": 2024,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Introduction to Trigonometry",
+    "topic": "Trigonometric Values",
+    "marks": 2,
+    "questionText": "(a) Evaluate: (sin² 30° + sin² 60°) / (cos² 30° + cos² 60°). OR (b) If sin(A - B) = 1/2 and cos(A + B) = 1/2, 0° < A + B ≤ 90°, A > B, find A and B."
+  },
+  {
+    "year": 2024,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Circles",
+    "topic": "Tangent Theorems",
+    "marks": 2,
+    "questionText": "Prove that the tangents drawn at the ends of a diameter of a circle are parallel."
+  },
+  {
+    "year": 2024,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Real Numbers",
+    "topic": "Irrationality / Number Theory",
+    "marks": 2,
+    "questionText": "(a) Prove that 3 + 2√5 is an irrational number, given that √5 is an irrational number. OR (b) Check whether 4ⁿ can end with the digit 0 for any natural number n."
+  },
+  {
+    "year": 2024,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Coordinate Geometry",
+    "topic": "Section Formula",
+    "marks": 3,
+    "questionText": "Find the ratio in which the line segment joining the points A(1, -5) and B(-4, 5) is divided by the x-axis. Also find the coordinates of the point of division."
+  },
+  {
+    "year": 2024,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Introduction to Trigonometry",
+    "topic": "Trigonometric Identities",
+    "marks": 3,
+    "questionText": "Prove that: (sin θ - 2 sin³θ) / (2 cos³θ - cos θ) = tan θ."
+  },
+  {
+    "year": 2024,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Real Numbers",
+    "topic": "Prime Factorisation",
+    "marks": 3,
+    "questionText": "Find the HCF and LCM of 144, 180 and 192 by prime factorisation method."
+  },
+  {
+    "year": 2024,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Circles",
+    "topic": "Tangent Theorems",
+    "marks": 3,
+    "questionText": "(a) Prove that the lengths of tangents drawn from an external point to a circle are equal. OR (b) In the given figure, XY and X'Y' are two parallel tangents to a circle with centre O and another tangent AB with point of contact C intersecting XY at A and X'Y' at B. Prove that ∠AOB = 90°."
+  },
+  {
+    "year": 2024,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Pair of Linear Equations in Two Variables",
+    "topic": "Word Problems",
+    "marks": 3,
+    "questionText": "A lending library has a fixed charge for the first three days and an additional charge for each day thereafter. Saritha paid ₹ 27 for a book kept for seven days, while Susy paid ₹ 21 for the book she kept for five days. Find the fixed charge and the charge for each extra day."
+  },
+  {
+    "year": 2024,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Areas Related to Circles",
+    "topic": "Area of Segment",
+    "marks": 3,
+    "questionText": "Find the area of the segment AYB in the given figure, if radius of the circle is 21 cm and ∠AOB = 120°. (Use π = 22/7)"
+  },
+  {
+    "year": 2024,
+    "section": "D",
+    "type": "LA",
+    "chapter": "Quadratic Equations",
+    "topic": "Word Problems / Solving Equations",
+    "marks": 5,
+    "questionText": "(a) A train travels 360 km at a uniform speed. If the speed had been 5 km/h more, it would have taken 1 hour less for the same journey. Find the speed of the train. OR (b) Solve for x: 1/(x-1) - 1/(x+5) = 6/7, x ≠ 1, -5."
+  },
+  {
+    "year": 2024,
+    "section": "D",
+    "type": "LA",
+    "chapter": "Triangles",
+    "topic": "Basic Proportionality Theorem",
+    "marks": 5,
+    "questionText": "(a) If a line is drawn parallel to one side of a triangle to intersect the other two sides in distinct points, the other two sides are divided in the same ratio. Prove this. OR (b) In the given figure, AB || CD || EF. If AC = 6 cm, CE = 4 cm and FB = 15 cm, find FD and DB."
+  },
+  {
+    "year": 2024,
+    "section": "D",
+    "type": "LA",
+    "chapter": "Some Applications of Trigonometry",
+    "topic": "Heights and Distances",
+    "marks": 5,
+    "questionText": "The angles of depression of the top and bottom of an 8 m tall building from the top of a multi-storied building are 30° and 45°, respectively. Find the height of the multi-storied building and the distance between the two buildings. (Use √3 = 1.732)"
+  },
+  {
+    "year": 2024,
+    "section": "D",
+    "type": "LA",
+    "chapter": "Surface Areas and Volumes",
+    "topic": "Combination of Solids",
+    "marks": 5,
+    "questionText": "A solid is in the form of a cone standing on a hemisphere with both their radii being equal to 1 cm and the height of the cone is equal to its radius. Find the volume of the solid in terms of π. Also, find the surface area of the solid."
+  },
+  {
+    "year": 2024,
+    "section": "E",
+    "type": "Case Study",
+    "chapter": "Quadratic Equations",
+    "topic": "Applications",
+    "marks": 4,
+    "questionText": "While designing the school year book, a teacher asked the student that the length and width of a particular photo is increased by x units each to double the area of the photo. The original photo is 18 cm long and 12 cm wide. Based on the above information, answer the following: (i) Write an algebraic equation depicting the above information. (ii) Write the corresponding quadratic equation in standard form. (iii) Find the value of x by factorization. OR Find the new area of the enlarged photo."
+  },
+  {
+    "year": 2024,
+    "section": "E",
+    "type": "Case Study",
+    "chapter": "Statistics",
+    "topic": "Median and Mode",
+    "marks": 4,
+    "questionText": "The lengths of 40 leaves of a plant are measured correct to the nearest millimetre. The data obtained is represented in the following table: (70-80 mm to 130-140 mm with frequencies 3, 5, 9, 12, 5, 4, 2). Based on the above information, answer the following: (i) Write the median class of the data. (ii) How many leaves are of length equal to or more than 10 cm? (iii) Find median of the data. OR Write the modal class and find the mode of the data."
+  },
+  {
+    "year": 2024,
+    "section": "E",
+    "type": "Case Study",
+    "chapter": "Circles",
+    "topic": "Tangent Application",
+    "marks": 4,
+    "questionText": "The picture given below shows a circular mirror hanging on the wall with a cord. The diagram represents the mirror as a circle with centre O, AP and AQ are tangents to the circle at P and Q respectively. If AP = 30 cm and ∠PAQ = 60°. Based on the above information, answer the following: (i) Find the length of PQ. (ii) Find m∠POQ. (iii) Find the length of OA. OR Find the radius of the mirror."
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Real Numbers",
+    "topic": "HCF and LCM",
+    "marks": 1,
+    "questionText": "If the HCF of two positive integers a and b is 1, then their LCM is:"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Real Numbers",
+    "topic": "Rational and Irrational Numbers",
+    "marks": 1,
+    "questionText": "The number 3 + √2 is:"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Quadratic Equations",
+    "topic": "Discriminant",
+    "marks": 1,
+    "questionText": "The discriminant of the quadratic equation x² − 3x − 2 = 0 is:"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Quadratic Equations",
+    "topic": "Standard Form of Quadratic Equation",
+    "marks": 1,
+    "questionText": "The equation x + 1/x = 3 (x ≠ 0) is expressed as a quadratic equation in the form of ax² + bx + c = 0. The value of a − b + c is:"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Coordinate Geometry",
+    "topic": "Coordinates",
+    "marks": 1,
+    "questionText": "For a point (3, −5), the value of (abscissa − ordinate) is:"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Coordinate Geometry",
+    "topic": "Section Formula",
+    "marks": 1,
+    "questionText": "The mid-point of a line segment divides the line segment in the ratio:"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Triangles",
+    "topic": "Similarity Criteria",
+    "marks": 1,
+    "questionText": "Which of the following is not the criterion for similarity of triangles?"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Triangles",
+    "topic": "Similar Triangles",
+    "marks": 1,
+    "questionText": "From the figures given below, which of the following is true about the measure of ∠P? Two triangles are shown with sides 3√3 cm, 80°, 3√3 cm, 6 cm for triangle ABC and 6√3 cm, ?°, 7·6 cm, 12 cm for triangle PQR."
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Circles",
+    "topic": "Tangent Properties",
+    "marks": 1,
+    "questionText": "In the given figure, PA is a tangent to a circle with centre O. If OP = 10 cm, then the length of AP is:"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Introduction to Trigonometry",
+    "topic": "Trigonometric Values",
+    "marks": 1,
+    "questionText": "Which of the following statements is false?"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Introduction to Trigonometry",
+    "topic": "Trigonometric Identities",
+    "marks": 1,
+    "questionText": "The value of (tan² A − 1/cos² A) is:"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Some Applications of Trigonometry",
+    "topic": "Angle of Depression",
+    "marks": 1,
+    "questionText": "In the given figure, which of the following angles represents the angle of depression? (Figure shows Observer, Horizontal line, Line of sight, and Object)"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Areas Related to Circles",
+    "topic": "Perimeter of Sector",
+    "marks": 1,
+    "questionText": "The perimeter of the shaded region in the given figure is: (Figure shows a shaded sector with radius r, chord a, and arc l)"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Areas Related to Circles",
+    "topic": "Area of Quadrant",
+    "marks": 1,
+    "questionText": "The ratio of the area of a quadrant of a circle to the area of the same circle is:"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Surface Areas and Volumes",
+    "topic": "Surface Areas",
+    "marks": 1,
+    "questionText": "For which of the following solids is the lateral/curved surface area and total surface area the same?"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Statistics",
+    "topic": "Median Class",
+    "marks": 1,
+    "questionText": "The class mark of the median class of the following data is: Class Interval: 10-25 (2), 25-40 (3), 40-55 (7), 55-70 (6), 70-85 (6), 85-100 (6)"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Statistics",
+    "topic": "Modal Class",
+    "marks": 1,
+    "questionText": "The following distribution shows the number of runs scored by some batsmen in test matches: Runs Scored: 3000-4000 (5), 4000-5000 (10), 5000-6000 (9), 6000-7000 (8). The lower limit of the modal class is:"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Probability",
+    "topic": "Sure Events",
+    "marks": 1,
+    "questionText": "In a random experiment of throwing a die, which of the following is a sure event?"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Real Numbers",
+    "topic": "HCF and LCM Relationship",
+    "marks": 1,
+    "questionText": "Assertion (A): For any two natural numbers a and b, the HCF of a and b is a factor of the LCM of a and b. Reason (R): HCF of any two natural numbers divides both the numbers."
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Pair of Linear Equations in Two Variables",
+    "topic": "Consistency of Equations",
+    "marks": 1,
+    "questionText": "Assertion (A): The value of p for which the system of equations 4x + py + 8 = 0 and 2x + 2y + 2 = 0 is consistent is 4. Reason (R): The system of equations a₁x + b₁y = c₁ and a₂x + b₂y = c₂ is consistent with infinitely many solutions, if a₁/a₂ = b₁/b₂ = c₁/c₂."
+  },
+  {
+    "year": 2025,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Pair of Linear Equations in Two Variables",
+    "topic": "Solving Linear Equations",
+    "marks": 2,
+    "questionText": "Solve the following system of equations for x and y: x/2 + 2y/3 = −1 and x − y/3 = 3"
+  },
+  {
+    "year": 2025,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Triangles",
+    "topic": "Similar Triangles",
+    "marks": 2,
+    "questionText": "(a) In the given figure, if PQ || RS, then prove that △POQ ~ △SOR. OR (b) In the given figure, △OSR ~ △OQP, ∠ROQ = 125° and ∠ORS = 70°. Find the measures of ∠OSR and ∠OQP."
+  },
+  {
+    "year": 2025,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Circles",
+    "topic": "Chord and Tangent",
+    "marks": 2,
+    "questionText": "Two concentric circles are of radii 6 cm and 10 cm. Find the length of the chord of the larger circle which touches the smaller circle."
+  },
+  {
+    "year": 2025,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Introduction to Trigonometry",
+    "topic": "Trigonometric Values",
+    "marks": 2,
+    "questionText": "(a) Find the values of A and B (0 ≤ A < 90°, 0 ≤ B < 90°), if tan (A + B) = 1 and tan (A − B) = 1/√3. OR (b) Prove that tan 45° = 1 geometrically."
+  },
+  {
+    "year": 2025,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Areas Related to Circles",
+    "topic": "Area of Segment",
+    "marks": 2,
+    "questionText": "A chord of a circle of diameter 20 cm subtends an angle of 60° at the centre of the circle. Find the area of the corresponding minor segment of the circle. (Use π = 3.14 and √3 = 1.73)"
+  },
+  {
+    "year": 2025,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Real Numbers",
+    "topic": "Irrational Numbers / Prime Factorization",
+    "marks": 3,
+    "questionText": "(a) Prove that √3 is an irrational number. OR (b) The factor tree of a number x is shown below. Find the values of x, y, a and b. Hence, write the product of the prime factors of the number x so obtained."
+  },
+  {
+    "year": 2025,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Polynomials",
+    "topic": "Relationship between Zeroes and Coefficients",
+    "marks": 3,
+    "questionText": "Find a quadratic polynomial whose sum and product of zeroes are 0 and −9, respectively. Also, find the zeroes of the polynomial so obtained."
+  },
+  {
+    "year": 2025,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Pair of Linear Equations in Two Variables",
+    "topic": "Graphical Solution / Word Problems",
+    "marks": 3,
+    "questionText": "(a) Solve the following system of equations graphically: x + 3y = 6; 2x − 3y = 12 OR (b) x and y are complementary angles such that x : y = 1 : 2. Express the given information as a system of linear equations in two variables and hence solve it."
+  },
+  {
+    "year": 2025,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Circles",
+    "topic": "Properties of Tangents",
+    "marks": 3,
+    "questionText": "Prove that a rectangle circumscribing a circle is a square."
+  },
+  {
+    "year": 2025,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Introduction to Trigonometry",
+    "topic": "Trigonometric Identities",
+    "marks": 3,
+    "questionText": "Prove that: (1 + cot² A)/(1 + tan² A) = ((1 − cot A)/(1 − tan A))²"
+  },
+  {
+    "year": 2025,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Probability",
+    "topic": "Probability Applications",
+    "marks": 3,
+    "questionText": "A lot consists of 200 pens of which 180 are good and the rest are defective. A customer will buy a pen if it is not defective. The shopkeeper draws a pen at random and gives it to the customer. What is the probability that the customer will not buy it? Another lot of 100 pens containing 80 good pens is mixed with the previous lot of 200 pens. The shopkeeper now draws one pen at random from the entire lot and gives it to the customer. What is the probability that the customer will buy the pen?"
+  },
+  {
+    "year": 2025,
+    "section": "D",
+    "type": "LA",
+    "chapter": "Quadratic Equations",
+    "topic": "Word Problems / Nature of Roots",
+    "marks": 5,
+    "questionText": "(a) The difference of the squares of two positive numbers is 180. The square of the smaller number is 8 times the greater number. Find the two numbers. OR (b) Find the value(s) of k for which the equation 2x² + kx + 3 = 0 has real and equal roots. Hence, find the roots of the equations so obtained."
+  },
+  {
+    "year": 2025,
+    "section": "D",
+    "type": "LA",
+    "chapter": "Triangles",
+    "topic": "Basic Proportionality Theorem",
+    "marks": 5,
+    "questionText": "State 'Basic Proportionality Theorem' and use it to prove the following: In a quadrilateral ABCD, diagonals AC and BD intersect each other at O such that AO/BO = CO/DO as shown in the given figure. Prove that ABCD is a trapezium."
+  },
+  {
+    "year": 2025,
+    "section": "D",
+    "type": "LA",
+    "chapter": "Surface Areas and Volumes",
+    "topic": "Combined Solids",
+    "marks": 5,
+    "questionText": "(a) A toy is in the form of a cone surmounted on a hemisphere. The cone and hemisphere have the same radii. The height of the conical part of the toy is equal to the diameter of its base. If the radius of the conical part is 5 cm, find the volume of the toy. OR (b) A cubical block is surmounted by a hemisphere of radius 3.5 cm. What is the smallest possible length of the edge of the cube so that the hemisphere can totally lie on the cube? Find the total surface area of the solid so formed."
+  },
+  {
+    "year": 2025,
+    "section": "D",
+    "type": "LA",
+    "chapter": "Statistics",
+    "topic": "Mean of Grouped Data",
+    "marks": 5,
+    "questionText": "The following data gives the information on the observed lifetime (in hours) of 200 electrical components: Lifetime (in hours): 0-20 (10), 20-40 (35), 40-60 (50), 60-80 (60), 80-100 (30), 100-120 (15). Find the mean lifetime (in hours) of the electrical components."
+  },
+  {
+    "year": 2025,
+    "section": "E",
+    "type": "Case Study",
+    "chapter": "Some Applications of Trigonometry",
+    "topic": "Heights and Distances",
+    "marks": 4,
+    "questionText": "An injured bird was found on the roof of a building. The building is 15 m high. A fireman was called to rescue the bird. The fireman used an adjustable ladder to reach the roof. He placed the ladder in such a way that the ladder makes an angle of 60° with the ground in order to reach the roof. Based on the above information, answer the following questions: (i) Find the length of the ladder used by the fireman to reach the roof. (ii) Find the distance of the point on the ground at which the ladder was fixed from the bottom of the building. (iii) In order to avoid skidding, the fireman placed the ladder in such a way that the bottom of the ladder touches the base of the wall which is opposite to the building, making an angle of 30° with the ground. (a) Draw a neat diagram to represent the above situation and hence find the width of the road between the building and the wall. OR (b) Find the length of the ladder used by the fireman in this case."
+  },
+  {
+    "year": 2025,
+    "section": "E",
+    "type": "Case Study",
+    "chapter": "Arithmetic Progressions",
+    "topic": "AP Applications",
+    "marks": 4,
+    "questionText": "In a garden, saplings of rose flowers were planted at equal intervals to form a spiral pattern. The spiral is made up of successive semicircles, with centres alternatively at A and B, starting with centre at A, of radii 50 cm, 100 cm, 150 cm, ....... as shown in the figure given below. Spiral 1 has 10 flowers, Spiral 2 has 20 flowers, Spiral 3 has 30 flowers and so on. Based on the above information, answer the following questions: (i) What is the radius of the 13th spiral? (ii) If the radius of the nth spiral is 500 cm, find the value of n. (iii) (a) Find the total number of saplings till the 11th spiral. OR (b) Till which spiral, will there be a total of 450 saplings?"
+  },
+  {
+    "year": 2025,
+    "section": "E",
+    "type": "Case Study",
+    "chapter": "Coordinate Geometry",
+    "topic": "Section Formula and Distance",
+    "marks": 4,
+    "questionText": "In a society, there is a circular park having two gates. The gates are placed at points A(10, 20) and B(50, 50), as shown in the figure below. Two fountains are installed at points P and Q on AB such that AP = PQ = QB. Based on the above information, answer the following questions: (i) Find the coordinates of the centre C. (ii) Find the radius of the circular park. (iii) (a) Find the coordinates of the point P. OR (b) Find the distance of the fountain at Q from gate A."
+  },
+  {
+    "year": 2022,
+    "section": "A",
+    "type": "VSA",
+    "chapter": "Arithmetic Progressions",
+    "topic": "Sum of n terms",
+    "marks": 2,
+    "questionText": "(a) Find the sum of first 30 terms of AP: -30, -24, -18, .... OR (b) In an AP if Sn = n(4n + 1), then find the AP."
+  },
+  {
+    "year": 2022,
+    "section": "A",
+    "type": "VSA",
+    "chapter": "Surface Areas and Volumes",
+    "topic": "Conversion of Solids",
+    "marks": 2,
+    "questionText": "A solid metallic sphere of radius 10.5 cm is melted and recast into a number of smaller cones, each of radius 3.5 cm and height 3 cm. Find the number of cones so formed."
+  },
+  {
+    "year": 2022,
+    "section": "A",
+    "type": "VSA",
+    "chapter": "Quadratic Equations",
+    "topic": "Nature of Roots / Solving Equations",
+    "marks": 2,
+    "questionText": "(a) Find the value of m for which the quadratic equation (m - 1)x² + 2(m - 1)x + 1 = 0 has two real and equal roots. OR (b) Solve the following quadratic equation for x: √3x² + 10x + 7√3 = 0"
+  },
+  {
+    "year": 2022,
+    "section": "A",
+    "type": "VSA",
+    "chapter": "Statistics",
+    "topic": "Mode",
+    "marks": 2,
+    "questionText": "Find the mode of the following frequency distribution: Class (10-20, 20-30, 30-40, 40-50, 50-60) with Frequencies (15, 10, 12, 17, 4)."
+  },
+  {
+    "year": 2022,
+    "section": "A",
+    "type": "VSA",
+    "chapter": "Quadratic Equations",
+    "topic": "Word Problems",
+    "marks": 2,
+    "questionText": "The product of Rehan's age (in years) 5 years ago and his age 7 years from now, is one more than twice his present age. Find his present age."
+  },
+  {
+    "year": 2022,
+    "section": "A",
+    "type": "VSA",
+    "chapter": "Circles",
+    "topic": "Tangent and Radius",
+    "marks": 2,
+    "questionText": "Two concentric circles are of radii 4 cm and 3 cm. Find the length of the chord of the larger circle which touches the smaller circle."
+  },
+  {
+    "year": 2022,
+    "section": "B",
+    "type": "SA",
+    "chapter": "Statistics",
+    "topic": "Median",
+    "marks": 3,
+    "questionText": "For what value of x, is the median of the following frequency distribution 34.5? (Classes 0-10 to 60-70 with frequencies 3, 5, 11, 10, x, 3, 2)."
+  },
+  {
+    "year": 2022,
+    "section": "B",
+    "type": "SA",
+    "chapter": "Constructions",
+    "topic": "Tangents to a Circle",
+    "marks": 3,
+    "questionText": "Draw a circle of radius 3 cm. Take two points P and Q on one of its extended diameter each at a distance of 7 cm from its centre. Construct tangents to the circle from these two points P and Q."
+  },
+  {
+    "year": 2022,
+    "section": "B",
+    "type": "SA",
+    "chapter": "Some Applications of Trigonometry",
+    "topic": "Heights and Distances",
+    "marks": 3,
+    "questionText": "(a) The angle of elevation of the top of a building from the foot of the tower is 30° and the angle of elevation of the top of the tower from the foot of the building is 60°. If the tower is 50 m high, then find the height of the building. OR (b) From a point on a bridge across a river, the angles of depression of the banks on opposite sides of the river are 30° and 45° respectively. If the bridge is at a height of 3 m from the banks, then find the width of the river."
+  },
+  {
+    "year": 2022,
+    "section": "B",
+    "type": "SA",
+    "chapter": "Statistics",
+    "topic": "Mean",
+    "marks": 3,
+    "questionText": "Following is the daily expenditure on lunch by 30 employees of a company: (Expenditure 100-120 to 180-200 with employees 8, 3, 8, 6, 5). Find the mean daily expenditure of the employees."
+  },
+  {
+    "year": 2022,
+    "section": "C",
+    "type": "LA / Case Study",
+    "chapter": "Surface Areas and Volumes",
+    "topic": "Combination of Solids / Water Flow",
+    "marks": 4,
+    "questionText": "(a) From a solid cylinder of height 30 cm and radius 7 cm, a conical cavity of height 24 cm and same radius is hollowed out. Find the total surface area of the remaining solid. OR (b) Water in a canal, 8 m wide and 6 m deep, is flowing with a speed of 12 km/hour. How much area will it irrigate in one hour, if 0.05 m of standing water is required?"
+  },
+  {
+    "year": 2022,
+    "section": "C",
+    "type": "LA / Case Study",
+    "chapter": "Circles",
+    "topic": "Tangent Proof",
+    "marks": 4,
+    "questionText": "In Figure 1, a triangle ABC with ∠B = 90° is shown. Taking AB as diameter, a circle has been drawn intersecting AC at point P. Prove that the tangent drawn at point P bisects BC."
+  },
+  {
+    "year": 2022,
+    "section": "C",
+    "type": "LA / Case Study",
+    "chapter": "Arithmetic Progressions",
+    "topic": "Case Study Pattern",
+    "marks": 4,
+    "questionText": "Case Study - 1: Matchstick patterns (Figure 1, 2, 3). (a) Write the AP for the number of triangles used in the figures. Also, write the nth term of this AP. (b) Which figure has 61 matchsticks?"
+  },
+  {
+    "year": 2022,
+    "section": "C",
+    "type": "LA / Case Study",
+    "chapter": "Some Applications of Trigonometry",
+    "topic": "Case Study Trigonometry",
+    "marks": 4,
+    "questionText": "Case Study - 2: Gadisar Lake. From a point A, h m above water level, the angle of elevation of top of Chhatri (point B) is 45° and angle of depression of its reflection (point C) is 60°. (a) Draw a well-labelled figure. (b) Find the height (h) of point A above water level if Chhatri height is 10 m."
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Polynomials",
+    "topic": "Geometrical Meaning of Zeroes",
+    "marks": 1,
+    "questionText": "The graph of y = p(x) is given, for a polynomial p(x). The number of zeroes of p(x) from the graph is"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Pair of Linear Equations in Two Variables",
+    "topic": "Consistency and Solutions",
+    "marks": 1,
+    "questionText": "The value of k for which the pair of equations kx = y + 2 and 6x = 2y + 3 has infinitely many solutions,"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Arithmetic Progressions",
+    "topic": "Terms of AP",
+    "marks": 1,
+    "questionText": "If p - 1, p + 1 and 2p + 3 are in A.P., then the value of p is"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Coordinate Geometry",
+    "topic": "Section Formula",
+    "marks": 1,
+    "questionText": "In what ratio, does x-axis divide the line segment joining the points A(3, 6) and B(-12, -3)?"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Circles",
+    "topic": "Tangent Properties",
+    "marks": 1,
+    "questionText": "In the given figure, PQ is tangent to the circle centred at O. If ∠AOB = 95° then the measure of ∠ABQ will be"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Introduction to Trigonometry",
+    "topic": "Trigonometric Ratios",
+    "marks": 1,
+    "questionText": "If 2 tan A = 3, then the value of (4 sin A + 3 cos A) / (4 sin A - 3 cos A) is"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Polynomials",
+    "topic": "Relationship between Zeroes and Coefficients",
+    "marks": 1,
+    "questionText": "If α, β are the zeroes of a polynomial p(x) = x² + x - 1, then 1/α + 1/β equals to"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Quadratic Equations",
+    "topic": "Nature of Roots",
+    "marks": 1,
+    "questionText": "The least positive value of k, for which the quadratic equation 2x² + kx - 4 = 0 has rational roots, is"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Introduction to Trigonometry",
+    "topic": "Trigonometric Ratios of Specific Angles",
+    "marks": 1,
+    "questionText": "[3/4 tan² 30° - sec² 45° + sin² 60°] is equal to"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Surface Areas and Volumes",
+    "topic": "Cylinder",
+    "marks": 1,
+    "questionText": "Curved surface area of a cylinder of height 5 cm is 94.2 cm². Radius of the cylinder is (Take π = 3.14)"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Statistics",
+    "topic": "Mode of Grouped Data",
+    "marks": 1,
+    "questionText": "The distribution below gives the marks obtained by 80 students on a test: Marks Less than 10, 20, 30, 40, 50, 60 with frequencies 3, 12, 27, 57, 75, 80. The modal class of this distribution is:"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Surface Areas and Volumes",
+    "topic": "Cone",
+    "marks": 1,
+    "questionText": "The curved surface area of a cone having height 24 cm and radius 7 cm, is"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Coordinate Geometry",
+    "topic": "Distance Formula",
+    "marks": 1,
+    "questionText": "The distance between the points (0, 2√5) and (-2√5, 0) is"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Polynomials",
+    "topic": "Formation of Quadratic Polynomial",
+    "marks": 1,
+    "questionText": "Which of the following is a quadratic polynomial having zeroes -2/3 and 2/3?"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Statistics",
+    "topic": "Properties of Mean",
+    "marks": 1,
+    "questionText": "If the value of each observation of a statistical data is increased by 3, then the mean of the data"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Probability",
+    "topic": "Complementary Events",
+    "marks": 1,
+    "questionText": "Probability of happening of an event is denoted by p and probability of non-happening of the event is denoted by q. Relation between p and q is"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Probability",
+    "topic": "Basic Probability",
+    "marks": 1,
+    "questionText": "A girl calculates that the probability of her winning the first prize in a lottery is 0.08. If 6000 tickets are sold, how many tickets has she bought?"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Probability",
+    "topic": "Basic Probability",
+    "marks": 1,
+    "questionText": "In a group of 20 people, 5 can't swim. If one person is selected at random, then the probability that he/she can swim, is"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Coordinate Geometry / Linear Equations",
+    "topic": "Graphing and Coordinates",
+    "marks": 1,
+    "questionText": "Assertion (A): Point P(0, 2) is the point of intersection of y-axis with the line 3x + 2y = 4. Reason (R): The distance of point P(0, 2) from x-axis is 2 units."
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Real Numbers / Geometry",
+    "topic": "Rational and Irrational Numbers",
+    "marks": 1,
+    "questionText": "Assertion (A): The perimeter of ΔABC (with sides 2cm and 3cm) is a rational number. Reason (R): The sum of the squares of two rational numbers is always rational."
+  },
+  {
+    "year": 2023,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Pair of Linear Equations in Two Variables",
+    "topic": "Graphical Solution",
+    "marks": 2,
+    "questionText": "(a) Solve the pair of equations x = 3 and y = -4 graphically. OR (b) Using graphical method, find whether following system of linear equations is consistent or not: x = 0 and y = -7"
+  },
+  {
+    "year": 2023,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Triangles",
+    "topic": "Basic Proportionality Theorem",
+    "marks": 2,
+    "questionText": "In the given figure, XZ is parallel to BC. AZ = 3 cm, ZC = 2 cm, BM = 3 cm and MC = 5 cm. Find the length of XY."
+  },
+  {
+    "year": 2023,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Introduction to Trigonometry",
+    "topic": "Trigonometric Identities and Values",
+    "marks": 2,
+    "questionText": "(a) If sin θ + cos θ = √3, then find the value of sin θ · cos θ. OR (b) If sin α = 1/√2 and cot β = √3, then find the value of cosec α + cosec β."
+  },
+  {
+    "year": 2023,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Real Numbers",
+    "topic": "HCF Application",
+    "marks": 2,
+    "questionText": "Find the greatest number which divides 85 and 72 leaving remainders 1 and 2 respectively."
+  },
+  {
+    "year": 2023,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Probability",
+    "topic": "Basic Probability",
+    "marks": 2,
+    "questionText": "A bag contains 4 red, 3 blue and 2 yellow balls. One ball is drawn at random from the bag. Find the probability that drawn ball is (i) red (ii) yellow."
+  },
+  {
+    "year": 2023,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Pair of Linear Equations in Two Variables",
+    "topic": "Word Problems",
+    "marks": 3,
+    "questionText": "Half of the difference between two numbers is 2. The sum of the greater number and twice the smaller number is 13. Find the numbers."
+  },
+  {
+    "year": 2023,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Real Numbers",
+    "topic": "Proof of Irrationality",
+    "marks": 3,
+    "questionText": "Prove that √5 is an irrational number."
+  },
+  {
+    "year": 2023,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Coordinate Geometry",
+    "topic": "Properties of Triangles",
+    "marks": 3,
+    "questionText": "If (-5, 3) and (5, 3) are two vertices of an equilateral triangle, then find coordinates of the third vertex, given that origin lies inside the triangle. (Take √3 = 1.7)"
+  },
+  {
+    "year": 2023,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Circles",
+    "topic": "Tangent Theorems",
+    "marks": 3,
+    "questionText": "(a) Two tangents TP and TQ are drawn to a circle with centre O from an external point T. Prove that ∠PTQ = 2∠OPQ. OR (b) In the given figure, a circle is inscribed in a quadrilateral ABCD in which ∠B = 90°. If AD = 17 cm, AB = 20 cm and DS = 3 cm, then find the radius of the circle."
+  },
+  {
+    "year": 2023,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Introduction to Trigonometry",
+    "topic": "Trigonometric Identities",
+    "marks": 3,
+    "questionText": "Prove that: (tan θ + sec θ - 1) / (tan θ - sec θ + 1) = (1 + sin θ) / cos θ"
+  },
+  {
+    "year": 2023,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Surface Areas and Volumes",
+    "topic": "Combination of Solids",
+    "marks": 3,
+    "questionText": "(a) A room is in the form of cylinder surmounted by a hemi-spherical dome. The base radius of hemisphere is one-half the height of cylindrical part. Find total height of the room if it contains 1408/21 m³ of air. (Take π = 22/7) OR (b) An empty cone is of radius 3 cm and height 12 cm. Ice-cream is filled in it so that lower part of the cone which is (1/6)th of the volume of the cone is unfilled but hemisphere is formed on the top. Find volume of the ice-cream. (Take π = 3.14)"
+  },
+  {
+    "year": 2023,
+    "section": "D",
+    "type": "LA",
+    "chapter": "Triangles",
+    "topic": "Basic Proportionality Theorem",
+    "marks": 5,
+    "questionText": "If a line is drawn parallel to one side of a triangle to intersect the other two sides at distinct points, prove that the other two sides are divided in the same ratio."
+  },
+  {
+    "year": 2023,
+    "section": "D",
+    "type": "LA",
+    "chapter": "Some Applications of Trigonometry",
+    "topic": "Heights and Distances",
+    "marks": 5,
+    "questionText": "(a) The angle of elevation of the top of a tower 24 m high from the foot of another tower in the same plane is 60°. The angle of elevation of the top of second tower from the foot of the first tower is 30°. Find the distance between two towers and the height of the other tower. Also, find the length of the wire attached to the tops of both the towers. OR (b) A spherical balloon of radius r subtends an angle of 60° at the eye of an observer. If the angle of elevation of its centre is 45° from the same point, then prove that height of the centre of the balloon is √2 times its radius."
+  },
+  {
+    "year": 2023,
+    "section": "D",
+    "type": "LA",
+    "chapter": "Areas Related to Circles",
+    "topic": "Area of Segment",
+    "marks": 5,
+    "questionText": "A chord of a circle of radius 14 cm subtends an angle of 60° at the centre. Find the area of the corresponding minor segment of the circle. Also find the area of the major segment of the circle."
+  },
+  {
+    "year": 2023,
+    "section": "D",
+    "type": "LA",
+    "chapter": "Arithmetic Progressions",
+    "topic": "Sum and nth Term of AP",
+    "marks": 5,
+    "questionText": "(a) The ratio of the 11th term to 17th term of an A.P. is 3:4. Find the ratio of 5th term to 21st term of the same A.P. Also, find the ratio of the sum of first 5 terms to that of first 21 terms. OR (b) 250 logs are stacked in the following manner: 22 logs in the bottom row, 21 in the next row, 20 in the row next to it and so on. In how many rows, are the 250 logs placed and how many logs are there in the top row?"
+  },
+  {
+    "year": 2023,
+    "section": "E",
+    "type": "Case Study",
+    "chapter": "Quadratic Equations",
+    "topic": "Applications of Quadratic Equations",
+    "marks": 4,
+    "questionText": "While designing the school year book, a teacher asked the student that the length and width of a particular photo is increased by x units each to double the area of the photo. The original photo is 18 cm long and 12 cm wide. (I) Write an algebraic equation depicting the above information. (II) Write the corresponding quadratic equation in standard form. (III) What should be the new dimensions of the enlarged photo? OR Can any rational value of x make the new area equal to 220 cm²?"
+  },
+  {
+    "year": 2023,
+    "section": "E",
+    "type": "Case Study",
+    "chapter": "Statistics",
+    "topic": "Mean, Median and Mode",
+    "marks": 4,
+    "questionText": "India meteorological department observes seasonal and annual rainfall in different sub-divisions. The table shows sub-division wise seasonal (monsoon) rainfall (mm) in 2018. (I) Write the modal class. (II) Find the median of the given data. OR Find the mean rainfall in this season. (III) If sub-division having at least 1000 mm rainfall is considered good, how many sub-divisions had good rainfall?"
+  },
+  {
+    "year": 2023,
+    "section": "E",
+    "type": "Case Study",
+    "chapter": "Introduction to Trigonometry / Circles",
+    "topic": "Trigonometric Applications in Geometry",
+    "marks": 4,
+    "questionText": "The discus throw is an event in which an athlete spins anti-clockwise and releases the throw. In the figure, AB is a tangent to a circle of radius 75 cm. Point O is centre and ∠ABO = 30°. PQ is parallel to OA. (a) Find the length of AB. (b) Find the length of OB. (c) Find the length of AP. OR Find the length of PQ."
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Polynomials",
+    "topic": "Sum of Zeroes",
+    "marks": 1,
+    "questionText": "If the sum of zeroes of the polynomial p(x) = 2x² − k√2x+1 is √2, then value of k is:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Probability",
+    "topic": "Complementary Events",
+    "marks": 1,
+    "questionText": "If the probability of a player winning a game is 0.79, then the probability of his losing the same game is:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Quadratic Equations",
+    "topic": "Nature of Roots",
+    "marks": 1,
+    "questionText": "If the roots of equation ax² + bx + c = 0, a ≠ 0 are real and equal, then which of the following relation is true?"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Arithmetic Progressions",
+    "topic": "Sum of AP",
+    "marks": 1,
+    "questionText": "In an A.P., if the first term a = 7, nth term aₙ = 84 and the sum of first n terms sₙ = 2093/2, then n is equal to:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Real Numbers",
+    "topic": "LCM",
+    "marks": 1,
+    "questionText": "If two positive integers p and q can be expressed as p = 18 a²b⁴ and q = 20 a³b², where a and b are prime numbers, then LCM (p, q) is:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Coordinate Geometry",
+    "topic": "Distance Formula",
+    "marks": 1,
+    "questionText": "AD is a median of △ABC with vertices A(5, −6), B(6, 4) and C(0, 0). Length AD is equal to:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Introduction to Trigonometry",
+    "topic": "Trigonometric Identities",
+    "marks": 1,
+    "questionText": "If sec θ − tan θ = m, then the value of sec θ + tan θ is:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Probability",
+    "topic": "Basic Probability",
+    "marks": 1,
+    "questionText": "From the data 1, 4, 7, 9, 16, 21, 25, if all the even numbers are removed, then the probability of getting at random a prime number from the remaining is:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Statistics",
+    "topic": "Mean Deviation",
+    "marks": 1,
+    "questionText": "For some data x₁, x₂, ..... xₙ with respective frequencies f₁, f₂, ..... fₙ, the value of Σfᵢ(xᵢ−x̄) is equal to:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Polynomials",
+    "topic": "Relationship between Zeroes",
+    "marks": 1,
+    "questionText": "The zeroes of a polynomial x² + px + q are twice the zeroes of the polynomial 4x² − 5x − 6. The value of p is:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Coordinate Geometry",
+    "topic": "Distance Formula",
+    "marks": 1,
+    "questionText": "If the distance between the points (3, −5) and (x, −5) is 15 units, then the values of x are:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Introduction to Trigonometry",
+    "topic": "Trigonometric Values",
+    "marks": 1,
+    "questionText": "If cos(α + β) = 0, then cos((α + β)/2) is equal to:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Surface Areas and Volumes",
+    "topic": "Surface Areas",
+    "marks": 1,
+    "questionText": "A solid sphere is cut into two hemispheres. The ratio of the surface areas of sphere to that of two hemispheres taken together, is:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Statistics",
+    "topic": "Measures of Central Tendency",
+    "marks": 1,
+    "questionText": "The middle most observation of every data arranged in order is called:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Surface Areas and Volumes",
+    "topic": "Volume of Cone",
+    "marks": 1,
+    "questionText": "The volume of the largest right circular cone that can be carved out from a solid cube of edge 2 cm is:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Probability",
+    "topic": "Probability with Dice",
+    "marks": 1,
+    "questionText": "Two dice are rolled together. The probability of getting sum of numbers on the two dice as 2, 3 or 5, is:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Coordinate Geometry",
+    "topic": "Mid-point Formula",
+    "marks": 1,
+    "questionText": "The centre of a circle is at (2, 0). If one end of a diameter is at (6, 0), then the other end is at:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Pair of Linear Equations in Two Variables",
+    "topic": "Graphical Solution",
+    "marks": 1,
+    "questionText": "In the given figure, graphs of two linear equations are shown. The pair of these linear equations is:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Circles",
+    "topic": "Tangent Properties",
+    "marks": 1,
+    "questionText": "Assertion (A): The tangents drawn at the end points of a diameter of a circle, are parallel. Reason (R): Diameter of a circle is the longest chord."
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Polynomials",
+    "topic": "Degree and Zeroes",
+    "marks": 1,
+    "questionText": "Assertion (A): If the graph of a polynomial touches x-axis at only one point, then the polynomial cannot be a quadratic polynomial. Reason (R): A polynomial of degree n(n >1) can have at most n zeroes."
+  },
+  {
+    "year": 2024,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Pair of Linear Equations in Two Variables",
+    "topic": "Solving Linear Equations",
+    "marks": 2,
+    "questionText": "Solve the following system of linear equations: 7x − 2y = 5 and 8x + 7y = 15 and verify your answer."
+  },
+  {
+    "year": 2024,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Probability",
+    "topic": "Conditional Probability",
+    "marks": 2,
+    "questionText": "In a pack of 52 playing cards one card is lost. From the remaining cards, a card is drawn at random. Find the probability that the drawn card is queen of heart, if the lost card is a black card."
+  },
+  {
+    "year": 2024,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Introduction to Trigonometry",
+    "topic": "Trigonometric Values and Identities",
+    "marks": 2,
+    "questionText": "(A) Evaluate: 2√2 cos 45° sin 30° + 2√3 cos 30° OR (B) If A = 60° and B = 30°, verify that: sin (A + B) = sin A cos B + cos A sin B"
+  },
+  {
+    "year": 2024,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Triangles",
+    "topic": "Similar Triangles",
+    "marks": 2,
+    "questionText": "In the given figure, ABCD is a quadrilateral. Diagonal BD bisects ∠B and ∠D both. Prove that: (i) △ABD ~ △CBD (ii) AB = BC"
+  },
+  {
+    "year": 2024,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Real Numbers",
+    "topic": "Irrational Numbers / Composite Numbers",
+    "marks": 2,
+    "questionText": "(A) Prove that 5−2√3 is an irrational number. It is given that √3 is an irrational number. OR (B) Show that the number 5×11×17+3×11 is a composite number."
+  },
+  {
+    "year": 2024,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Coordinate Geometry",
+    "topic": "Section Formula",
+    "marks": 3,
+    "questionText": "(A) Find the ratio in which the point (8/5, y) divides the line segment joining the points (1, 2) and (2, 3). Also, find the value of y. OR (B) ABCD is a rectangle formed by the points A (−1, −1), B (−1, 6), C (3, 6) and D (3, −1). P, Q, R and S are mid–points of sides AB, BC, CD and DA respectively. Show that diagonals of the quadrilateral PQRS bisect each other."
+  },
+  {
+    "year": 2024,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Real Numbers",
+    "topic": "HCF Application",
+    "marks": 3,
+    "questionText": "In a teachers' workshop, the number of teachers teaching French, Hindi and English are 48, 80 and 144 respectively. Find the minimum number of rooms required if in each room the same number of teachers are seated and all of them are of the same subject."
+  },
+  {
+    "year": 2024,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Introduction to Trigonometry",
+    "topic": "Trigonometric Identities",
+    "marks": 3,
+    "questionText": "Prove that: tan θ/(1−cot θ) + cot θ/(1−tan θ) = 1 + sec θ cosec θ"
+  },
+  {
+    "year": 2024,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Pair of Linear Equations in Two Variables",
+    "topic": "Word Problems",
+    "marks": 3,
+    "questionText": "Three years ago, Rashmi was thrice as old as Nazma. Ten years later, Rashmi will be twice as old as Nazma. How old are Rashmi and Nazma now?"
+  },
+  {
+    "year": 2024,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Circles",
+    "topic": "Tangent Properties",
+    "marks": 3,
+    "questionText": "(A) In the given figure, AB is a diameter of the circle with centre O. AQ, BP and PQ are tangents to the circle. Prove that ∠POQ = 90°. OR (B) A circle with centre O and radius 8 cm is inscribed in a quadrilateral ABCD in which P, Q, R, S are the points of contact as shown. If AD is perpendicular to DC, BC = 30 cm and BS = 24 cm, then find the length DC."
+  },
+  {
+    "year": 2024,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Surface Areas and Volumes",
+    "topic": "Hollow Cylinder",
+    "marks": 3,
+    "questionText": "The difference between the outer and inner radii of a hollow right circular cylinder of length 14 cm is 1 cm. If the volume of the metal used in making the cylinder is 176 cm³, find the outer and inner radii of the cylinder."
+  },
+  {
+    "year": 2024,
+    "section": "D",
+    "type": "LA",
+    "chapter": "Areas Related to Circles",
+    "topic": "Arc Length and Segment Area",
+    "marks": 5,
+    "questionText": "An arc of a circle of radius 21 cm subtends an angle of 60° at the centre. Find: (i) the length of the arc. (ii) the area of the minor segment of the circle made by the corresponding chord."
+  },
+  {
+    "year": 2024,
+    "section": "D",
+    "type": "LA",
+    "chapter": "Arithmetic Progressions",
+    "topic": "AP Problems",
+    "marks": 5,
+    "questionText": "(A) The sum of first and eighth terms of an A.P. is 32 and their product is 60. Find the first term and common difference of the A.P. Hence, also find the sum of its first 20 terms. OR (B) In an A.P. of 40 terms, the sum of first 9 terms is 153 and the sum of last 6 terms is 687. Determine the first term and common difference of A.P. Also, find the sum of all the terms of the A.P."
+  },
+  {
+    "year": 2024,
+    "section": "D",
+    "type": "LA",
+    "chapter": "Triangles",
+    "topic": "Basic Proportionality Theorem",
+    "marks": 5,
+    "questionText": "(A) If a line is drawn parallel to one side of a triangle to intersect the other two sides in distinct points, then prove that the other two sides are divided in the same ratio. OR (B) In the given figure PA, QB and RC are each perpendicular to AC. If AP = x, BQ = y and CR = z, then prove that 1/x + 1/z = 1/y"
+  },
+  {
+    "year": 2024,
+    "section": "D",
+    "type": "LA",
+    "chapter": "Some Applications of Trigonometry",
+    "topic": "Heights and Distances",
+    "marks": 5,
+    "questionText": "A pole 6m high is fixed on the top of a tower. The angle of elevation of the top of the pole observed from a point P on the ground is 60° and the angle of depression of the point P from the top of the tower is 45°. Find the height of the tower and the distance of point P from the foot of the tower. (Use √3 = 1.73)"
+  },
+  {
+    "year": 2024,
+    "section": "E",
+    "type": "Case Study",
+    "chapter": "Quadratic Equations",
+    "topic": "Word Problems on Quadratic Equations",
+    "marks": 4,
+    "questionText": "A rectangular floor area can be completely tiled with 200 square tiles. If the side length of each tile is increased by 1 unit, it would take only 128 tiles to cover the floor. Based on the above information, answer the following questions: (i) Assuming the original length of each side of a tile be x units, make a quadratic equation from the above information. (ii) Write the corresponding quadratic equation in standard form. (iii) (a) Find the value of x, the length of side of a tile by factorisation. OR (b) Solve the quadratic equation for x, using quadratic formula."
+  },
+  {
+    "year": 2024,
+    "section": "E",
+    "type": "Case Study",
+    "chapter": "Statistics",
+    "topic": "Median and Mode",
+    "marks": 4,
+    "questionText": "BINGO is game of chance. The host has 75 balls numbered 1 through 75. Each player has a BINGO card with some numbers written on it. The participant cancels the number on the card when called out a number written on the ball selected at random. Whosoever cancels all the numbers on his/her card, says BINGO and wins the game. The table shows the data of one such game where 48 balls were used before Tara said 'BINGO'. Based on the above information, answer the following: (i) Write the median class. (ii) When first ball was picked up, what was the probability of calling out an even number? (iii) (a) Find median of the given data. OR (b) Find mode of the given data."
+  },
+  {
+    "year": 2024,
+    "section": "E",
+    "type": "Case Study",
+    "chapter": "Circles",
+    "topic": "Tangent Properties and Coordinate Geometry",
+    "marks": 4,
+    "questionText": "A backyard is in the shape of a triangle ABC with right angle at B. AB = 7 m and BC = 15 m. A circular pit was dug inside it such that it touches the walls AC, BC and AB at P, Q and R respectively such that AP = x m. Based on the above information, answer the following questions: (i) Find the length of AR in terms of x. (ii) Write the type of quadrilateral BQOR. (iii) (a) Find the length PC in terms of x and hence find the value of x. OR (b) Find x and hence find the radius r of circle."
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Polynomials",
+    "topic": "Relationship between Zeroes and Coefficients",
+    "marks": 1,
+    "questionText": "If α and β are the zeroes of polynomial 3x² + 6x + k such that α + β + αβ = -2/3, then the value of k is:"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Pair of Linear Equations in Two Variables",
+    "topic": "Solution of Linear Equations",
+    "marks": 1,
+    "questionText": "If x = 1 and y = 2 is a solution of the pair of linear equations 2x − 3y + a = 0 and 2x + 3y − b = 0, then:"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Coordinate Geometry",
+    "topic": "Mid-point Formula",
+    "marks": 1,
+    "questionText": "The mid-point of the line segment joining the points P(−4, 5) and Q(4, 6) lies on:"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Introduction to Trigonometry",
+    "topic": "Trigonometric Values",
+    "marks": 1,
+    "questionText": "If θ is an acute angle and 7 + 4 sin θ = 9, then the value of θ is:"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Introduction to Trigonometry",
+    "topic": "Trigonometric Identities",
+    "marks": 1,
+    "questionText": "The value of tan² θ − (1/cos θ × sec θ) is:"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Real Numbers",
+    "topic": "HCF and LCM",
+    "marks": 1,
+    "questionText": "If HCF(98, 28) = m and LCM(98, 28) = n, then the value of n − 7m is:"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Circles",
+    "topic": "Tangent Properties",
+    "marks": 1,
+    "questionText": "The tangents drawn at the extremities of the diameter of a circle are always:"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Triangles",
+    "topic": "Similarity and Congruence",
+    "marks": 1,
+    "questionText": "In triangles ABC and DEF, ∠B = ∠E, ∠F = ∠C and AB = 3 DE. Then, the two triangles are:"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Real Numbers",
+    "topic": "Properties of Integers",
+    "marks": 1,
+    "questionText": "If (−1)ⁿ + (−1)⁸ = 0, then n is:"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Polynomials",
+    "topic": "Zeroes of Polynomial",
+    "marks": 1,
+    "questionText": "Two polynomials are shown in the graph below. The number of distinct zeroes of both the polynomials is:"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Arithmetic Progressions",
+    "topic": "Sum of AP Terms",
+    "marks": 1,
+    "questionText": "If the sum of first m terms of an AP is 2m² + 3m, then its second term is:"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Statistics",
+    "topic": "Measures of Central Tendency",
+    "marks": 1,
+    "questionText": "Mode and Mean of a data are 15x and 18x, respectively. Then the median of the data is:"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Probability",
+    "topic": "Basic Probability",
+    "marks": 1,
+    "questionText": "A card is selected at random from a deck of 52 playing cards. The probability of it being a red face card is:"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Real Numbers",
+    "topic": "Rational and Irrational Numbers",
+    "marks": 1,
+    "questionText": "Which of the following is a rational number between √3 and √5?"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Areas Related to Circles",
+    "topic": "Area of Sector",
+    "marks": 1,
+    "questionText": "If a sector of a circle has an area of 40π sq. units and a central angle of 72°, the radius of the circle is:"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Circles",
+    "topic": "Tangent and Angle Properties",
+    "marks": 1,
+    "questionText": "In the given figure, PA is a tangent from an external point P to a circle with centre O. If ∠POB = 115°, then ∠APO is equal to:"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Some Applications of Trigonometry",
+    "topic": "Heights and Distances",
+    "marks": 1,
+    "questionText": "A kite is flying at a height of 150 m from the ground. It is attached to a string inclined at an angle of 30° to the horizontal. The length of the string is:"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Areas Related to Circles",
+    "topic": "Arc Length and Angle",
+    "marks": 1,
+    "questionText": "A piece of wire 20 cm long is bent into the form of an arc of a circle of radius 60/π cm. The angle subtended by the arc at the centre of the circle is:"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Probability",
+    "topic": "Sure Events",
+    "marks": 1,
+    "questionText": "Assertion (A): The probability of selecting a number at random from the numbers 1 to 20 is 1. Reason (R): For any event E, if P(E) = 1, then E is called a sure event."
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Surface Areas and Volumes",
+    "topic": "Sphere Properties",
+    "marks": 1,
+    "questionText": "Assertion (A): If we join two hemispheres of same radius along their bases, then we get a sphere. Reason (R): Total Surface Area of a sphere of radius r is 3πr²."
+  },
+  {
+    "year": 2025,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Introduction to Trigonometry",
+    "topic": "Trigonometric Values and Identities",
+    "marks": 2,
+    "questionText": "(a) If x cos 60° + y cos 0° + sin 30° − cot 45° = 5, then find the value of x + 2y. OR (b) Evaluate: tan² 60° / (sin² 60° + cos² 30°)"
+  },
+  {
+    "year": 2025,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Polynomials",
+    "topic": "Finding Zeroes",
+    "marks": 2,
+    "questionText": "Find the zeroes of the polynomial p(x) = x² + (4/3)x − (4/3)."
+  },
+  {
+    "year": 2025,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Circles",
+    "topic": "Circle Equation",
+    "marks": 2,
+    "questionText": "The coordinates of the centre of a circle are (2a, a − 7). Find the value(s) of 'a' if the circle passes through the point (11, −9) and has diameter 10√2 units."
+  },
+  {
+    "year": 2025,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Triangles",
+    "topic": "Similar Triangles",
+    "marks": 2,
+    "questionText": "(a) If △ABC ~ △PQR in which AB = 6 cm, BC = 4 cm, AC = 8 cm and PR = 6 cm, then find the length of (PQ + QR). OR (b) In the given figure, QR/QS = QT/PR and ∠1 = ∠2, show that △PQS ~ △TQR."
+  },
+  {
+    "year": 2025,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Circles",
+    "topic": "Tangent from External Point",
+    "marks": 2,
+    "questionText": "A person is standing at P outside a circular ground at a distance of 26 m from the centre of the ground. He found that his distances from the points A and B on the ground are 10 m (PA and PB are tangents to the circle). Find the radius of the circular ground."
+  },
+  {
+    "year": 2025,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Circles",
+    "topic": "Tangent and Angle Properties",
+    "marks": 3,
+    "questionText": "(a) In the given figure, O is the centre of the circle and BCD is tangent to it at C. Prove that ∠BAC + ∠ACD = 90°. OR (b) Prove that opposite sides of a quadrilateral circumscribing a circle subtend supplementary angles at the centre of the circle."
+  },
+  {
+    "year": 2025,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Introduction to Trigonometry",
+    "topic": "Trigonometric Identities",
+    "marks": 3,
+    "questionText": "(a) Prove that: (tan θ)/(1 − cot θ) + (cot θ)/(1 − tan θ) = 1 + sec θ cosec θ OR (b) Prove that: (sin A + cos A)/(sin A − cos A) + (sin A − cos A)/(sin A + cos A) = 2/(2 sin² A − 1)"
+  },
+  {
+    "year": 2025,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Coordinate Geometry",
+    "topic": "Section Formula",
+    "marks": 3,
+    "questionText": "Find the ratio in which the y-axis divides the line segment joining the points (5, −6) and (−1, −4). Also find the point of intersection."
+  },
+  {
+    "year": 2025,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Real Numbers",
+    "topic": "Irrational Numbers",
+    "marks": 3,
+    "questionText": "Prove that 1/√5 is an irrational number."
+  },
+  {
+    "year": 2025,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Surface Areas and Volumes",
+    "topic": "Combined Solids",
+    "marks": 3,
+    "questionText": "A room is in the form of a cylinder surmounted by a hemispherical dome. The base radius of the hemisphere is half of the height of the cylindrical part. If the room contains 1408/21 m³ of air, find the height of the cylindrical part. (Use π = 22/7)."
+  },
+  {
+    "year": 2025,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Probability",
+    "topic": "Probability with Two Dice",
+    "marks": 3,
+    "questionText": "Two dice are thrown at the same time. Determine the probability that the difference of the numbers on the two dice is 2."
+  },
+  {
+    "year": 2025,
+    "section": "D",
+    "type": "LA",
+    "chapter": "Pair of Linear Equations in Two Variables",
+    "topic": "Word Problems on Linear Equations",
+    "marks": 5,
+    "questionText": "Vijay invested certain amounts of money in two schemes A and B, which offer interest at the rate of 8% per annum and 9% per annum, respectively. He received ₹1,860 as the total annual interest. However, had he interchanged the amounts of investments in the two schemes, he would have received ₹20 more as annual interest. How much money did he invest in each scheme?"
+  },
+  {
+    "year": 2025,
+    "section": "D",
+    "type": "LA",
+    "chapter": "Triangles",
+    "topic": "Properties of Triangles",
+    "marks": 5,
+    "questionText": "(a) The diagonal BD of a parallelogram ABCD intersects the line segment AE at the point F, where E is any point on the side BC. Prove that DF × EF = FB × FA. OR (b) In △ABC, if AD ⊥ BC and AD² = BD × DC, then prove that ∠BAC = 90°."
+  },
+  {
+    "year": 2025,
+    "section": "D",
+    "type": "LA",
+    "chapter": "Quadratic Equations",
+    "topic": "Word Problems on Quadratic Equations",
+    "marks": 5,
+    "questionText": "(a) The perimeter of a right triangle is 60 cm and its hypotenuse is 25 cm. Find the lengths of other two sides of the triangle. OR (b) A train travels a distance of 480 km at a uniform speed. If the speed had been 8 km/h less, then it would have taken 3 hours more to cover the same distance. Find the speed of the train."
+  },
+  {
+    "year": 2025,
+    "section": "D",
+    "type": "LA",
+    "chapter": "Statistics",
+    "topic": "Mean and Mode",
+    "marks": 5,
+    "questionText": "Find the missing frequency 'f' in the following table, if the mean of the given data is 18. Hence find the mode. Daily Allowance: 11-13 (7), 13-15 (6), 15-17 (9), 17-19 (13), 19-21 (f), 21-23 (5), 23-25 (4)"
+  },
+  {
+    "year": 2025,
+    "section": "E",
+    "type": "Case Study",
+    "chapter": "Arithmetic Progressions",
+    "topic": "AP Applications",
+    "marks": 4,
+    "questionText": "A school is organizing a charity run to raise funds for a local hospital. The run is planned as a series of rounds around a track, with each round being 300 metres. To make the event more challenging and engaging, the organizers decide to increase the distance of each subsequent round by 50 metres. For example, the second round will be 350 metres, the third round will be 400 metres and so on. The total number of rounds planned is 10. Based on the information given above, answer the following questions: (i) Write the fourth, fifth and sixth term of the Arithmetic Progression so formed. (ii) Determine the distance of the 8th round. (iii) (a) Find the total distance run after completing all 10 rounds. OR (iii) (b) If a runner completes only the first 6 rounds, what is the total distance run by the runner?"
+  },
+  {
+    "year": 2025,
+    "section": "E",
+    "type": "Case Study",
+    "chapter": "Areas Related to Circles",
+    "topic": "Sectors and Arc Length",
+    "marks": 4,
+    "questionText": "A brooch is a decorative piece often worn on clothing like jackets, blouses or dresses to add elegance. Made from precious metals and decorated with gemstones, brooches come in many shapes and designs. One such brooch is made with silver wire in the form of a circle with diameter 35 mm. The wire is also used in making 5 diameters which divide the circle into 10 equal sectors as shown in the figure. Based on the above given information, answer the following questions: (i) Find the central angle of each sector. (ii) Find the length of the arc ACB. (iii) (a) Find the area of each sector of the brooch. OR (iii) (b) Find the total length of the silver wire used."
+  },
+  {
+    "year": 2025,
+    "section": "E",
+    "type": "Case Study",
+    "chapter": "Some Applications of Trigonometry",
+    "topic": "Heights and Distances",
+    "marks": 4,
+    "questionText": "Amrita stood near the base of a lighthouse, gazing up at its towering height. She measured the angle of elevation to the top and found it to be 60°. Then, she climbed a nearby observation deck, 40 metres higher than her original position and noticed the angle of elevation to the top of lighthouse to be 45°. Based on the above given information, answer the following questions: (i) If CD is h metres, find the distance BD in terms of 'h'. (ii) Find distance BC in terms of 'h'. (iii) (a) Find the height CE of the lighthouse [Use √3 = 1.73] OR (iii) (b) Find distance AE, if AC = 100 m."
+  }
+]

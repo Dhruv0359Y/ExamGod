@@ -1,0 +1,378 @@
+{
+  "meta": {
+    "year": 2024,
+    "series": "C3ABD/1",
+    "set": "Set-3",
+    "qpCode": "430/1/3",
+    "subject": "Mathematics (Basic)",
+    "class": 10,
+    "timeAllowed": "3 Hours",
+    "maximumMarks": 80,
+    "totalQuestions": 38,
+    "sections": ["A", "B", "C", "D", "E"]
+  },
+  "sections": [
+    {
+      "section": "A",
+      "type": "MCQ",
+      "marksPerQuestion": 1,
+      "questions": [
+        {
+          "qno": 1,
+          "questionText": "The next term (a₅) of the A.P. √7, √28, √63, √112, ... is:",
+          "options": ["√145", "√165", "√155", "√175"],
+          "chapter": "Arithmetic Progressions",
+          "topic": "Terms of AP",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 2,
+          "questionText": "If a card is drawn at random from a well-shuffled deck of 52 playing cards, then the probability of getting a non-face card is:",
+          "options": ["3/13", "10/13", "7/13", "1/13"],
+          "chapter": "Probability",
+          "topic": "Playing Cards",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 3,
+          "questionText": "The distance of the point (-6, 8) from the origin is:",
+          "options": ["6 units", "-6 units", "8 units", "10 units"],
+          "chapter": "Coordinate Geometry",
+          "topic": "Distance Formula",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 4,
+          "questionText": "If the sum of the zeroes of the quadratic polynomial kx² + 2x + 3k is equal to their product, then the value of k is:",
+          "options": ["1/3", "-1/3", "2/3", "-2/3"],
+          "chapter": "Polynomials",
+          "topic": "Relationship between Zeroes and Coefficients",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 5,
+          "questionText": "In the given figure, ΔABC ~ ΔPQR. The value of x is:",
+          "options": ["2.5 cm", "3 cm", "3.2 cm", "3.5 cm"],
+          "chapter": "Triangles",
+          "topic": "Similar Triangles",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 6,
+          "questionText": "The nature of roots of the quadratic equation 9x² - 6x - 2 = 0 is:",
+          "options": [
+            "No real roots",
+            "Two equal real roots",
+            "Two distinct real roots",
+            "More than two real roots"
+          ],
+          "chapter": "Quadratic Equations",
+          "topic": "Nature of Roots",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 7,
+          "questionText": "If the HCF (2520, 6600) = 40, then LCM (2520, 6600) is:",
+          "options": ["415800", "41580", "4158", "4158000"],
+          "chapter": "Real Numbers",
+          "topic": "HCF and LCM Relationship",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 8,
+          "questionText": "The pair of linear equations 2x = 5y + 6 and 15y = 6x - 18 represents two lines which are:",
+          "options": [
+            "Intersecting",
+            "Parallel",
+            "Coincident",
+            "Either intersecting or parallel"
+          ],
+          "chapter": "Pair of Linear Equations in Two Variables",
+          "topic": "Graphical Representation",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 9,
+          "questionText": "A quadratic polynomial, the sum and product of whose zeroes are -3 and 2 respectively, is:",
+          "options": [
+            "x² - 3x + 2",
+            "x² + 3x + 2",
+            "x² + 2x - 3",
+            "x² - 2x + 3"
+          ],
+          "chapter": "Polynomials",
+          "topic": "Formation of Polynomial",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 10,
+          "questionText": "The value of (sin 30° cos 60° + sin 60° cos 30°) is:",
+          "options": ["0", "1/2", "1", "2"],
+          "chapter": "Introduction to Trigonometry",
+          "topic": "Trigonometric Values",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 11,
+          "questionText": "In the given figure, AT is a tangent to a circle with centre O. If OT = 4 cm and ∠OTA = 30°, then AT is equal to:",
+          "options": ["4 cm", "2 cm", "2√3 cm", "4√3 cm"],
+          "chapter": "Circles",
+          "topic": "Tangent Properties",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 12,
+          "questionText": "If the perimeter of a circle is equal to that of a square, then the ratio of their areas is:",
+          "options": ["22 : 7", "14 : 11", "7 : 22", "11 : 14"],
+          "chapter": "Areas Related to Circles",
+          "topic": "Area Comparison",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 13,
+          "questionText": "If the radii of two spheres are in the ratio 2 : 3, then the ratio of their volumes is:",
+          "options": ["4 : 9", "2 : 3", "8 : 27", "27 : 8"],
+          "chapter": "Surface Areas and Volumes",
+          "topic": "Volume Ratio",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 14,
+          "questionText": "The modal class of the following distribution is: (Marks 0-10 to 40-50 with frequencies 10, 15, 12, 20, 9)",
+          "options": ["10-20", "20-30", "30-40", "40-50"],
+          "chapter": "Statistics",
+          "topic": "Mode",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 15,
+          "questionText": "If 2 sin²θ - cos²θ = 2, then θ is:",
+          "options": ["0°", "30°", "45°", "90°"],
+          "chapter": "Introduction to Trigonometry",
+          "topic": "Trigonometric Equations",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 16,
+          "questionText": "The probability of getting a number greater than 2 in a single throw of a die is:",
+          "options": ["1/3", "2/3", "1/2", "5/6"],
+          "chapter": "Probability",
+          "topic": "Basic Probability",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 17,
+          "questionText": "If the area of a sector of a circle of radius 6 cm is 13.2 cm², then the control angle of the sector is:",
+          "options": ["30°", "42°", "45°", "60°"],
+          "chapter": "Areas Related to Circles",
+          "topic": "Sector Area",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 18,
+          "questionText": "The total surface area of a solid hemisphere of radius 7 cm is:",
+          "options": ["447π cm²", "239π cm²", "147π cm²", "98π cm²"],
+          "chapter": "Surface Areas and Volumes",
+          "topic": "Hemisphere",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 19,
+          "questionText": "Assertion (A): The point (0, 4) lies on the y-axis. Reason (R): The x-coordinate of every point on the y-axis is zero.",
+          "chapter": "Coordinate Geometry",
+          "topic": "Coordinates",
+          "marks": 1,
+          "questionType": "Assertion-Reason"
+        },
+        {
+          "qno": 20,
+          "questionText": "Assertion (A): The HCF of two numbers is 5 and their product is 150. Then their LCM is 40. Reason (R): For any two positive integers a and b, HCF (a, b) × LCM (a, b) = a × b.",
+          "chapter": "Real Numbers",
+          "topic": "HCF and LCM Properties",
+          "marks": 1,
+          "questionType": "Assertion-Reason"
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "type": "VSA",
+      "marksPerQuestion": 2,
+      "questions": [
+        {
+          "qno": 21,
+          "questionText": "Find the zeroes of the quadratic polynomial 4x² - 12x + 9.",
+          "chapter": "Polynomials",
+          "topic": "Zeroes of Polynomial",
+          "marks": 2
+        },
+        {
+          "qno": 22,
+          "questionText": "In the given figure, ABCD is a trapezium in which AB || DC. If AD = BC, prove that ∠A = ∠B.",
+          "chapter": "Triangles / Geometry",
+          "topic": "Trapezium Properties",
+          "marks": 2
+        },
+        {
+          "qno": 23,
+          "questionText": "(a) Evaluate: (sin² 30° + sin² 60°) / (cos² 30° + cos² 60°). OR (b) If sin(A - B) = 1/2 and cos(A + B) = 1/2, 0° < A + B ≤ 90°, A > B, find A and B.",
+          "chapter": "Introduction to Trigonometry",
+          "topic": "Trigonometric Values",
+          "marks": 2,
+          "internalChoice": true
+        },
+        {
+          "qno": 24,
+          "questionText": "Prove that the tangents drawn at the ends of a diameter of a circle are parallel.",
+          "chapter": "Circles",
+          "topic": "Tangent Theorems",
+          "marks": 2
+        },
+        {
+          "qno": 25,
+          "questionText": "(a) Prove that 3 + 2√5 is an irrational number, given that √5 is an irrational number. OR (b) Check whether 4ⁿ can end with the digit 0 for any natural number n.",
+          "chapter": "Real Numbers",
+          "topic": "Irrationality / Number Theory",
+          "marks": 2,
+          "internalChoice": true
+        }
+      ]
+    },
+    {
+      "section": "C",
+      "type": "SA",
+      "marksPerQuestion": 3,
+      "questions": [
+        {
+          "qno": 26,
+          "questionText": "Find the ratio in which the line segment joining the points A(1, -5) and B(-4, 5) is divided by the x-axis. Also find the coordinates of the point of division.",
+          "chapter": "Coordinate Geometry",
+          "topic": "Section Formula",
+          "marks": 3
+        },
+        {
+          "qno": 27,
+          "questionText": "Prove that: (sin θ - 2 sin³θ) / (2 cos³θ - cos θ) = tan θ.",
+          "chapter": "Introduction to Trigonometry",
+          "topic": "Trigonometric Identities",
+          "marks": 3
+        },
+        {
+          "qno": 28,
+          "questionText": "Find the HCF and LCM of 144, 180 and 192 by prime factorisation method.",
+          "chapter": "Real Numbers",
+          "topic": "Prime Factorisation",
+          "marks": 3
+        },
+        {
+          "qno": 29,
+          "questionText": "(a) Prove that the lengths of tangents drawn from an external point to a circle are equal. OR (b) In the given figure, XY and X'Y' are two parallel tangents to a circle with centre O and another tangent AB with point of contact C intersecting XY at A and X'Y' at B. Prove that ∠AOB = 90°.",
+          "chapter": "Circles",
+          "topic": "Tangent Theorems",
+          "marks": 3,
+          "internalChoice": true
+        },
+        {
+          "qno": 30,
+          "questionText": "A lending library has a fixed charge for the first three days and an additional charge for each day thereafter. Saritha paid ₹ 27 for a book kept for seven days, while Susy paid ₹ 21 for the book she kept for five days. Find the fixed charge and the charge for each extra day.",
+          "chapter": "Pair of Linear Equations in Two Variables",
+          "topic": "Word Problems",
+          "marks": 3
+        },
+        {
+          "qno": 31,
+          "questionText": "Find the area of the segment AYB in the given figure, if radius of the circle is 21 cm and ∠AOB = 120°. (Use π = 22/7)",
+          "chapter": "Areas Related to Circles",
+          "topic": "Area of Segment",
+          "marks": 3
+        }
+      ]
+    },
+    {
+      "section": "D",
+      "type": "LA",
+      "marksPerQuestion": 5,
+      "questions": [
+        {
+          "qno": 32,
+          "questionText": "(a) A train travels 360 km at a uniform speed. If the speed had been 5 km/h more, it would have taken 1 hour less for the same journey. Find the speed of the train. OR (b) Solve for x: 1/(x-1) - 1/(x+5) = 6/7, x ≠ 1, -5.",
+          "chapter": "Quadratic Equations",
+          "topic": "Word Problems / Solving Equations",
+          "marks": 5,
+          "internalChoice": true
+        },
+        {
+          "qno": 33,
+          "questionText": "(a) If a line is drawn parallel to one side of a triangle to intersect the other two sides in distinct points, the other two sides are divided in the same ratio. Prove this. OR (b) In the given figure, AB || CD || EF. If AC = 6 cm, CE = 4 cm and FB = 15 cm, find FD and DB.",
+          "chapter": "Triangles",
+          "topic": "Basic Proportionality Theorem",
+          "marks": 5,
+          "internalChoice": true
+        },
+        {
+          "qno": 34,
+          "questionText": "The angles of depression of the top and bottom of an 8 m tall building from the top of a multi-storied building are 30° and 45°, respectively. Find the height of the multi-storied building and the distance between the two buildings. (Use √3 = 1.732)",
+          "chapter": "Some Applications of Trigonometry",
+          "topic": "Heights and Distances",
+          "marks": 5
+        },
+        {
+          "qno": 35,
+          "questionText": "A solid is in the form of a cone standing on a hemisphere with both their radii being equal to 1 cm and the height of the cone is equal to its radius. Find the volume of the solid in terms of π. Also, find the surface area of the solid.",
+          "chapter": "Surface Areas and Volumes",
+          "topic": "Combination of Solids",
+          "marks": 5
+        }
+      ]
+    },
+    {
+      "section": "E",
+      "type": "Case Study",
+      "marksPerQuestion": 4,
+      "questions": [
+        {
+          "qno": 36,
+          "questionText": "While designing the school year book, a teacher asked the student that the length and width of a particular photo is increased by x units each to double the area of the photo. The original photo is 18 cm long and 12 cm wide. Based on the above information, answer the following: (i) Write an algebraic equation depicting the above information. (ii) Write the corresponding quadratic equation in standard form. (iii) Find the value of x by factorization. OR Find the new area of the enlarged photo.",
+          "chapter": "Quadratic Equations",
+          "topic": "Applications",
+          "marks": 4,
+          "internalChoice": true
+        },
+        {
+          "qno": 37,
+          "questionText": "The lengths of 40 leaves of a plant are measured correct to the nearest millimetre. The data obtained is represented in the following table: (70-80 mm to 130-140 mm with frequencies 3, 5, 9, 12, 5, 4, 2). Based on the above information, answer the following: (i) Write the median class of the data. (ii) How many leaves are of length equal to or more than 10 cm? (iii) Find median of the data. OR Write the modal class and find the mode of the data.",
+          "chapter": "Statistics",
+          "topic": "Median and Mode",
+          "marks": 4,
+          "internalChoice": true
+        },
+        {
+          "qno": 38,
+          "questionText": "The picture given below shows a circular mirror hanging on the wall with a cord. The diagram represents the mirror as a circle with centre O, AP and AQ are tangents to the circle at P and Q respectively. If AP = 30 cm and ∠PAQ = 60°. Based on the above information, answer the following: (i) Find the length of PQ. (ii) Find m∠POQ. (iii) Find the length of OA. OR Find the radius of the mirror.",
+          "chapter": "Circles",
+          "topic": "Tangent Application",
+          "marks": 4,
+          "internalChoice": true
+        }
+      ]
+    }
+  ]
+}

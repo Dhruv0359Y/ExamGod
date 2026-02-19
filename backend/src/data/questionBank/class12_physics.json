@@ -1,0 +1,1019 @@
+[
+  {
+    "year": 2022,
+    "section": "A",
+    "type": "VSA",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Energy Band Diagram",
+    "marks": 2,
+    "questionText": "Draw energy band diagrams of n-type and p-type semiconductors at temperature T > 0 K depicting donor and acceptor energy levels. Mention significance of these levels."
+  },
+  {
+    "year": 2022,
+    "section": "A",
+    "type": "VSA",
+    "chapter": "Atoms / Dual Nature",
+    "topic": "Alpha Scattering / Photoelectric Effect",
+    "marks": 2,
+    "questionText": "Draw graph showing variation of number of scattered alpha particles with scattering angle in Geiger–Marsden experiment OR Plot graphs showing variation of photoelectric current with collector plate potential for different frequencies and intensities."
+  },
+  {
+    "year": 2022,
+    "section": "A",
+    "type": "VSA",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Rectification",
+    "marks": 2,
+    "questionText": "Write characteristics of a p-n junction diode which make it suitable for rectification."
+  },
+  {
+    "year": 2022,
+    "section": "B",
+    "type": "SA",
+    "chapter": "Nuclei",
+    "topic": "Distance of Closest Approach",
+    "marks": 3,
+    "questionText": "Define the term ‘distance of closest approach’. How will it be affected if kinetic energy of an alpha particle is doubled?"
+  },
+  {
+    "year": 2022,
+    "section": "B",
+    "type": "SA",
+    "chapter": "Ray Optics",
+    "topic": "Refraction at Spherical Surface",
+    "marks": 3,
+    "questionText": "A point source in air is kept 24 cm in front of a concave spherical glass surface (μ = 1.5) and radius of curvature 60 cm. Find nature and position of image."
+  },
+  {
+    "year": 2022,
+    "section": "B",
+    "type": "SA",
+    "chapter": "Nuclei",
+    "topic": "Nuclear Energy",
+    "marks": 3,
+    "questionText": "Calculate the energy released in MeV in the nuclear reaction ²H + ³H → ⁴He + n."
+  },
+  {
+    "year": 2022,
+    "section": "B",
+    "type": "SA",
+    "chapter": "Ray Optics",
+    "topic": "Total Internal Reflection",
+    "marks": 3,
+    "questionText": "Explain with diagram the phenomenon on which an optical fibre works. Mention two uses."
+  },
+  {
+    "year": 2022,
+    "section": "B",
+    "type": "SA",
+    "chapter": "Wave Optics",
+    "topic": "Diffraction / Lens Combination",
+    "marks": 3,
+    "questionText": "A parallel beam of light of wavelength 600 nm is incident normally on a slit of width 0.2 mm. Find first minimum and second maximum distances OR lens combination problem."
+  },
+  {
+    "year": 2022,
+    "section": "B",
+    "type": "SA",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photoelectric Effect",
+    "marks": 3,
+    "questionText": "Photoelectrons emitted when UV light of wavelength 330 nm is incident. Calculate incident energy and kinetic energy."
+  },
+  {
+    "year": 2022,
+    "section": "B",
+    "type": "SA",
+    "chapter": "Semiconductor Electronics",
+    "topic": "LED",
+    "marks": 3,
+    "questionText": "State working principle of LED. Write two advantages and two disadvantages."
+  },
+  {
+    "year": 2022,
+    "section": "B",
+    "type": "SA",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Refraction / EM Spectrum",
+    "marks": 3,
+    "questionText": "Monochromatic light incident on boundary of two media. Why frequency remains unchanged? Identify radiation of frequency 1.0 × 10¹¹ Hz and state two uses."
+  },
+  {
+    "year": 2022,
+    "section": "C",
+    "type": "Case Study",
+    "chapter": "Wave Optics",
+    "topic": "Young’s Double Slit Experiment",
+    "marks": 5,
+    "questionText": "Case study based on Young’s double slit experiment. Questions related to interference, intensity, wavelength, fringe width and angular separation."
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Electrostatics",
+    "topic": "Electric Dipole – Axial Field",
+    "marks": 1,
+    "questionText": "A point charge situated at a distance ‘r’ from a short electric dipole on its axis experiences a force F. If the distance of the charge is ‘2r’, the force on the charge will be:"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Current Electricity",
+    "topic": "Temperature Dependence of Resistance",
+    "marks": 1,
+    "questionText": "For a metallic conductor, the correct representation of variation of resistance R with temperature T is:"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Current Electricity",
+    "topic": "Internal Resistance",
+    "marks": 1,
+    "questionText": "The potential difference across a cell in an open circuit is 8 V. It falls to 4 V when a current of 4 A is drawn from it. The internal resistance of the cell is:"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Current Electricity",
+    "topic": "Drift Velocity",
+    "marks": 1,
+    "questionText": "A steady current flows through a metallic wire whose area of cross-section increases continuously from one end to the other. The magnitude of drift velocity of free electrons as a function of area A can be shown by:"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Magnetism and Matter",
+    "topic": "Magnetic Materials",
+    "marks": 1,
+    "questionText": "A diamagnetic substance is brought near the north or south pole of a bar magnet. It will be:"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Maximum Induced EMF",
+    "marks": 1,
+    "questionText": "A circular coil of radius 8.0 cm and 40 turns is rotated with angular speed 25 rad s⁻¹ in a uniform magnetic field of magnitude 3.0 × 10⁻² T. The maximum emf induced in the coil is:"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Motional EMF",
+    "marks": 1,
+    "questionText": "In a rectangular conductor with movable arm PQ, the magnitude of induced emf when PQ is moved with velocity v does not depend on:"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "marks": 1,
+    "questionText": "In the process of charging of a capacitor, the current produced between the plates of the capacitor is:"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Ray Optics",
+    "topic": "Mirror Formula",
+    "marks": 1,
+    "questionText": "For a concave mirror of focal length f, the minimum distance between the object and its real image is:"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Atoms",
+    "topic": "Bohr Model",
+    "marks": 1,
+    "questionText": "The radius of the nth orbit in Bohr model of hydrogen atom is proportional to:"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Atoms",
+    "topic": "Hydrogen Spectrum",
+    "marks": 1,
+    "questionText": "Hydrogen atom initially in ground state absorbs a photon which excites it to n = 5 level. The wavelength of the photon is:"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Nuclei",
+    "topic": "Nuclear Density",
+    "marks": 1,
+    "questionText": "The mass density of a nucleus of mass number A is:"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Rectifier",
+    "marks": 1,
+    "questionText": "An AC source is connected in series with a p-n junction diode and load resistor. The correct output voltage across load resistance will be:"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Semiconductor Electronics",
+    "topic": "p-type Semiconductor",
+    "marks": 1,
+    "questionText": "When an intrinsic semiconductor is doped with a small amount of trivalent impurity, then:"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Energy Bands",
+    "marks": 1,
+    "questionText": "In the energy-band diagram of n-type Si, the gap between conduction band EC and donor level ED is of the order of:"
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Magnetism and Matter",
+    "topic": "Magnetic Properties",
+    "marks": 1,
+    "questionText": "Assertion (A): When a bar of copper is placed in an external magnetic field, the field lines get concentrated inside the bar. Reason (R): Copper is a paramagnetic substance."
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Wave Optics",
+    "topic": "Wavefront",
+    "marks": 1,
+    "questionText": "Assertion (A): The phase difference between any two points on a wavefront is zero. Reason (R): All points on a wavefront are at the same distance from the source and thus oscillate in the same phase."
+  },
+  {
+    "year": 2023,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photoelectric Effect",
+    "marks": 1,
+    "questionText": "Assertion (A): Photoelectric effect demonstrates the particle nature of light. Reason (R): Photoelectric current is proportional to intensity of incident radiation for frequencies more than threshold frequency."
+  },
+  {
+    "year": 2023,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Motion in Magnetic Field",
+    "marks": 2,
+    "questionText": "An alpha particle is projected into a region with magnetic field B. Calculate the acceleration of the particle."
+  },
+  {
+    "year": 2023,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Maxwell’s Displacement Current",
+    "marks": 2,
+    "questionText": "Compare induced magnetic field due to changing electric field and induced electric field due to changing magnetic field. Which is easier to observe?"
+  },
+  {
+    "year": 2023,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Wave Optics",
+    "topic": "Huygens Principle / Telescope",
+    "marks": 2,
+    "questionText": "Using Huygens’ principle, show refraction at plane surface OR Why is reflecting telescope preferred over refracting telescope?"
+  },
+  {
+    "year": 2023,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Wave Optics",
+    "topic": "Interference",
+    "marks": 2,
+    "questionText": "Two coherent beams of intensities I and 4I superpose. Find ratio of maximum and minimum intensities."
+  },
+  {
+    "year": 2023,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Atoms",
+    "topic": "Bohr Energy Levels",
+    "marks": 2,
+    "questionText": "Ground state energy of hydrogen is 13.6 eV. Find kinetic and potential energy in third excited state."
+  },
+  {
+    "year": 2023,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Semiconductors",
+    "marks": 2,
+    "questionText": "Differentiate between intrinsic and extrinsic semiconductors OR Draw V-I characteristics of p-n junction diode."
+  },
+  {
+    "year": 2023,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Potential Barrier",
+    "marks": 2,
+    "questionText": "Explain how diffusion and drift currents contribute to formation of potential barrier in p-n junction."
+  },
+  {
+    "year": 2023,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Electrostatics",
+    "topic": "Electric Potential",
+    "marks": 3,
+    "questionText": "Twelve equal negative charges placed on circumference of circle. Find electric potential and field at centre."
+  },
+  {
+    "year": 2023,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Alternating Current",
+    "topic": "LCR Circuit",
+    "marks": 3,
+    "questionText": "Difference between resistance and impedance OR Condition for resonance in LCR circuit."
+  },
+  {
+    "year": 2023,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Mutual Inductance",
+    "marks": 3,
+    "questionText": "Solenoid carrying current I = I₀ sinωt. Find induced emf and mutual inductance."
+  },
+  {
+    "year": 2023,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photoelectric Effect",
+    "marks": 3,
+    "questionText": "Einstein’s photoelectric equation and graphs of photocurrent."
+  },
+  {
+    "year": 2023,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Atoms / Nuclei",
+    "topic": "Hydrogen Spectrum / Binding Energy",
+    "marks": 3,
+    "questionText": "Energy level diagram of hydrogen OR Binding energy per nucleon graph."
+  },
+  {
+    "year": 2023,
+    "section": "D",
+    "type": "Long Answer",
+    "chapter": "Electrostatics",
+    "topic": "Coulomb Law / Dipole",
+    "marks": 5,
+    "questionText": "Coulomb’s law in vector form OR Electric field on equatorial plane of dipole."
+  },
+  {
+    "year": 2023,
+    "section": "D",
+    "type": "Long Answer",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Biot-Savart / Magnetic Force",
+    "marks": 5,
+    "questionText": "Biot-Savart law and magnetic field at centre OR Force on current carrying conductor."
+  },
+  {
+    "year": 2023,
+    "section": "D",
+    "type": "Long Answer",
+    "chapter": "Wave Optics",
+    "topic": "Interference / Refraction",
+    "marks": 5,
+    "questionText": "Interference vs Diffraction OR Refraction at spherical surface."
+  },
+  {
+    "year": 2023,
+    "section": "E",
+    "type": "Case Study",
+    "chapter": "Current Electricity",
+    "topic": "Kirchhoff’s Laws",
+    "marks": 4,
+    "questionText": "Circuit diagram based on Kirchhoff’s laws. Answer questions on currents and potential differences."
+  },
+  {
+    "year": 2023,
+    "section": "E",
+    "type": "Case Study",
+    "chapter": "Ray Optics",
+    "topic": "Total Internal Reflection",
+    "marks": 4,
+    "questionText": "Strontium titanate prism and total internal reflection based case study."
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Electrostatics",
+    "topic": "Electric Field due to Ring",
+    "marks": 1,
+    "questionText": "A thin plastic rod is bent into a circular ring of radius R. It is uniformly charged with charge density λ. The magnitude of the electric field at its centre is:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Capacitance",
+    "topic": "Energy Stored in Capacitor",
+    "marks": 1,
+    "questionText": "Ten capacitors, each of capacitance 1 µF, are connected in parallel to a source of 100 V. The total energy stored in the system is equal to:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Current Electricity",
+    "topic": "Kirchhoff’s Laws",
+    "marks": 1,
+    "questionText": "Consider the circuit shown. The potential difference between points A and B is:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Magnetic Force on Loop",
+    "marks": 1,
+    "questionText": "A loop carrying a current I clockwise is placed in xy-plane in a uniform magnetic field directed along z-axis. The tendency of the loop will be to:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Force on Current Carrying Conductor",
+    "marks": 1,
+    "questionText": "A 10 cm long wire lies along y-axis carrying 1.0 A current. A magnetic field B = (5 mT)j − (8 mT)k exists. The force on the wire is:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Conversion of Galvanometer to Ammeter",
+    "marks": 1,
+    "questionText": "A galvanometer of resistance G is converted into an ammeter of range 0 to I A. If current through galvanometer is 0.1% of I, the resistance of ammeter is:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Alternating Current",
+    "topic": "Capacitive Reactance",
+    "marks": 1,
+    "questionText": "The reactance of a capacitor of capacitance C connected to an AC source is X. If capacitance is doubled and frequency tripled, the reactance becomes:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "marks": 1,
+    "questionText": "In four regions electric field expressions are given. Displacement current exists in which region?"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Atoms",
+    "topic": "Hydrogen Spectrum",
+    "marks": 1,
+    "questionText": "Transition corresponding to second spectral line of Balmer series is:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Doping",
+    "marks": 1,
+    "questionText": "Ge is doped with As. Due to doping:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photoelectric Effect",
+    "marks": 1,
+    "questionText": "Two beams with photon energies 3.3 eV and 11.3 eV illuminate a surface (work function 2.3 eV). Ratio of maximum speeds is:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "de Broglie Wavelength",
+    "marks": 1,
+    "questionText": "Waves associated with moving electron and proton have same wavelength. They have same:"
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photoelectric Effect",
+    "marks": 1,
+    "questionText": "Assertion-Reason: In photoelectric effect kinetic energy increases with intensity."
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Mutual Inductance",
+    "marks": 1,
+    "questionText": "Assertion-Reason: Mutual inductance is maximum when coils are wound on each other."
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Force Between Parallel Wires",
+    "marks": 1,
+    "questionText": "Assertion-Reason: Two long parallel wires move apart when connected in series."
+  },
+  {
+    "year": 2024,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Ray Optics",
+    "topic": "Mirror Image Formation",
+    "marks": 1,
+    "questionText": "Assertion-Reason: Plane and convex mirrors cannot produce real images."
+  },
+  {
+    "year": 2024,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Current Electricity",
+    "topic": "Temperature Coefficient of Resistance",
+    "marks": 2,
+    "questionText": "Find temperature at which resistance of silver wire becomes twice its resistance at 20°C."
+  },
+  {
+    "year": 2024,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Ray Optics",
+    "topic": "Refraction / Lens Maker Formula",
+    "marks": 2,
+    "questionText": "Monochromatic light passes from air to medium of refractive index 1.5. Find wavelengths OR calculate radius of plano-convex lens."
+  },
+  {
+    "year": 2024,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Ray Optics",
+    "topic": "Mirror Formula",
+    "marks": 2,
+    "questionText": "Object placed in front of concave mirror. Find image position and magnification."
+  },
+  {
+    "year": 2024,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "de Broglie Wavelength",
+    "marks": 2,
+    "questionText": "Neutron and photon of same energy. Obtain expression for ratio of wavelengths."
+  },
+  {
+    "year": 2024,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Semiconductor Electronics",
+    "topic": "V-I Characteristics",
+    "marks": 2,
+    "questionText": "Plot V-I graph for GaAs and mark negative resistance region."
+  },
+  {
+    "year": 2024,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Electrostatics",
+    "topic": "Gauss Law",
+    "marks": 3,
+    "questionText": "Cube placed in electric field. Find flux and charge inside."
+  },
+  {
+    "year": 2024,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Current Electricity",
+    "topic": "Current Density / Wheatstone Bridge",
+    "marks": 3,
+    "questionText": "Define current density and derive relation OR Wheatstone bridge balance condition."
+  },
+  {
+    "year": 2024,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Motion in Magnetic Field",
+    "marks": 3,
+    "questionText": "Proton entering magnetic field. Find speed, acceleration, radius."
+  },
+  {
+    "year": 2024,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Alternating Current",
+    "topic": "LCR Circuit",
+    "marks": 3,
+    "questionText": "LCR series circuit. Derive average power and resonant frequency."
+  },
+  {
+    "year": 2024,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Applications",
+    "marks": 3,
+    "questionText": "Electromagnetic waves conceptual questions."
+  },
+  {
+    "year": 2024,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Atoms",
+    "topic": "Bohr Model",
+    "marks": 3,
+    "questionText": "Drawbacks of Rutherford model and Bohr corrections."
+  },
+  {
+    "year": 2024,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Nuclei",
+    "topic": "Nuclear Density",
+    "marks": 3,
+    "questionText": "Properties and density of nucleus."
+  },
+  {
+    "year": 2024,
+    "section": "D",
+    "type": "Case Study",
+    "chapter": "Ray Optics",
+    "topic": "Lens Combination",
+    "marks": 4,
+    "questionText": "Case study based on lenses and power of combination."
+  },
+  {
+    "year": 2024,
+    "section": "D",
+    "type": "Case Study",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Rectifier",
+    "marks": 4,
+    "questionText": "Case study based on p-n junction diode as rectifier."
+  },
+  {
+    "year": 2024,
+    "section": "E",
+    "type": "Long Answer",
+    "chapter": "Electrostatics",
+    "topic": "Electric Dipole",
+    "marks": 5,
+    "questionText": "Electric dipole potential energy OR dipole potential & sphere charge redistribution."
+  },
+  {
+    "year": 2024,
+    "section": "E",
+    "type": "Long Answer",
+    "chapter": "Alternating Current",
+    "topic": "Impedance / Transformer",
+    "marks": 5,
+    "questionText": "RC circuit impedance OR transformer and lamp problem."
+  },
+  {
+    "year": 2024,
+    "section": "E",
+    "type": "Long Answer",
+    "chapter": "Wave Optics",
+    "topic": "Prism / Interference",
+    "marks": 5,
+    "questionText": "Prism deviation OR Huygens principle and YDSE problem."
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Electrostatics",
+    "topic": "Coulomb’s Law",
+    "marks": 1,
+    "questionText": "Figure shows variation of Coulomb force (F) acting between two point charges (q1, q2) and (q2, q3). If q2 is positive and least in magnitude, then the magnitudes of q1, q2 and q3 are such that..."
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Current Electricity",
+    "topic": "Resistance and Resistivity",
+    "marks": 1,
+    "questionText": "Two wires P and Q are made of same material. Wire Q has twice diameter and half length of wire P. If resistance of P is R, find resistance of Q."
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Magnetic Force on Current Element",
+    "marks": 1,
+    "questionText": "A 1 cm segment of a wire lying along x-axis carries current 0.5 A along +x direction. Magnetic field B = (0.4 mT)i + (0.6 mT)k is switched on. Find force acting on segment."
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Induced Charge",
+    "marks": 1,
+    "questionText": "A coil has 100 turns, each of area 0.05 m² and resistance 1.5 Ω. It is inserted in magnetic field 0.9 mT parallel to axis. Find induced charge."
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Self Inductance",
+    "marks": 1,
+    "questionText": "Design an air-filled solenoid of inductance 0.016 H having length 0.81 m and radius 0.02 m. Find number of turns."
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Alternating Current",
+    "topic": "Average Power",
+    "marks": 1,
+    "questionText": "A voltage V = V0 sin ωt is applied to a circuit driving current I = I0 sin (ωt + φ). The average power over a cycle is..."
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Electromagnetic Waves",
+    "topic": "EM Spectrum",
+    "marks": 1,
+    "questionText": "The diagram shows relation between wavelength of electromagnetic waves and photon energy. Identify P, Q and R."
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Ray Optics",
+    "topic": "Apparent Depth",
+    "marks": 1,
+    "questionText": "A beaker is filled with water (μ = 4/3) up to height H. A coin is placed at bottom. Find apparent depth when viewed normally."
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photoelectric Effect",
+    "marks": 1,
+    "questionText": "Stopping potential V0 measured in photoelectric experiment plotted against frequency. If slope is m, find charge of electron."
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "de Broglie Wavelength",
+    "marks": 1,
+    "questionText": "Let λe, λp and λd be wavelengths associated with electron, proton and deuteron moving with same speed. Find correct relation."
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Nuclei",
+    "topic": "Binding Energy Curve",
+    "marks": 1,
+    "questionText": "Which of the following figures correctly represents binding energy per nucleon as a function of mass number?"
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Semiconductor Electronics",
+    "topic": "p-n Junction Diode",
+    "marks": 1,
+    "questionText": "When a p-n junction diode is forward biased..."
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Lenz’s Law",
+    "marks": 1,
+    "questionText": "Assertion-Reason: It is difficult to move a magnet into a coil of closed circuit because induced current opposes motion."
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Galvanometer",
+    "marks": 1,
+    "questionText": "Assertion-Reason: Deflection in galvanometer proportional to current passing through it."
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Formation of p-n Junction",
+    "marks": 1,
+    "questionText": "Assertion-Reason: Cannot form p-n junction by physically joining p-type and n-type slabs."
+  },
+  {
+    "year": 2025,
+    "section": "A",
+    "type": "MCQ",
+    "chapter": "Atoms",
+    "topic": "Bohr Model Energy",
+    "marks": 1,
+    "questionText": "Assertion-Reason: Total energy of electron in hydrogen atom is negative."
+  },
+  {
+    "year": 2025,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Current Electricity",
+    "topic": "Internal Resistance",
+    "marks": 2,
+    "questionText": "Battery of emf E and internal resistance r connected to rheostat. Given potential differences, calculate E and r."
+  },
+  {
+    "year": 2025,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Wave Optics",
+    "topic": "Diffraction / Interference",
+    "marks": 2,
+    "questionText": "Diffraction experiment: Light of wavelength 600 nm, first minimum at θ = 30°. Calculate slit width OR Young’s double slit intensity at path difference λ/8."
+  },
+  {
+    "year": 2025,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Ray Optics",
+    "topic": "Refraction",
+    "marks": 2,
+    "questionText": "Transparent solid cylindrical rod (μ = √2/3) kept in air. A ray travels along surface. Calculate angle θ."
+  },
+  {
+    "year": 2025,
+    "section": "B",
+    "type": "VSA",
+    "chapter": "Atoms",
+    "topic": "Bohr Model",
+    "marks": 2,
+    "questionText": "Prove that in Bohr model of hydrogen atom, time period of revolution in nth orbit is proportional to n³."
+  },
+  {
+    "year": 2025,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Doping",
+    "marks": 3,
+    "questionText": "A p-type semiconductor is made by doping one dopant per 5 × 10⁷ silicon atoms. Calculate hole concentration."
+  },
+  {
+    "year": 2025,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Current Electricity",
+    "topic": "Cells in Parallel / Drift Velocity",
+    "marks": 3,
+    "questionText": "Two batteries of emf 3V and 6V with internal resistances connected in parallel. Find equivalent emf and resistance OR derive drift velocity relations."
+  },
+  {
+    "year": 2025,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Biot-Savart Law",
+    "marks": 3,
+    "questionText": "Using Biot-Savart law derive magnetic field due to circular current loop at a point on axis and at centre."
+  },
+  {
+    "year": 2025,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Energy in Inductor",
+    "marks": 3,
+    "questionText": "Show energy required to build up current in inductor is (1/2)LI² OR derive magnetic energy density B²/2μ₀."
+  },
+  {
+    "year": 2025,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Alternating Current",
+    "topic": "Displacement Current",
+    "marks": 3,
+    "questionText": "Parallel plate capacitor charged by AC source. Show conduction and displacement current sum constant OR Kirchhoff’s rule validity."
+  },
+  {
+    "year": 2025,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Dual Nature / Nuclei",
+    "topic": "Photoelectric / Binding Energy",
+    "marks": 3,
+    "questionText": "Photoelectric effect conceptual questions OR nuclear binding energy explanation."
+  },
+  {
+    "year": 2025,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Nuclei",
+    "topic": "Mass Defect",
+    "marks": 3,
+    "questionText": "Define mass defect and binding energy OR calculate energy released in nuclear reaction."
+  },
+  {
+    "year": 2025,
+    "section": "C",
+    "type": "SA",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Diode Characteristics",
+    "marks": 3,
+    "questionText": "Draw V-I characteristics of p-n junction diode OR rectify circuit explanation."
+  },
+  {
+    "year": 2025,
+    "section": "D",
+    "type": "Case Study",
+    "chapter": "Current Electricity",
+    "topic": "RC Circuit",
+    "marks": 4,
+    "questionText": "Case study based on RC series circuit. Charging equation q = Q(1 − e^(−t/RC)) and related sub-questions."
+  },
+  {
+    "year": 2025,
+    "section": "D",
+    "type": "Case Study",
+    "chapter": "Ray Optics",
+    "topic": "Lens Formula",
+    "marks": 4,
+    "questionText": "Case study based on lens and image formation with conceptual and numerical parts."
+  },
+  {
+    "year": 2025,
+    "section": "E",
+    "type": "Long Answer",
+    "chapter": "Electrostatics",
+    "topic": "Electric Field and Potential",
+    "marks": 5,
+    "questionText": "Long answer numerical based on electric field and potential due to charges placed on axis."
+  },
+  {
+    "year": 2025,
+    "section": "E",
+    "type": "Long Answer",
+    "chapter": "Mixed",
+    "topic": "As per Paper",
+    "marks": 5,
+    "questionText": "Long answer question (as per paper internal choice)."
+  },
+  {
+    "year": 2025,
+    "section": "E",
+    "type": "Long Answer",
+    "chapter": "Mixed",
+    "topic": "As per Paper",
+    "marks": 5,
+    "questionText": "Long answer question (as per paper internal choice)."
+  }
+]

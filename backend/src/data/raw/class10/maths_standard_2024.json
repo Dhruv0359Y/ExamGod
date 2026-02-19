@@ -1,0 +1,369 @@
+{
+  "meta": {
+    "year": 2024,
+    "series": "C3ABD/1",
+    "set": "Set-1",
+    "qpCode": "30/1/1",
+    "subject": "Mathematics (Standard)",
+    "class": 10,
+    "timeAllowed": "3 Hours",
+    "maximumMarks": 80,
+    "totalQuestions": 38,
+    "sections": ["A", "B", "C", "D", "E"]
+  },
+  "sections": [
+    {
+      "section": "A",
+      "type": "MCQ",
+      "marksPerQuestion": 1,
+      "questions": [
+        {
+          "qno": 1,
+          "questionText": "If the sum of zeroes of the polynomial p(x) = 2x² − k√2x+1 is √2, then value of k is:",
+          "options": ["√2", "2", "2√2", "1/2"],
+          "chapter": "Polynomials",
+          "topic": "Sum of Zeroes",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 2,
+          "questionText": "If the probability of a player winning a game is 0.79, then the probability of his losing the same game is:",
+          "options": ["1.79", "0.31", "0.21%", "0.21"],
+          "chapter": "Probability",
+          "topic": "Complementary Events",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 3,
+          "questionText": "If the roots of equation ax² + bx + c = 0, a ≠ 0 are real and equal, then which of the following relation is true?",
+          "options": ["a = b²/c", "b² = ac", "ac = b²/4", "c = b²/a"],
+          "chapter": "Quadratic Equations",
+          "topic": "Nature of Roots",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 4,
+          "questionText": "In an A.P., if the first term a = 7, nth term aₙ = 84 and the sum of first n terms sₙ = 2093/2, then n is equal to:",
+          "options": ["22", "24", "23", "26"],
+          "chapter": "Arithmetic Progressions",
+          "topic": "Sum of AP",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 5,
+          "questionText": "If two positive integers p and q can be expressed as p = 18 a²b⁴ and q = 20 a³b², where a and b are prime numbers, then LCM (p, q) is:",
+          "options": ["2 a²b²", "180 a²b²", "12 a²b²", "180 a³b⁴"],
+          "chapter": "Real Numbers",
+          "topic": "LCM",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 6,
+          "questionText": "AD is a median of △ABC with vertices A(5, −6), B(6, 4) and C(0, 0). Length AD is equal to:",
+          "options": ["√68 units", "2√15 units", "√101 units", "10 units"],
+          "chapter": "Coordinate Geometry",
+          "topic": "Distance Formula",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 7,
+          "questionText": "If sec θ − tan θ = m, then the value of sec θ + tan θ is:",
+          "options": ["1−1/m", "m² − 1", "1/m", "−m"],
+          "chapter": "Introduction to Trigonometry",
+          "topic": "Trigonometric Identities",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 8,
+          "questionText": "From the data 1, 4, 7, 9, 16, 21, 25, if all the even numbers are removed, then the probability of getting at random a prime number from the remaining is:",
+          "options": ["2/5", "1/5", "1/7", "2/7"],
+          "chapter": "Probability",
+          "topic": "Basic Probability",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 9,
+          "questionText": "For some data x₁, x₂, ..... xₙ with respective frequencies f₁, f₂, ..... fₙ, the value of Σfᵢ(xᵢ−x̄) is equal to:",
+          "options": ["nx̄", "1", "Σfᵢ", "0"],
+          "chapter": "Statistics",
+          "topic": "Mean Deviation",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 10,
+          "questionText": "The zeroes of a polynomial x² + px + q are twice the zeroes of the polynomial 4x² − 5x − 6. The value of p is:",
+          "options": ["−5/2", "5/2", "−5", "10"],
+          "chapter": "Polynomials",
+          "topic": "Relationship between Zeroes",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 11,
+          "questionText": "If the distance between the points (3, −5) and (x, −5) is 15 units, then the values of x are:",
+          "options": ["12, −18", "−12, 18", "18, 5", "−9, −12"],
+          "chapter": "Coordinate Geometry",
+          "topic": "Distance Formula",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 12,
+          "questionText": "If cos(α + β) = 0, then cos((α + β)/2) is equal to:",
+          "options": ["1/√2", "1/2", "0", "√2"],
+          "chapter": "Introduction to Trigonometry",
+          "topic": "Trigonometric Values",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 13,
+          "questionText": "A solid sphere is cut into two hemispheres. The ratio of the surface areas of sphere to that of two hemispheres taken together, is:",
+          "options": ["1 : 1", "1 : 4", "2 : 3", "3 : 2"],
+          "chapter": "Surface Areas and Volumes",
+          "topic": "Surface Areas",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 14,
+          "questionText": "The middle most observation of every data arranged in order is called:",
+          "options": ["mode", "median", "mean", "deviation"],
+          "chapter": "Statistics",
+          "topic": "Measures of Central Tendency",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 15,
+          "questionText": "The volume of the largest right circular cone that can be carved out from a solid cube of edge 2 cm is:",
+          "options": ["4π/3 cu cm", "5π/3 cu cm", "8π/3 cu cm", "2π/3 cu cm"],
+          "chapter": "Surface Areas and Volumes",
+          "topic": "Volume of Cone",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 16,
+          "questionText": "Two dice are rolled together. The probability of getting sum of numbers on the two dice as 2, 3 or 5, is:",
+          "options": ["7/36", "11/36", "5/36", "4/9"],
+          "chapter": "Probability",
+          "topic": "Probability with Dice",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 17,
+          "questionText": "The centre of a circle is at (2, 0). If one end of a diameter is at (6, 0), then the other end is at:",
+          "options": ["(0, 0)", "(4, 0)", "(−2, 0)", "(−6, 0)"],
+          "chapter": "Coordinate Geometry",
+          "topic": "Mid-point Formula",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 18,
+          "questionText": "In the given figure, graphs of two linear equations are shown. The pair of these linear equations is:",
+          "options": [
+            "consistent with unique solution",
+            "consistent with infinitely many solutions",
+            "inconsistent",
+            "inconsistent but can be made consistent by extending these lines"
+          ],
+          "chapter": "Pair of Linear Equations in Two Variables",
+          "topic": "Graphical Solution",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 19,
+          "questionText": "Assertion (A): The tangents drawn at the end points of a diameter of a circle, are parallel. Reason (R): Diameter of a circle is the longest chord.",
+          "chapter": "Circles",
+          "topic": "Tangent Properties",
+          "marks": 1,
+          "questionType": "Assertion-Reason"
+        },
+        {
+          "qno": 20,
+          "questionText": "Assertion (A): If the graph of a polynomial touches x-axis at only one point, then the polynomial cannot be a quadratic polynomial. Reason (R): A polynomial of degree n(n >1) can have at most n zeroes.",
+          "chapter": "Polynomials",
+          "topic": "Degree and Zeroes",
+          "marks": 1,
+          "questionType": "Assertion-Reason"
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "type": "VSA",
+      "marksPerQuestion": 2,
+      "questions": [
+        {
+          "qno": 21,
+          "questionText": "Solve the following system of linear equations: 7x − 2y = 5 and 8x + 7y = 15 and verify your answer.",
+          "chapter": "Pair of Linear Equations in Two Variables",
+          "topic": "Solving Linear Equations",
+          "marks": 2
+        },
+        {
+          "qno": 22,
+          "questionText": "In a pack of 52 playing cards one card is lost. From the remaining cards, a card is drawn at random. Find the probability that the drawn card is queen of heart, if the lost card is a black card.",
+          "chapter": "Probability",
+          "topic": "Conditional Probability",
+          "marks": 2
+        },
+        {
+          "qno": 23,
+          "questionText": "(A) Evaluate: 2√2 cos 45° sin 30° + 2√3 cos 30° OR (B) If A = 60° and B = 30°, verify that: sin (A + B) = sin A cos B + cos A sin B",
+          "chapter": "Introduction to Trigonometry",
+          "topic": "Trigonometric Values and Identities",
+          "marks": 2,
+          "internalChoice": true
+        },
+        {
+          "qno": 24,
+          "questionText": "In the given figure, ABCD is a quadrilateral. Diagonal BD bisects ∠B and ∠D both. Prove that: (i) △ABD ~ △CBD (ii) AB = BC",
+          "chapter": "Triangles",
+          "topic": "Similar Triangles",
+          "marks": 2
+        },
+        {
+          "qno": 25,
+          "questionText": "(A) Prove that 5−2√3 is an irrational number. It is given that √3 is an irrational number. OR (B) Show that the number 5×11×17+3×11 is a composite number.",
+          "chapter": "Real Numbers",
+          "topic": "Irrational Numbers / Composite Numbers",
+          "marks": 2,
+          "internalChoice": true
+        }
+      ]
+    },
+    {
+      "section": "C",
+      "type": "SA",
+      "marksPerQuestion": 3,
+      "questions": [
+        {
+          "qno": 26,
+          "questionText": "(A) Find the ratio in which the point (8/5, y) divides the line segment joining the points (1, 2) and (2, 3). Also, find the value of y. OR (B) ABCD is a rectangle formed by the points A (−1, −1), B (−1, 6), C (3, 6) and D (3, −1). P, Q, R and S are mid–points of sides AB, BC, CD and DA respectively. Show that diagonals of the quadrilateral PQRS bisect each other.",
+          "chapter": "Coordinate Geometry",
+          "topic": "Section Formula",
+          "marks": 3,
+          "internalChoice": true
+        },
+        {
+          "qno": 27,
+          "questionText": "In a teachers' workshop, the number of teachers teaching French, Hindi and English are 48, 80 and 144 respectively. Find the minimum number of rooms required if in each room the same number of teachers are seated and all of them are of the same subject.",
+          "chapter": "Real Numbers",
+          "topic": "HCF Application",
+          "marks": 3
+        },
+        {
+          "qno": 28,
+          "questionText": "Prove that: tan θ/(1−cot θ) + cot θ/(1−tan θ) = 1 + sec θ cosec θ",
+          "chapter": "Introduction to Trigonometry",
+          "topic": "Trigonometric Identities",
+          "marks": 3
+        },
+        {
+          "qno": 29,
+          "questionText": "Three years ago, Rashmi was thrice as old as Nazma. Ten years later, Rashmi will be twice as old as Nazma. How old are Rashmi and Nazma now?",
+          "chapter": "Pair of Linear Equations in Two Variables",
+          "topic": "Word Problems",
+          "marks": 3
+        },
+        {
+          "qno": 30,
+          "questionText": "(A) In the given figure, AB is a diameter of the circle with centre O. AQ, BP and PQ are tangents to the circle. Prove that ∠POQ = 90°. OR (B) A circle with centre O and radius 8 cm is inscribed in a quadrilateral ABCD in which P, Q, R, S are the points of contact as shown. If AD is perpendicular to DC, BC = 30 cm and BS = 24 cm, then find the length DC.",
+          "chapter": "Circles",
+          "topic": "Tangent Properties",
+          "marks": 3,
+          "internalChoice": true
+        },
+        {
+          "qno": 31,
+          "questionText": "The difference between the outer and inner radii of a hollow right circular cylinder of length 14 cm is 1 cm. If the volume of the metal used in making the cylinder is 176 cm³, find the outer and inner radii of the cylinder.",
+          "chapter": "Surface Areas and Volumes",
+          "topic": "Hollow Cylinder",
+          "marks": 3
+        }
+      ]
+    },
+    {
+      "section": "D",
+      "type": "LA",
+      "marksPerQuestion": 5,
+      "questions": [
+        {
+          "qno": 32,
+          "questionText": "An arc of a circle of radius 21 cm subtends an angle of 60° at the centre. Find: (i) the length of the arc. (ii) the area of the minor segment of the circle made by the corresponding chord.",
+          "chapter": "Areas Related to Circles",
+          "topic": "Arc Length and Segment Area",
+          "marks": 5
+        },
+        {
+          "qno": 33,
+          "questionText": "(A) The sum of first and eighth terms of an A.P. is 32 and their product is 60. Find the first term and common difference of the A.P. Hence, also find the sum of its first 20 terms. OR (B) In an A.P. of 40 terms, the sum of first 9 terms is 153 and the sum of last 6 terms is 687. Determine the first term and common difference of A.P. Also, find the sum of all the terms of the A.P.",
+          "chapter": "Arithmetic Progressions",
+          "topic": "AP Problems",
+          "marks": 5,
+          "internalChoice": true
+        },
+        {
+          "qno": 34,
+          "questionText": "(A) If a line is drawn parallel to one side of a triangle to intersect the other two sides in distinct points, then prove that the other two sides are divided in the same ratio. OR (B) In the given figure PA, QB and RC are each perpendicular to AC. If AP = x, BQ = y and CR = z, then prove that 1/x + 1/z = 1/y",
+          "chapter": "Triangles",
+          "topic": "Basic Proportionality Theorem",
+          "marks": 5,
+          "internalChoice": true
+        },
+        {
+          "qno": 35,
+          "questionText": "A pole 6m high is fixed on the top of a tower. The angle of elevation of the top of the pole observed from a point P on the ground is 60° and the angle of depression of the point P from the top of the tower is 45°. Find the height of the tower and the distance of point P from the foot of the tower. (Use √3 = 1.73)",
+          "chapter": "Some Applications of Trigonometry",
+          "topic": "Heights and Distances",
+          "marks": 5
+        }
+      ]
+    },
+    {
+      "section": "E",
+      "type": "Case Study",
+      "marksPerQuestion": 4,
+      "questions": [
+        {
+          "qno": 36,
+          "questionText": "A rectangular floor area can be completely tiled with 200 square tiles. If the side length of each tile is increased by 1 unit, it would take only 128 tiles to cover the floor. Based on the above information, answer the following questions: (i) Assuming the original length of each side of a tile be x units, make a quadratic equation from the above information. (ii) Write the corresponding quadratic equation in standard form. (iii) (a) Find the value of x, the length of side of a tile by factorisation. OR (b) Solve the quadratic equation for x, using quadratic formula.",
+          "chapter": "Quadratic Equations",
+          "topic": "Word Problems on Quadratic Equations",
+          "marks": 4,
+          "internalChoice": true
+        },
+        {
+          "qno": 37,
+          "questionText": "BINGO is game of chance. The host has 75 balls numbered 1 through 75. Each player has a BINGO card with some numbers written on it. The participant cancels the number on the card when called out a number written on the ball selected at random. Whosoever cancels all the numbers on his/her card, says BINGO and wins the game. The table shows the data of one such game where 48 balls were used before Tara said 'BINGO'. Based on the above information, answer the following: (i) Write the median class. (ii) When first ball was picked up, what was the probability of calling out an even number? (iii) (a) Find median of the given data. OR (b) Find mode of the given data.",
+          "chapter": "Statistics",
+          "topic": "Median and Mode",
+          "marks": 4,
+          "internalChoice": true
+        },
+        {
+          "qno": 38,
+          "questionText": "A backyard is in the shape of a triangle ABC with right angle at B. AB = 7 m and BC = 15 m. A circular pit was dug inside it such that it touches the walls AC, BC and AB at P, Q and R respectively such that AP = x m. Based on the above information, answer the following questions: (i) Find the length of AR in terms of x. (ii) Write the type of quadrilateral BQOR. (iii) (a) Find the length PC in terms of x and hence find the value of x. OR (b) Find x and hence find the radius r of circle.",
+          "chapter": "Circles",
+          "topic": "Tangent Properties and Coordinate Geometry",
+          "marks": 4,
+          "internalChoice": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "year": 2022,
+    "series": "A3BAB/1",
+    "set": "Set-1",
+    "qpCode": "55/1/1",
+    "subject": "Physics (Theory)",
+    "class": 12,
+    "timeAllowed": "2 Hours",
+    "maximumMarks": 35,
+    "totalQuestions": 12,
+    "sections": ["A", "B", "C"]
+  },
+  "sections": [
+    {
+      "section": "A",
+      "type": "VSA",
+      "marksPerQuestion": 2,
+      "questions": [
+        {
+          "qno": 1,
+          "questionText": "Draw energy band diagrams of n-type and p-type semiconductors at temperature T > 0 K depicting donor and acceptor energy levels. Mention significance of these levels.",
+          "chapter": "Semiconductor Electronics",
+          "topic": "Energy Band Diagram",
+          "marks": 2
+        },
+        {
+          "qno": 2,
+          "questionText": "Draw graph showing variation of number of scattered alpha particles with scattering angle in Geiger–Marsden experiment OR Plot graphs showing variation of photoelectric current with collector plate potential for different frequencies and intensities.",
+          "chapter": "Atoms / Dual Nature",
+          "topic": "Alpha Scattering / Photoelectric Effect",
+          "marks": 2,
+          "internalChoice": true
+        },
+        {
+          "qno": 3,
+          "questionText": "Write characteristics of a p-n junction diode which make it suitable for rectification.",
+          "chapter": "Semiconductor Electronics",
+          "topic": "Rectification",
+          "marks": 2
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "type": "SA",
+      "marksPerQuestion": 3,
+      "questions": [
+        {
+          "qno": 4,
+          "questionText": "Define the term ‘distance of closest approach’. How will it be affected if kinetic energy of an alpha particle is doubled?",
+          "chapter": "Nuclei",
+          "topic": "Distance of Closest Approach",
+          "marks": 3
+        },
+        {
+          "qno": 5,
+          "questionText": "A point source in air is kept 24 cm in front of a concave spherical glass surface (μ = 1.5) and radius of curvature 60 cm. Find nature and position of image.",
+          "chapter": "Ray Optics",
+          "topic": "Refraction at Spherical Surface",
+          "marks": 3
+        },
+        {
+          "qno": 6,
+          "questionText": "Calculate the energy released in MeV in the nuclear reaction ²H + ³H → ⁴He + n.",
+          "chapter": "Nuclei",
+          "topic": "Nuclear Energy",
+          "marks": 3
+        },
+        {
+          "qno": 7,
+          "questionText": "Explain with diagram the phenomenon on which an optical fibre works. Mention two uses.",
+          "chapter": "Ray Optics",
+          "topic": "Total Internal Reflection",
+          "marks": 3
+        },
+        {
+          "qno": 8,
+          "questionText": "A parallel beam of light of wavelength 600 nm is incident normally on a slit of width 0.2 mm. Find first minimum and second maximum distances OR lens combination problem.",
+          "chapter": "Wave Optics",
+          "topic": "Diffraction / Lens Combination",
+          "marks": 3,
+          "internalChoice": true
+        },
+        {
+          "qno": 9,
+          "questionText": "Photoelectrons emitted when UV light of wavelength 330 nm is incident. Calculate incident energy and kinetic energy.",
+          "chapter": "Dual Nature of Radiation and Matter",
+          "topic": "Photoelectric Effect",
+          "marks": 3
+        },
+        {
+          "qno": 10,
+          "questionText": "State working principle of LED. Write two advantages and two disadvantages.",
+          "chapter": "Semiconductor Electronics",
+          "topic": "LED",
+          "marks": 3
+        },
+        {
+          "qno": 11,
+          "questionText": "Monochromatic light incident on boundary of two media. Why frequency remains unchanged? Identify radiation of frequency 1.0 × 10¹¹ Hz and state two uses.",
+          "chapter": "Electromagnetic Waves",
+          "topic": "Refraction / EM Spectrum",
+          "marks": 3,
+          "internalChoice": true
+        }
+      ]
+    },
+    {
+      "section": "C",
+      "type": "Case Study",
+      "marksPerQuestion": 5,
+      "questions": [
+        {
+          "qno": 12,
+          "questionText": "Case study based on Young’s double slit experiment. Questions related to interference, intensity, wavelength, fringe width and angular separation.",
+          "chapter": "Wave Optics",
+          "topic": "Young’s Double Slit Experiment",
+          "marks": 5
+        }
+      ]
+    }
+  ]
+}

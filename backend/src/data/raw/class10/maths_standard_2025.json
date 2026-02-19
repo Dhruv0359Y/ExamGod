@@ -1,0 +1,379 @@
+{
+  "meta": {
+    "year": 2025,
+    "series": "GE1FH",
+    "set": "Set-1",
+    "qpCode": "30/1/1",
+    "subject": "Mathematics (Standard)",
+    "class": 10,
+    "timeAllowed": "3 Hours",
+    "maximumMarks": 80,
+    "totalQuestions": 38,
+    "sections": ["A", "B", "C", "D", "E"]
+  },
+  "sections": [
+    {
+      "section": "A",
+      "type": "MCQ",
+      "marksPerQuestion": 1,
+      "questions": [
+        {
+          "qno": 1,
+          "questionText": "If α and β are the zeroes of polynomial 3x² + 6x + k such that α + β + αβ = -2/3, then the value of k is:",
+          "options": ["−8", "8", "−4", "4"],
+          "chapter": "Polynomials",
+          "topic": "Relationship between Zeroes and Coefficients",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 2,
+          "questionText": "If x = 1 and y = 2 is a solution of the pair of linear equations 2x − 3y + a = 0 and 2x + 3y − b = 0, then:",
+          "options": ["a = 2b", "2a = b", "a + 2b = 0", "2a + b = 0"],
+          "chapter": "Pair of Linear Equations in Two Variables",
+          "topic": "Solution of Linear Equations",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 3,
+          "questionText": "The mid-point of the line segment joining the points P(−4, 5) and Q(4, 6) lies on:",
+          "options": [
+            "x-axis",
+            "y-axis",
+            "origin",
+            "neither x-axis nor y-axis"
+          ],
+          "chapter": "Coordinate Geometry",
+          "topic": "Mid-point Formula",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 4,
+          "questionText": "If θ is an acute angle and 7 + 4 sin θ = 9, then the value of θ is:",
+          "options": ["90°", "30°", "45°", "60°"],
+          "chapter": "Introduction to Trigonometry",
+          "topic": "Trigonometric Values",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 5,
+          "questionText": "The value of tan² θ − (1/cos θ × sec θ) is:",
+          "options": ["1", "0", "−1", "2"],
+          "chapter": "Introduction to Trigonometry",
+          "topic": "Trigonometric Identities",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 6,
+          "questionText": "If HCF(98, 28) = m and LCM(98, 28) = n, then the value of n − 7m is:",
+          "options": ["0", "28", "98", "198"],
+          "chapter": "Real Numbers",
+          "topic": "HCF and LCM",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 7,
+          "questionText": "The tangents drawn at the extremities of the diameter of a circle are always:",
+          "options": ["parallel", "perpendicular", "equal", "intersecting"],
+          "chapter": "Circles",
+          "topic": "Tangent Properties",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 8,
+          "questionText": "In triangles ABC and DEF, ∠B = ∠E, ∠F = ∠C and AB = 3 DE. Then, the two triangles are:",
+          "options": [
+            "congruent but not similar",
+            "congruent as well as similar",
+            "neither congruent nor similar",
+            "similar but not congruent"
+          ],
+          "chapter": "Triangles",
+          "topic": "Similarity and Congruence",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 9,
+          "questionText": "If (−1)ⁿ + (−1)⁸ = 0, then n is:",
+          "options": [
+            "any positive integer",
+            "any negative integer",
+            "any odd number",
+            "any even number"
+          ],
+          "chapter": "Real Numbers",
+          "topic": "Properties of Integers",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 10,
+          "questionText": "Two polynomials are shown in the graph below. The number of distinct zeroes of both the polynomials is:",
+          "options": ["3", "5", "2", "4"],
+          "chapter": "Polynomials",
+          "topic": "Zeroes of Polynomial",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 11,
+          "questionText": "If the sum of first m terms of an AP is 2m² + 3m, then its second term is:",
+          "options": ["10", "9", "12", "4"],
+          "chapter": "Arithmetic Progressions",
+          "topic": "Sum of AP Terms",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 12,
+          "questionText": "Mode and Mean of a data are 15x and 18x, respectively. Then the median of the data is:",
+          "options": ["x", "11x", "17x", "34x"],
+          "chapter": "Statistics",
+          "topic": "Measures of Central Tendency",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 13,
+          "questionText": "A card is selected at random from a deck of 52 playing cards. The probability of it being a red face card is:",
+          "options": ["3/13", "2/13", "1/2", "3/26"],
+          "chapter": "Probability",
+          "topic": "Basic Probability",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 14,
+          "questionText": "Which of the following is a rational number between √3 and √5?",
+          "options": ["1.4142387954012....", "2.326̄", "π", "1.857142"],
+          "chapter": "Real Numbers",
+          "topic": "Rational and Irrational Numbers",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 15,
+          "questionText": "If a sector of a circle has an area of 40π sq. units and a central angle of 72°, the radius of the circle is:",
+          "options": ["200 units", "100 units", "20 units", "10√2 units"],
+          "chapter": "Areas Related to Circles",
+          "topic": "Area of Sector",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 16,
+          "questionText": "In the given figure, PA is a tangent from an external point P to a circle with centre O. If ∠POB = 115°, then ∠APO is equal to:",
+          "options": ["25°", "65°", "90°", "35°"],
+          "chapter": "Circles",
+          "topic": "Tangent and Angle Properties",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 17,
+          "questionText": "A kite is flying at a height of 150 m from the ground. It is attached to a string inclined at an angle of 30° to the horizontal. The length of the string is:",
+          "options": ["100√3 m", "300 m", "150√2 m", "150√3 m"],
+          "chapter": "Some Applications of Trigonometry",
+          "topic": "Heights and Distances",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 18,
+          "questionText": "A piece of wire 20 cm long is bent into the form of an arc of a circle of radius 60/π cm. The angle subtended by the arc at the centre of the circle is:",
+          "options": ["30°", "60°", "90°", "50°"],
+          "chapter": "Areas Related to Circles",
+          "topic": "Arc Length and Angle",
+          "marks": 1,
+          "questionType": "MCQ"
+        },
+        {
+          "qno": 19,
+          "questionText": "Assertion (A): The probability of selecting a number at random from the numbers 1 to 20 is 1. Reason (R): For any event E, if P(E) = 1, then E is called a sure event.",
+          "chapter": "Probability",
+          "topic": "Sure Events",
+          "marks": 1,
+          "questionType": "Assertion-Reason"
+        },
+        {
+          "qno": 20,
+          "questionText": "Assertion (A): If we join two hemispheres of same radius along their bases, then we get a sphere. Reason (R): Total Surface Area of a sphere of radius r is 3πr².",
+          "chapter": "Surface Areas and Volumes",
+          "topic": "Sphere Properties",
+          "marks": 1,
+          "questionType": "Assertion-Reason"
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "type": "VSA",
+      "marksPerQuestion": 2,
+      "questions": [
+        {
+          "qno": 21,
+          "questionText": "(a) If x cos 60° + y cos 0° + sin 30° − cot 45° = 5, then find the value of x + 2y. OR (b) Evaluate: tan² 60° / (sin² 60° + cos² 30°)",
+          "chapter": "Introduction to Trigonometry",
+          "topic": "Trigonometric Values and Identities",
+          "marks": 2,
+          "internalChoice": true
+        },
+        {
+          "qno": 22,
+          "questionText": "Find the zeroes of the polynomial p(x) = x² + (4/3)x − (4/3).",
+          "chapter": "Polynomials",
+          "topic": "Finding Zeroes",
+          "marks": 2
+        },
+        {
+          "qno": 23,
+          "questionText": "The coordinates of the centre of a circle are (2a, a − 7). Find the value(s) of 'a' if the circle passes through the point (11, −9) and has diameter 10√2 units.",
+          "chapter": "Circles",
+          "topic": "Circle Equation",
+          "marks": 2
+        },
+        {
+          "qno": 24,
+          "questionText": "(a) If △ABC ~ △PQR in which AB = 6 cm, BC = 4 cm, AC = 8 cm and PR = 6 cm, then find the length of (PQ + QR). OR (b) In the given figure, QR/QS = QT/PR and ∠1 = ∠2, show that △PQS ~ △TQR.",
+          "chapter": "Triangles",
+          "topic": "Similar Triangles",
+          "marks": 2,
+          "internalChoice": true
+        },
+        {
+          "qno": 25,
+          "questionText": "A person is standing at P outside a circular ground at a distance of 26 m from the centre of the ground. He found that his distances from the points A and B on the ground are 10 m (PA and PB are tangents to the circle). Find the radius of the circular ground.",
+          "chapter": "Circles",
+          "topic": "Tangent from External Point",
+          "marks": 2
+        }
+      ]
+    },
+    {
+      "section": "C",
+      "type": "SA",
+      "marksPerQuestion": 3,
+      "questions": [
+        {
+          "qno": 26,
+          "questionText": "(a) In the given figure, O is the centre of the circle and BCD is tangent to it at C. Prove that ∠BAC + ∠ACD = 90°. OR (b) Prove that opposite sides of a quadrilateral circumscribing a circle subtend supplementary angles at the centre of the circle.",
+          "chapter": "Circles",
+          "topic": "Tangent and Angle Properties",
+          "marks": 3,
+          "internalChoice": true
+        },
+        {
+          "qno": 27,
+          "questionText": "(a) Prove that: (tan θ)/(1 − cot θ) + (cot θ)/(1 − tan θ) = 1 + sec θ cosec θ OR (b) Prove that: (sin A + cos A)/(sin A − cos A) + (sin A − cos A)/(sin A + cos A) = 2/(2 sin² A − 1)",
+          "chapter": "Introduction to Trigonometry",
+          "topic": "Trigonometric Identities",
+          "marks": 3,
+          "internalChoice": true
+        },
+        {
+          "qno": 28,
+          "questionText": "Find the ratio in which the y-axis divides the line segment joining the points (5, −6) and (−1, −4). Also find the point of intersection.",
+          "chapter": "Coordinate Geometry",
+          "topic": "Section Formula",
+          "marks": 3
+        },
+        {
+          "qno": 29,
+          "questionText": "Prove that 1/√5 is an irrational number.",
+          "chapter": "Real Numbers",
+          "topic": "Irrational Numbers",
+          "marks": 3
+        },
+        {
+          "qno": 30,
+          "questionText": "A room is in the form of a cylinder surmounted by a hemispherical dome. The base radius of the hemisphere is half of the height of the cylindrical part. If the room contains 1408/21 m³ of air, find the height of the cylindrical part. (Use π = 22/7).",
+          "chapter": "Surface Areas and Volumes",
+          "topic": "Combined Solids",
+          "marks": 3
+        },
+        {
+          "qno": 31,
+          "questionText": "Two dice are thrown at the same time. Determine the probability that the difference of the numbers on the two dice is 2.",
+          "chapter": "Probability",
+          "topic": "Probability with Two Dice",
+          "marks": 3
+        }
+      ]
+    },
+    {
+      "section": "D",
+      "type": "LA",
+      "marksPerQuestion": 5,
+      "questions": [
+        {
+          "qno": 32,
+          "questionText": "Vijay invested certain amounts of money in two schemes A and B, which offer interest at the rate of 8% per annum and 9% per annum, respectively. He received ₹1,860 as the total annual interest. However, had he interchanged the amounts of investments in the two schemes, he would have received ₹20 more as annual interest. How much money did he invest in each scheme?",
+          "chapter": "Pair of Linear Equations in Two Variables",
+          "topic": "Word Problems on Linear Equations",
+          "marks": 5
+        },
+        {
+          "qno": 33,
+          "questionText": "(a) The diagonal BD of a parallelogram ABCD intersects the line segment AE at the point F, where E is any point on the side BC. Prove that DF × EF = FB × FA. OR (b) In △ABC, if AD ⊥ BC and AD² = BD × DC, then prove that ∠BAC = 90°.",
+          "chapter": "Triangles",
+          "topic": "Properties of Triangles",
+          "marks": 5,
+          "internalChoice": true
+        },
+        {
+          "qno": 34,
+          "questionText": "(a) The perimeter of a right triangle is 60 cm and its hypotenuse is 25 cm. Find the lengths of other two sides of the triangle. OR (b) A train travels a distance of 480 km at a uniform speed. If the speed had been 8 km/h less, then it would have taken 3 hours more to cover the same distance. Find the speed of the train.",
+          "chapter": "Quadratic Equations",
+          "topic": "Word Problems on Quadratic Equations",
+          "marks": 5,
+          "internalChoice": true
+        },
+        {
+          "qno": 35,
+          "questionText": "Find the missing frequency 'f' in the following table, if the mean of the given data is 18. Hence find the mode. Daily Allowance: 11-13 (7), 13-15 (6), 15-17 (9), 17-19 (13), 19-21 (f), 21-23 (5), 23-25 (4)",
+          "chapter": "Statistics",
+          "topic": "Mean and Mode",
+          "marks": 5
+        }
+      ]
+    },
+    {
+      "section": "E",
+      "type": "Case Study",
+      "marksPerQuestion": 4,
+      "questions": [
+        {
+          "qno": 36,
+          "questionText": "A school is organizing a charity run to raise funds for a local hospital. The run is planned as a series of rounds around a track, with each round being 300 metres. To make the event more challenging and engaging, the organizers decide to increase the distance of each subsequent round by 50 metres. For example, the second round will be 350 metres, the third round will be 400 metres and so on. The total number of rounds planned is 10. Based on the information given above, answer the following questions: (i) Write the fourth, fifth and sixth term of the Arithmetic Progression so formed. (ii) Determine the distance of the 8th round. (iii) (a) Find the total distance run after completing all 10 rounds. OR (iii) (b) If a runner completes only the first 6 rounds, what is the total distance run by the runner?",
+          "chapter": "Arithmetic Progressions",
+          "topic": "AP Applications",
+          "marks": 4,
+          "internalChoice": true
+        },
+        {
+          "qno": 37,
+          "questionText": "A brooch is a decorative piece often worn on clothing like jackets, blouses or dresses to add elegance. Made from precious metals and decorated with gemstones, brooches come in many shapes and designs. One such brooch is made with silver wire in the form of a circle with diameter 35 mm. The wire is also used in making 5 diameters which divide the circle into 10 equal sectors as shown in the figure. Based on the above given information, answer the following questions: (i) Find the central angle of each sector. (ii) Find the length of the arc ACB. (iii) (a) Find the area of each sector of the brooch. OR (iii) (b) Find the total length of the silver wire used.",
+          "chapter": "Areas Related to Circles",
+          "topic": "Sectors and Arc Length",
+          "marks": 4,
+          "internalChoice": true
+        },
+        {
+          "qno": 38,
+          "questionText": "Amrita stood near the base of a lighthouse, gazing up at its towering height. She measured the angle of elevation to the top and found it to be 60°. Then, she climbed a nearby observation deck, 40 metres higher than her original position and noticed the angle of elevation to the top of lighthouse to be 45°. Based on the above given information, answer the following questions: (i) If CD is h metres, find the distance BD in terms of 'h'. (ii) Find distance BC in terms of 'h'. (iii) (a) Find the height CE of the lighthouse [Use √3 = 1.73] OR (iii) (b) Find distance AE, if AC = 100 m.",
+          "chapter": "Some Applications of Trigonometry",
+          "topic": "Heights and Distances",
+          "marks": 4,
+          "internalChoice": true
+        }
+      ]
+    }
+  ]
+}
