@@ -356,9 +356,7 @@ const QuestionSelector = ({ subject, onSelect, onClose }) => {
               borderRadius: "8px",
               marginBottom: "20px",
             }}
-          >
-            ⚠️ Error: {error} - Using sample questions
-          </div>
+          ></div>
         )}
 
         {/* Filters */}
