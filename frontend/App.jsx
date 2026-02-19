@@ -10,7 +10,7 @@ import "./App.css";
 
 // Backend API URL
 const API_BASE_URL =
-  import.meta.env.VITE_API_URL || "http://localhost:5000/api";
+  import.meta.env.VITE_API_URL || "https://examgod-backend.onrender.com/api";
 
 export default function App() {
   const [step, setStep] = useState(1);
