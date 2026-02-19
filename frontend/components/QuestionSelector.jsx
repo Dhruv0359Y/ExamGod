@@ -8,13 +8,20 @@ const QuestionSelector = ({ subject, onSelect, onClose }) => {
   const [loading, setLoading] = useState(true);
   const [customQuestion, setCustomQuestion] = useState("");
   const [chapters, setChapters] = useState([]);
+  const [error, setError] = useState(null);
 
-  // Fetch questions from question bank
+  // Fetch questions from backend based on subject
   useEffect(() => {
     const fetchQuestions = async () => {
+      if (!subject) return;
+
       setLoading(true);
+      setError(null);
+
       try {
-        // API call to get questions for this subject
+        console.log("📡 Fetching questions for subject:", subject.id);
+
+        // Call backend API to get questions for this specific subject
         const response = await fetch(
           `${import.meta.env.VITE_API_URL}/questions`,
           {
@@ -24,100 +31,203 @@ const QuestionSelector = ({ subject, onSelect, onClose }) => {
             },
             body: JSON.stringify({
               subject: subject.id,
-              limit: 50, // Top 50 important questions
+              limit: 50,
             }),
           },
         );
 
-        if (response.ok) {
-          const data = await response.json();
-          setQuestions(data.questions || []);
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
 
-          // Extract unique chapters for filter
+        const data = await response.json();
+        console.log("✅ Questions received:", data);
+
+        if (data.questions && data.questions.length > 0) {
+          setQuestions(data.questions);
+
+          // Extract unique chapters
           const uniqueChapters = [
             ...new Set(data.questions.map((q) => q.chapter)),
           ];
           setChapters(uniqueChapters);
         } else {
-          // Fallback to mock data if API fails
-          setQuestions(getMockQuestions());
+          // Agar backend se questions nahi aaye toh subject-based mock questions do
+          const mockQuestions = getSubjectSpecificMockQuestions(subject.id);
+          setQuestions(mockQuestions);
+
+          const uniqueChapters = [
+            ...new Set(mockQuestions.map((q) => q.chapter)),
+          ];
+          setChapters(uniqueChapters);
         }
       } catch (error) {
         console.error("Error fetching questions:", error);
-        setQuestions(getMockQuestions());
+        setError(error.message);
+
+        // Fallback to subject-specific mock questions
+        const mockQuestions = getSubjectSpecificMockQuestions(subject.id);
+        setQuestions(mockQuestions);
+
+        const uniqueChapters = [
+          ...new Set(mockQuestions.map((q) => q.chapter)),
+        ];
+        setChapters(uniqueChapters);
       } finally {
         setLoading(false);
       }
     };
 
-    if (subject) {
-      fetchQuestions();
-    }
+    fetchQuestions();
   }, [subject]);
 
-  // Mock questions as fallback
-  const getMockQuestions = () => {
+  // Subject-specific mock questions
+  const getSubjectSpecificMockQuestions = (subjectId) => {
+    // Maths Basic questions
+    if (subjectId.includes("maths_basic")) {
+      return [
+        {
+          id: 1,
+          chapter: "Real Numbers",
+          topic: "HCF and LCM",
+          question:
+            "Find the HCF and LCM of 96 and 404 using prime factorisation method.",
+          marks: 2,
+        },
+        {
+          id: 2,
+          chapter: "Polynomials",
+          topic: "Zeroes of Polynomial",
+          question: "Find the zeroes of the polynomial x² - 3x - 10.",
+          marks: 2,
+        },
+        {
+          id: 3,
+          chapter: "Quadratic Equations",
+          topic: "Nature of Roots",
+          question: "Find the nature of roots of equation 2x² - 5x + 3 = 0.",
+          marks: 3,
+        },
+        {
+          id: 4,
+          chapter: "Arithmetic Progressions",
+          topic: "Sum of n terms",
+          question: "Find the sum of first 20 terms of AP: 2, 5, 8, ...",
+          marks: 3,
+        },
+        {
+          id: 5,
+          chapter: "Triangles",
+          topic: "Similar Triangles",
+          question:
+            "Prove that if a line is drawn parallel to one side of a triangle, it divides the other two sides in the same ratio.",
+          marks: 5,
+        },
+      ];
+    }
+
+    // Maths Standard questions
+    else if (subjectId.includes("maths_standard")) {
+      return [
+        {
+          id: 1,
+          chapter: "Real Numbers",
+          topic: "Irrational Numbers",
+          question: "Prove that √3 is an irrational number.",
+          marks: 3,
+        },
+        {
+          id: 2,
+          chapter: "Polynomials",
+          topic: "Relationship between Zeroes",
+          question: "Find a quadratic polynomial whose zeroes are 2 and -3.",
+          marks: 2,
+        },
+        {
+          id: 3,
+          chapter: "Quadratic Equations",
+          topic: "Word Problems",
+          question:
+            "The sum of squares of two consecutive positive integers is 365. Find the integers.",
+          marks: 4,
+        },
+        {
+          id: 4,
+          chapter: "Arithmetic Progressions",
+          topic: "AP Applications",
+          question:
+            "How many terms of AP: 24, 21, 18, ... must be taken so that their sum is 78?",
+          marks: 3,
+        },
+        {
+          id: 5,
+          chapter: "Coordinate Geometry",
+          topic: "Section Formula",
+          question:
+            "Find the coordinates of point which divides line joining (4,-3) and (8,5) in ratio 3:1 internally.",
+          marks: 3,
+        },
+      ];
+    }
+
+    // Physics questions
+    else if (subjectId.includes("physics")) {
+      return [
+        {
+          id: 1,
+          chapter: "Electrostatics",
+          topic: "Coulomb's Law",
+          question: "State and explain Coulomb's law in vector form.",
+          marks: 3,
+        },
+        {
+          id: 2,
+          chapter: "Current Electricity",
+          topic: "Kirchhoff's Laws",
+          question: "State and explain Kirchhoff's laws with examples.",
+          marks: 3,
+        },
+        {
+          id: 3,
+          chapter: "Ray Optics",
+          topic: "Total Internal Reflection",
+          question:
+            "Explain total internal reflection with conditions and applications.",
+          marks: 4,
+        },
+        {
+          id: 4,
+          chapter: "Dual Nature",
+          topic: "Photoelectric Effect",
+          question:
+            "Explain photoelectric effect and Einstein's photoelectric equation.",
+          marks: 5,
+        },
+        {
+          id: 5,
+          chapter: "Semiconductors",
+          topic: "PN Junction Diode",
+          question: "Explain the working of PN junction diode in forward bias.",
+          marks: 3,
+        },
+      ];
+    }
+
+    // Default fallback
     return [
       {
         id: 1,
-        chapter: "Quadratic Equations",
-        topic: "Nature of Roots",
-        question: "Find the nature of roots of equation x² - 5x + 6 = 0",
-        marks: 2,
+        chapter: "General",
+        topic: "Topic",
+        question: "Explain the concept with examples.",
+        marks: 3,
       },
       {
         id: 2,
-        chapter: "Quadratic Equations",
-        topic: "Word Problems",
-        question:
-          "The sum of squares of two consecutive positive integers is 365. Find the integers.",
-        marks: 3,
-      },
-      {
-        id: 3,
-        chapter: "Arithmetic Progressions",
-        topic: "nth Term",
-        question: "Find the 20th term of AP: 2, 7, 12, ...",
-        marks: 2,
-      },
-      {
-        id: 4,
-        chapter: "Arithmetic Progressions",
-        topic: "Sum of n terms",
-        question: "Find the sum of first 20 terms of AP: 5, 8, 11, ...",
-        marks: 3,
-      },
-      {
-        id: 5,
-        chapter: "Triangles",
-        topic: "Similar Triangles",
-        question:
-          "Prove that if a line is drawn parallel to one side of a triangle, it divides the other two sides in the same ratio.",
-        marks: 5,
-      },
-      {
-        id: 6,
-        chapter: "Circles",
-        topic: "Tangent Properties",
-        question:
-          "Prove that the tangent at any point of a circle is perpendicular to the radius through the point of contact.",
-        marks: 3,
-      },
-      {
-        id: 7,
-        chapter: "Some Applications of Trigonometry",
-        topic: "Heights and Distances",
-        question:
-          "The angle of elevation of the top of a tower from a point on the ground is 30°. If the observer moves 20m towards the tower, the angle becomes 60°. Find the height of the tower.",
+        chapter: "General",
+        topic: "Topic",
+        question: "Solve the given problem step by step.",
         marks: 4,
-      },
-      {
-        id: 8,
-        chapter: "Statistics",
-        topic: "Mean",
-        question:
-          "Find the mean of the following frequency distribution: Classes: 0-10, 10-20, 20-30, 30-40, 40-50; Frequencies: 5, 8, 15, 10, 2",
-        marks: 3,
       },
     ];
   };
@@ -131,14 +241,17 @@ const QuestionSelector = ({ subject, onSelect, onClose }) => {
     return true;
   });
 
-  // Get unique marks values for filter
-  const marksOptions = [
-    "all",
-    ...new Set(questions.map((q) => q.marks)),
-  ].sort();
+  // Get unique marks values
+  const marksOptions = ["all", ...new Set(questions.map((q) => q.marks))].sort(
+    (a, b) => {
+      if (a === "all") return -1;
+      if (b === "all") return 1;
+      return a - b;
+    },
+  );
 
   const handleQuestionSelect = (question) => {
-    onSelect(question.question || question.questionText, question.marks);
+    onSelect(question.question, question.marks);
   };
 
   return (
@@ -190,7 +303,7 @@ const QuestionSelector = ({ subject, onSelect, onClose }) => {
               WebkitTextFillColor: "transparent",
             }}
           >
-            🤖 AI Explanation
+            🤖 AI Explanation - {subject?.name}
           </h2>
           <button
             onClick={onClose}
@@ -231,6 +344,22 @@ const QuestionSelector = ({ subject, onSelect, onClose }) => {
             ({subject?.id})
           </span>
         </div>
+
+        {/* Error message if any */}
+        {error && (
+          <div
+            style={{
+              background: "#fee2e2",
+              border: "1px solid #ef4444",
+              color: "#b91c1c",
+              padding: "10px",
+              borderRadius: "8px",
+              marginBottom: "20px",
+            }}
+          >
+            ⚠️ Error: {error} - Using sample questions
+          </div>
+        )}
 
         {/* Filters */}
         <div
@@ -298,14 +427,11 @@ const QuestionSelector = ({ subject, onSelect, onClose }) => {
                 background: "white",
               }}
             >
-              <option value="all">⭐ All Marks</option>
-              {marksOptions
-                .filter((m) => m !== "all")
-                .map((marks) => (
-                  <option key={marks} value={marks}>
-                    {marks} Marks
-                  </option>
-                ))}
+              {marksOptions.map((marks) => (
+                <option key={marks} value={marks}>
+                  {marks === "all" ? "⭐ All Marks" : `${marks} Marks`}
+                </option>
+              ))}
             </select>
           </div>
         </div>
@@ -344,7 +470,9 @@ const QuestionSelector = ({ subject, onSelect, onClose }) => {
                   margin: "0 auto 20px",
                 }}
               />
-              <p style={{ color: "#64748b" }}>Loading important questions...</p>
+              <p style={{ color: "#64748b" }}>
+                Loading questions for {subject?.name}...
+              </p>
             </div>
           ) : (
             <div
@@ -380,6 +508,7 @@ const QuestionSelector = ({ subject, onSelect, onClose }) => {
                       display: "flex",
                       gap: "10px",
                       marginBottom: "8px",
+                      flexWrap: "wrap",
                     }}
                   >
                     <span
@@ -405,6 +534,19 @@ const QuestionSelector = ({ subject, onSelect, onClose }) => {
                     >
                       {q.chapter}
                     </span>
+                    {q.topic && (
+                      <span
+                        style={{
+                          background: "#e6f7ff",
+                          color: "#0066cc",
+                          padding: "4px 12px",
+                          borderRadius: "20px",
+                          fontSize: "12px",
+                        }}
+                      >
+                        {q.topic}
+                      </span>
+                    )}
                   </div>
                   <p
                     style={{
@@ -414,19 +556,8 @@ const QuestionSelector = ({ subject, onSelect, onClose }) => {
                       fontWeight: "500",
                     }}
                   >
-                    {q.question || q.questionText}
+                    {q.question}
                   </p>
-                  {q.topic && (
-                    <p
-                      style={{
-                        margin: "8px 0 0",
-                        fontSize: "13px",
-                        color: "#64748b",
-                      }}
-                    >
-                      📌 Topic: {q.topic}
-                    </p>
-                  )}
                 </div>
               ))}
             </div>
@@ -464,8 +595,9 @@ const QuestionSelector = ({ subject, onSelect, onClose }) => {
               minHeight: "80px",
               fontSize: "14px",
               resize: "vertical",
+              fontFamily: "inherit",
             }}
-            placeholder="Type your question here..."
+            placeholder={`Type your ${subject?.name} question here...`}
             value={customQuestion}
             onChange={(e) => setCustomQuestion(e.target.value)}
           />
@@ -492,7 +624,7 @@ const QuestionSelector = ({ subject, onSelect, onClose }) => {
           <button
             onClick={() => {
               if (customQuestion.trim()) {
-                onSelect(customQuestion, 3); // Default 3 marks for custom
+                onSelect(customQuestion, 3);
               } else {
                 alert("Please select or enter a question");
               }
@@ -501,12 +633,13 @@ const QuestionSelector = ({ subject, onSelect, onClose }) => {
               padding: "12px 30px",
               border: "none",
               borderRadius: "12px",
-              background: "linear-gradient(135deg, #2563eb 0%, #4f46e5 100%)",
-              color: "white",
-              cursor: "pointer",
+              background: customQuestion.trim()
+                ? "linear-gradient(135deg, #2563eb 0%, #4f46e5 100%)"
+                : "#cbd5e1",
+              color: customQuestion.trim() ? "white" : "#64748b",
+              cursor: customQuestion.trim() ? "pointer" : "not-allowed",
               fontWeight: "600",
               fontSize: "14px",
-              opacity: customQuestion.trim() ? 1 : 0.5,
             }}
             disabled={!customQuestion.trim()}
           >
@@ -516,14 +649,10 @@ const QuestionSelector = ({ subject, onSelect, onClose }) => {
       </div>
 
       {/* Add spin animation */}
-      <style jsx>{`
+      <style>{`
         @keyframes spin {
-          0% {
-            transform: rotate(0deg);
-          }
-          100% {
-            transform: rotate(360deg);
-          }
+          0% { transform: rotate(0deg); }
+          100% { transform: rotate(360deg); }
         }
       `}</style>
     </div>
